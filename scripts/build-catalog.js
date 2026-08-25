@@ -57,6 +57,9 @@ function classify(title) {
   // anywhere in the title, so that one check still uses the full string.
   if (/^TESTER\b/.test(t)) return 'exclude-tester';
   if (/^SPLASH\b/.test(t)) return 'exclude-splash';
+  // No ofrecemos servicio de decant (no se venden por separado en tamaños
+  // chicos tipo 10 ML), asi que se excluyen del catalogo del sitio.
+  if (/DECANT/.test(namePart)) return 'exclude-decant';
   if (/NI[ÑN]O|KIDS|MARVEL|SPIDERMAN/.test(t)) return 'exclude-kids';
   if (EXCLUDE_BRANDS.some(b => namePart.includes(b))) return 'exclude-budget';
   if (/^ESTUCHE|^SET\b/.test(t)) return 'estuche';

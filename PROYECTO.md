@@ -91,7 +91,7 @@ Sección nueva (`#catalogo-mayor`) debajo del catálogo destacado: buscador + fi
 ## Pendientes / próximos pasos
 
 1. **Precio BCV de Armaf Club de Nuit Urban Man Elixir** (uno de los 6 destacados) — el usuario nunca lo dio, solo el precio en divisas ($55,08).
-2. **Categorías que quedaron afuera a propósito:** testers, splash, perfumes de niños, marcas de imitación baratas (New Brand, Cuba, Fraglux, Macarena, etc.), y decants/nicho occidental (Xerjoff, Mancera, Creed decants sueltos). Si el usuario los quiere después, están en `scripts/catalog-unclassified.json` (gitignored, hay que re-correr el scraping) o simplemente se amplían las listas de marcas en `build-catalog.js`.
+2. **Categorías que quedaron afuera a propósito:** testers, splash, perfumes de niños, marcas de imitación baratas (New Brand, Cuba, Fraglux, Macarena, etc.), y **decants** (cualquier producto con "DECANT" en el nombre, ~140 en el catálogo del proveedor) — el usuario no ofrece servicio de decant, así que no le sirve mostrarlos (confirmado Agosto 2026). Si el usuario los quiere después, están en `scripts/catalog-unclassified.json` (gitignored, hay que re-correr el scraping) o simplemente se amplían/ajustan las reglas de `classify()` en `build-catalog.js`.
 4. El catálogo completo es una **foto fija** del proveedor al momento del scraping (Agosto 2026) — no se actualiza solo. Si los precios o el inventario del proveedor cambian, hay que volver a scrapear y correr `build-catalog.js`.
 
 ## Cómo agregar un producto individual al catálogo destacado (los 6 con foto)
