@@ -1,0 +1,38 @@
+[
+  {
+    "matchPattern": "AFNAN.*9\\s*PM.*NIGHT\\s*OUT",
+    "displayName": "Afnan 9pm Night Out",
+    "category": "arabe",
+    "decantSize": "10 ML"
+  },
+  {
+    "matchPattern": "ARMAF.*CLUB\\s*DE\\s*NUIT.*URBAN\\s*MAN.*ELIXIR",
+    "displayName": "Armaf Club de Nuit Urban Man Elixir",
+    "category": "arabe",
+    "decantSize": "10 ML"
+  },
+  {
+    "matchPattern": "LATTAFA.*PRIDE.*ART\\s*OF\\s*UNIVERSE",
+    "displayName": "Lattafa Pride Art of Universe",
+    "category": "arabe",
+    "decantSize": "10 ML"
+  },
+  {
+    "matchPattern": "HAWAS.*FIRE",
+    "displayName": "Hawas For Him — Fire",
+    "category": "arabe",
+    "decantSize": "10 ML"
+  },
+  {
+    "matchPattern": "HAWAS.*MALIBU",
+    "displayName": "Hawas For Him — Malibu",
+    "category": "arabe",
+    "decantSize": "10 ML"
+  },
+  {
+    "matchPattern": "ARMAF.*DUNESCAPE.*DUBAI",
+    "displayName": "Armaf Dunescape Dubai",
+    "category": "arabe",
+    "decantSize": "10 ML"
+  }
+]

@@ -152,13 +152,14 @@ function slugify(str) {
 }
 
 const usedIds = new Set();
+const keyToSiteItem = new Map();
 const siteData = curated
   .sort((a, b) => (bucketOrder[a.bucket] - bucketOrder[b.bucket]) || a.name.localeCompare(b.name))
   .map((item) => {
     let id = item.code || slugify(`${item.name}-${item.size}`);
     while (usedIds.has(id)) id += '-x';
     usedIds.add(id);
-    return {
+    const siteItem = {
       id,
       name: item.name,
       genero: item.genero ? item.genero.charAt(0) + item.genero.slice(1).toLowerCase() : '',
@@ -170,7 +171,58 @@ const siteData = curated
       priceBcv: item.finalBcv,
       image: item.image || ''
     };
+    keyToSiteItem.set(item.key, siteItem);
+    return siteItem;
   });
+
+// ---- Decants disponibles (registro manual en decant-registry.json, cruzado
+// contra el scraping mas reciente) ----
+// Si el proveedor tiene el perfume esta semana, el producto sale con su foto
+// y precio de botella completa reales + insignia de decant. Si no lo tiene
+// (agotado o descontinuado del lado del proveedor), el producto no
+// desaparece del sitio: se muestra como "Agotado" con solo el precio/tamaño
+// del decant, que si controla el usuario porque es su propio inventario.
+const DECANT_DEFAULT_PRICE = { arabe: 5, disenador: 7, nicho: 12 };
+const decantRegistry = JSON.parse(fs.readFileSync(path.join(__dirname, 'decant-registry.json'), 'utf8'));
+
+decantRegistry.forEach((entry) => {
+  const pattern = new RegExp(entry.matchPattern, 'i');
+  const liveMatch = results.find((r) =>
+    !r.bucket.startsWith('exclude-') && r.bucket !== 'unclassified' && r.bucket !== 'estuche' &&
+    pattern.test(r.rawTitle)
+  );
+  const decantPrice = entry.decantPrice != null ? entry.decantPrice : DECANT_DEFAULT_PRICE[entry.category];
+
+  if (liveMatch) {
+    const siteItem = keyToSiteItem.get(liveMatch.key);
+    if (siteItem) {
+      siteItem.decant = true;
+      siteItem.decantSize = entry.decantSize;
+      siteItem.decantPrice = decantPrice;
+      siteItem.agotado = false;
+    }
+  } else {
+    let id = 'decant-' + slugify(entry.displayName);
+    while (usedIds.has(id)) id += '-x';
+    usedIds.add(id);
+    siteData.unshift({
+      id,
+      name: entry.displayName,
+      genero: '',
+      size: '',
+      note: '',
+      category: entry.category,
+      categoryLabel: bucketLabel[entry.category],
+      priceUsd: null,
+      priceBcv: null,
+      image: '',
+      decant: true,
+      decantSize: entry.decantSize,
+      decantPrice,
+      agotado: true
+    });
+  }
+});
 
 const jsOut = `// Generado automaticamente por scripts/build-catalog.js a partir del
 // catalogo publico de Nestor Parfum (vercatalogo.com/nestor_parfum).

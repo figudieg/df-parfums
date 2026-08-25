@@ -29,13 +29,13 @@ dev-server.js   → servidor local Node puro (sin dependencias) SOLO para desarr
 vercel.json     → framework: null, fuerza deploy estático sin build
 assets/
   logo/         → logo.jpg (original), logo-white-nav.png (letras blancas, para el nav verde), logo-video.MP4
-  productos/    → 6 fotos de producto reales (1 a 6, nombradas por producto)
+  productos/    → vacía (se usó para las 6 fotos propias, eliminadas en Agosto 2026 al pasar todo a fotos del proveedor)
   data/
-    catalogo.js    → catálogo del proveedor (~900 productos, con foto), auto-generado, ver abajo
-    destacados.js  → los 6 productos con foto propia y decant disponible, se edita a mano
+    catalogo.js    → catálogo del proveedor (~900 productos, con foto y decants marcados), auto-generado, ver abajo
 scripts/
   scrape-catalog.js        → scraping con Playwright del catálogo en vivo del proveedor (titulo, precios, código, foto)
-  build-catalog.js         → genera assets/data/catalogo.js a partir del raw scrapeado (filtros de marca + fórmula de precio)
+  build-catalog.js         → genera assets/data/catalogo.js: filtros de marca + fórmula de precio + cruce con decant-registry.json
+  decant-registry.json     → lista corta a mano: qué perfumes tiene el usuario para decantar (ver sección de Catálogo)
   nestor-parfum-raw.json   → datos crudos de la última pasada de scraping (se regenera solo)
   catalog-curated.json     → resultado curado (los mismos que terminan en el sitio), para inspección
 .github/workflows/sync-catalog.yml → GitHub Action que corre el scraping+build todos los días y hace push si cambió algo
@@ -55,18 +55,24 @@ Para levantar el sitio localmente: `node dev-server.js` (sirve en `http://localh
 - **Hero:** una sola columna centrada (logo/video arriba, texto abajo, botones). Se probó un layout de grid en dos columnas y secciones alternadas verde/blanco, pero **el usuario pidió revertir todo eso** — solo se quedó el cambio de color del nav. No reintentar esos cambios a menos que el usuario lo pida de nuevo explícitamente.
 - El video del logo (`logo-video.MP4`) tiene su propio fondo "quemado" en el video — no se puede recolorear con CSS, solo se igualó el fondo del contenedor al crema de la página.
 
-## Catálogo (un solo sistema unificado, decants + inventario del proveedor)
+## Catálogo (un solo sistema unificado, con "decants" cruzados contra el proveedor)
 
-**Importante (Agosto 2026):** hasta hace poco había dos secciones separadas en la página — un grid de 6 tarjetas con foto propia (`.product-card`, hardcodeadas en `index.html`) y, debajo, el catálogo completo del proveedor (`.mini-card`). El usuario dijo explícitamente que **no le gustaba esa separación**, así que se fusionó todo en **un solo grid** bajo `#catalogo`. Si en el futuro alguien propone volver a separar "destacados" del resto, avisar que fue una decisión explícita del usuario, no un accidente.
+**Importante (Agosto 2026):** hasta hace poco había dos secciones separadas en la página, y luego un archivo `destacados.js` con fotos y precios fijados a mano para los productos con decant. **Ambas cosas se descartaron a pedido del usuario** — no le gustaba la separación visual, y además los precios a mano se desactualizaban (pasó con el Elixir). Si en el futuro alguien propone volver a alguna de esas dos formas, avisar que fueron decisiones explícitas del usuario, no accidentes.
 
-Cómo quedó:
-- Los 6 productos con foto propia viven ahora en `assets/data/destacados.js` (`window.DESTACADOS_DECANT`), **no en HTML** — cada uno con id, nombre, tamaño, precios, `image` (foto real en `assets/productos/`), `desc` (descripción) y `decant: true`. Este archivo se edita a mano; el scraping automático nunca lo toca.
-- `script.js` arma `allProducts = [...DESTACADOS_DECANT, ...CATALOGO_NESTOR]` y renderiza **todo con la misma tarjeta** (`.mini-card`). Los que tienen `decant: true` se ordenan siempre primero (dentro de "Todos" y dentro de su categoría) y llevan una insignia dorada "Decant". Hay un filtro extra `data-cat="decant"` para verlos solos.
-- Solo las tarjetas con `decant: true` son clicables para abrir el modal de detalle (foto grande + descripción + precios); las del catálogo del proveedor no tienen descripción propia, así que su única acción es el botón directo a WhatsApp — igual que antes.
-- **"Disponible en decant" sigue siendo una afirmación real solo sobre esos 6** — el usuario dijo explícitamente que hoy son los únicos que tiene físicamente a la mano para fraccionar; el resto del catálogo (proveedor) son botellas completas, nunca asumir que hay decant ahí.
+Cómo quedó (el sistema "decant + agotado"):
+- `scripts/decant-registry.json` es el único archivo que se edita a mano para esto: una lista corta de `{ matchPattern, displayName, category, decantSize, decantPrice? }` — el perfume que el usuario tiene físicamente para decantar, un patrón regex para reconocerlo en el scraping, y el tamaño/precio del decant (si no se especifica `decantPrice`, se usa el default de su categoría: `DECANT_DEFAULT_PRICE` en `build-catalog.js`, hoy `{ arabe: 5, disenador: 7, nicho: 12 }`).
+- **`build-catalog.js` cruza ese registro contra el scraping en cada corrida**, después de armar `siteData`:
+  - Si encuentra el perfume en el catálogo vigente del proveedor → le agrega `decant: true`, `decantSize`, `decantPrice`, `agotado: false` al producto real (que ya trae su foto y precio de botella completa actualizados, como cualquier otro).
+  - Si **no** lo encuentra (el proveedor no lo tiene esta semana como botella completa) → se sintetiza una entrada con `agotado: true`, sin foto ni precio de botella (esos datos no existen), solo el `decantSize`/`decantPrice` del registro. El producto no desaparece del sitio.
+- Esto es 100% automático de ahí en adelante: si el usuario consigue un perfume nuevo para decantar, solo agrega una línea a `decant-registry.json` — no hay que tocar fotos ni precios nunca, ni preocuparse de que el proveedor dejó de tenerlo (pasa a mostrarse "Agotado" solo, y vuelve a mostrar precio de botella si el proveedor lo recupera).
+- `script.js` ya no mezcla dos fuentes de datos — todo sale de `window.CATALOGO_NESTOR` (`assets/data/catalogo.js`) directo. Los `decant: true` se ordenan siempre primero (dentro de "Todos" y dentro de su categoría) y llevan insignia dorada "Decant". Hay un filtro extra `data-cat="decant"` para verlos solos.
+- **Estado agotado:** en la tarjeta se ve una insignia gris "Agotado" en vez del precio de botella, más un chip dorado con el precio/tamaño del decant. El botón de WhatsApp cambia su mensaje para pedir el decant específicamente (no la botella completa) — confirmado con el usuario que así debe ser.
+- **Ya no hay modal de detalle** (foto grande + descripción) — se eliminó junto con `destacados.js` porque ningún producto (ni los del proveedor ni los decant) tiene descripción curada a mano. Todas las tarjetas usan solo el botón directo a WhatsApp.
 - Precios: `$65,08` con coma no se usa en la UI — `fmtPrice()` en `script.js` usa punto decimal (`$55.08`), así ha sido siempre en el catálogo grande, no es un bug nuevo.
+- **Estado real a Agosto 2026:** de los 6 perfumes que el usuario tiene para decantar, solo "Hawas For Him Malibu" (aparece como "Rasari Hawas Malibu" en el proveedor) coincidió con el catálogo vigente. Los otros 5 (Afnan 9pm Night Out, Armaf Club de Nuit Urban Man Elixir, Lattafa Pride Art of Universe, Hawas Fire, Armaf Dunescape Dubai) están marcados "Agotado" porque el proveedor no los tiene con esos nombres ahora mismo — puede que reaparezcan solos si el proveedor los repone, o que haya que ajustar el `matchPattern` en `decant-registry.json` si en realidad están con otro nombre.
+- **Precio de decant por categoría (recomendación aplicada, ajustable):** Árabes $5, Diseñador $7, Nicho $12 — la idea es que el precio del decant escale con el precio típico de la botella completa de esa categoría. El usuario mencionó a futuro combos tipo "3 decants por $15" (para promocionar en TikTok) — **eso es una función aparte, no implementada todavía**, pendiente si la pide.
 
-Cada tarjeta del grid unificado muestra foto (real para los 6, del proveedor para el resto — con fondo degradado sutil en dorado/verde en vez de blanco plano), categoría, nombre, género/tamaño, nota "similar a X" si aplica (con altura reservada aunque no haya nota, para que todas las tarjetas de una fila midan igual), ambos precios (ahora estandarizados: USD con fondo verde sólido, BCV con chip dorado claro, mismo tamaño y peso de fuente en ambos para que se lean igual de bien), y botón de WhatsApp — todo generado dinámicamente en `script.js`.
+Cada tarjeta del grid unificado muestra foto (del proveedor, o vacía si está agotado), categoría, nombre, género/tamaño (o "Decant disponible · {tamaño}" si está agotado), nota "similar a X" si aplica (con altura reservada aunque no haya nota, para que todas las tarjetas de una fila midan igual), precio (USD con fondo verde sólido + BCV con chip dorado claro, o el precio de decant en chip dorado si está agotado), y botón de WhatsApp — todo generado dinámicamente en `script.js`.
 
 **Origen de los datos y auto-sync (Agosto 2026):** el catálogo del proveedor (`vercatalogo.com/nestor_parfum/products/by-all/all`) es un sitio Angular que carga los productos por lotes al hacer click en "Ver mas", con fotos en lazy-load. Un GitHub Action programado (`.github/workflows/sync-catalog.yml`, corre todos los días a las 9am hora Venezuela + se puede disparar a mano desde la pestaña Actions del repo) usa Playwright (`scripts/scrape-catalog.js`) para abrir esa página con un navegador real, clickear "Ver mas" hasta cargar todo, hacer scroll para disparar el lazy-load de fotos, y extraer título + precio + BCV + código único de producto + URL de foto de cada `.card`. Con eso regenera `scripts/nestor-parfum-raw.json` y corre `scripts/build-catalog.js`, que aplica la fórmula de precio y filtros de marca (ver abajo) y reescribe `assets/data/catalogo.js`. Si algo cambió, el workflow hace commit y push directo a `main`, lo que dispara el deploy automático de Vercel — es decir, el sitio se actualiza solo, sin que nadie tenga que correr nada a mano.
 - **Cómo se detectan productos que el proveedor ya no tiene:** cada producto usa como `id` el código único que el proveedor le asigna internamente (`.codigo-producto` en su HTML, ej. `"yeelpa7cuvn"`), no un slug del nombre. Como el scraping siempre trae el catálogo completo y vigente, un producto que el proveedor quitó simplemente no aparece en la nueva pasada y desaparece de `catalogo.js` — no hace falta lógica de diff aparte.
@@ -89,27 +95,26 @@ Cada tarjeta del grid unificado muestra foto (real para los 6, del proveedor par
 2. **Categorías que quedaron afuera a propósito:** testers, splash, perfumes de niños, marcas de imitación baratas (New Brand, Cuba, Fraglux, Macarena, etc.), y **decants** (cualquier producto con "DECANT" en el nombre, ~140 en el catálogo del proveedor) — el usuario no ofrece servicio de decant, así que no le sirve mostrarlos (confirmado Agosto 2026). Si el usuario los quiere después, están en `scripts/catalog-unclassified.json` (gitignored, hay que re-correr el scraping) o simplemente se amplían/ajustan las reglas de `classify()` en `build-catalog.js`.
 4. El catálogo completo es una **foto fija** del proveedor al momento del scraping (Agosto 2026) — no se actualiza solo. Si los precios o el inventario del proveedor cambian, hay que volver a scrapear y correr `build-catalog.js`.
 
-## Cómo agregar un producto individual con decant (foto propia)
+## Cómo agregar/quitar un perfume disponible para decant
 
-**No se edita HTML.** Se agrega un objeto al array `window.DESTACADOS_DECANT` en `assets/data/destacados.js`:
+**No se edita HTML ni JS, ni se necesita foto propia.** Se agrega un objeto a `scripts/decant-registry.json`:
 
-```js
+```json
 {
-  id: 'destacado-marca-nombre',        // unico, minusculas, guiones
-  name: 'Marca Nombre',                 // marca incluida en el nombre, igual que el catalogo grande
-  genero: '',                           // opcional, ej. 'Caballero' / 'Dama' / 'Unisex'
-  size: 'Tipo · tamaño',
-  note: '',
-  category: 'arabe',                    // 'arabe' | 'disenador' | 'nicho' | 'estuche'
-  categoryLabel: 'Árabes',
-  priceUsd: 65,                         // numero, no string
-  priceBcv: 80,                         // o null si todavia no se sabe
-  image: 'assets/productos/archivo.jpg',
-  decant: true,
-  desc: 'Descripción corta del aroma.'
+  "matchPattern": "MARCA.*NOMBRE.*DEL.*PERFUME",
+  "displayName": "Marca Nombre Del Perfume",
+  "category": "arabe",
+  "decantSize": "10 ML",
+  "decantPrice": 5
 }
 ```
 
-Foto real del producto va en `assets/productos/`. No hace falta tocar `index.html` ni `script.js` — el render, el badge "Decant", el orden (siempre primero) y el modal de detalle salen solos de ese objeto.
+- `matchPattern`: regex case-insensitive para reconocer el producto en el título crudo del proveedor (ej. `"LATTAFA SHEIKH AL SHUYUKH FINAL EDITION EAU DE PARFUM"`). Mientras más específico, mejor — evita que matchee un producto distinto por accidente. Si no estás seguro del texto exacto, revisar `scripts/nestor-parfum-raw.json` después del último scraping.
+- `displayName`: como se muestra en el sitio **solo si el proveedor no lo tiene** (estado "Agotado"). Si el proveedor sí lo tiene, se usa el nombre real del proveedor (ya title-cased).
+- `category`: `arabe` | `disenador` | `nicho` (no aplica `estuche` para decants).
+- `decantSize`: texto libre, ej. `"10 ML"`.
+- `decantPrice`: opcional — si se omite, usa el default de la categoría (`DECANT_DEFAULT_PRICE` en `build-catalog.js`).
 
-Para el resto del catálogo (proveedor, sin decant), **tampoco se edita a mano** — corre solo todos los días (ver sección de auto-sync arriba). Si hay que ajustar qué marcas entran, se edita `scripts/build-catalog.js`.
+Después de editar el archivo hay que volver a correr `node scripts/build-catalog.js` (o esperar la próxima corrida automática) para que se refleje. Para quitar un perfume de decant disponible, simplemente se borra su entrada del JSON — si el producto sigue en el catálogo del proveedor, vuelve a mostrarse normal, sin insignia.
+
+Para el resto del catálogo (proveedor, sin decant), tampoco se edita a mano — corre solo todos los días (ver sección de auto-sync arriba). Si hay que ajustar qué marcas entran, se edita `scripts/build-catalog.js`.
