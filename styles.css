@@ -307,7 +307,7 @@ a { text-decoration: none; color: inherit; }
 .catalogo { padding: 40px 0 100px; }
 
 /* ---------- Precios (compartido) ---------- */
-.price-usd, .price-bcv, .price-decant {
+.price-usd, .price-bcv {
   font-family: 'Playfair Display', serif;
   font-size: 16px;
   font-weight: 700;
@@ -328,12 +328,7 @@ a { text-decoration: none; color: inherit; }
   border: 1px solid rgba(184, 150, 95, 0.4);
 }
 
-.price-decant {
-  background: var(--gold);
-  color: var(--white);
-}
-
-.price-usd em, .price-bcv em, .price-decant em {
+.price-usd em, .price-bcv em {
   font-family: 'Inter', sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -630,7 +625,7 @@ a { text-decoration: none; color: inherit; }
   margin: 12px 0 12px;
 }
 
-.mini-card-prices .price-usd, .mini-card-prices .price-bcv, .mini-card-prices .price-decant {
+.mini-card-prices .price-usd, .mini-card-prices .price-bcv {
   font-size: 13px;
   padding: 5px 12px;
 }
@@ -644,6 +639,18 @@ a { text-decoration: none; color: inherit; }
   letter-spacing: 0.05em;
   color: var(--text-soft);
   background: var(--tint);
+  padding: 6px 12px;
+  border-radius: 999px;
+}
+
+.badge-decant-available {
+  display: inline-flex;
+  align-items: center;
+  font-size: 11.5px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: var(--white);
+  background: var(--gold);
   padding: 6px 12px;
   border-radius: 999px;
 }
