@@ -3,7 +3,7 @@ const path = require('path');
 
 const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'nestor-parfum-raw.json'), 'utf8'));
 
-// Brands that fit "arabe de nicho" positioning
+// Arabes: rama de perfumeria arabe/oriental
 const ARABE_BRANDS = [
   'LATTAFA', 'ARMAF', 'AFNAN', 'RASASI', 'HAWAS', 'AL HARAMAIN', 'ORIENTICA',
   'MAISON ALHAMBRA', 'BHARARA', 'FRENCH AVENUE', 'EMPER', 'SWISS ARABIAN',
@@ -12,7 +12,7 @@ const ARABE_BRANDS = [
   "L'HAYA", "L' HAYA", "L ' HAYA"
 ];
 
-// Recognized designer / prestige (and Western niche-luxury) brands
+// Diseñador: marcas de moda / prestigio mainstream (venta masiva, department stores)
 const DESIGNER_BRANDS = [
   'VERSACE', 'TOM FORD', 'DOLCE', 'VALENTINO', 'HUGO BOSS', 'JEAN PAUL GAULTIER',
   'CAROLINA HERRERA', 'CAROLINA HERREARA', 'PACO RABANNE', 'LACOSTE', 'CALVIN KLEIN',
@@ -29,9 +29,15 @@ const DESIGNER_BRANDS = [
   'KENNETH COLE', 'LOUIS VUITTON', 'MARC JACOBS', 'MOSCHINO', 'NINA RICCI',
   'PERRY ELLIS', 'PHILIPP PLEIN', 'TED LAPIDUS', 'TOUS', 'ÓSCAR DE', 'OSCAR DE',
   "VICTORIA'S SECRET", 'VICTIRIA\'S SECRET', 'BALDESSARINI', 'BENTLEY', 'BOND NRO',
-  'LIZ CLAIBORNE', 'LOLITA LEMPICKA', 'LAGERFELD', 'POLICE', 'LE LABO',
-  'PARFUMS DE MARLY', 'MARLY', "TERRE D'", 'CREED', 'BYREDO', 'MANCERA',
+  'LIZ CLAIBORNE', 'LOLITA LEMPICKA', 'LAGERFELD', 'POLICE', "TERRE D'",
   'YVES SAINT LAUREN'
+];
+
+// Nicho: casas de perfumeria de nicho occidental (indie/artesanal, no venta
+// masiva) -- rama separada de "Diseñador", no la misma cosa.
+const NICHE_BRANDS = [
+  'LE LABO', 'PARFUMS DE MARLY', 'MARLY', 'CREED', 'BYREDO', 'MANCERA',
+  'XERJOFF', 'MONTALE'
 ];
 
 // Budget/clone-only brands to exclude even though numerous
@@ -55,6 +61,7 @@ function classify(title) {
   if (EXCLUDE_BRANDS.some(b => namePart.includes(b))) return 'exclude-budget';
   if (/^ESTUCHE|^SET\b/.test(t)) return 'estuche';
   if (/\(\s*ÁRABE\s*\)|\(\s*ARABE\s*\)/.test(t) || ARABE_BRANDS.some(b => namePart.includes(b))) return 'arabe';
+  if (NICHE_BRANDS.some(b => namePart.includes(b))) return 'nicho';
   if (DESIGNER_BRANDS.some(b => namePart.includes(b))) return 'disenador';
   return 'unclassified';
 }
@@ -123,7 +130,7 @@ const results = raw.map((item) => {
 const counts = {};
 results.forEach(r => { counts[r.bucket] = (counts[r.bucket] || 0) + 1; });
 
-const curatedBuckets = ['arabe', 'disenador', 'estuche'];
+const curatedBuckets = ['arabe', 'disenador', 'nicho', 'estuche'];
 const curated = results.filter(r => curatedBuckets.includes(r.bucket));
 const unclassified = results.filter(r => r.bucket === 'unclassified');
 
@@ -132,8 +139,8 @@ fs.writeFileSync(path.join(__dirname, 'catalog-curated.json'), JSON.stringify(cu
 fs.writeFileSync(path.join(__dirname, 'catalog-unclassified.json'), JSON.stringify(unclassified.map(u => u.rawTitle), null, 2));
 
 // ---- Site-ready data file ----
-const bucketOrder = { arabe: 0, disenador: 1, estuche: 2 };
-const bucketLabel = { arabe: 'Árabe de nicho', disenador: 'Diseñador', estuche: 'Estuche' };
+const bucketOrder = { arabe: 0, disenador: 1, nicho: 2, estuche: 3 };
+const bucketLabel = { arabe: 'Árabes', disenador: 'Diseñador', nicho: 'Nicho', estuche: 'Estuche' };
 
 function slugify(str) {
   return str.toLowerCase()

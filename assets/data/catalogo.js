@@ -11,7 +11,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-656f417d1a4e2-nestor_parfum-yeelpa7cuvn-e0nuo9xvam.png"
@@ -23,7 +23,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Giorgio Armani My Way",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-652db07e04807-nestor_parfum-gl7lysaor6-ub53bczof6f.png"
@@ -35,7 +35,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Flamenco Ramon Monegal",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4e6b68e22a-nestor_parfum-6f3rrjzbsj3-mgrbfo9v1jp.png"
@@ -47,7 +47,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Yves Saint Lauren Black Opium Over Redde Angelique",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66ccf50923be9-nestor_parfum-hmz9b6m4m5-htdtptzjj8g.png"
@@ -59,7 +59,7 @@ window.CATALOGO_NESTOR = [
     "size": "150 ML",
     "note": "Similar Al Black Gold OUD For Greatness",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 58.5,
     "priceBcv": 70.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-652db2f1525b6-nestor_parfum-waehljrhfv9-uq11psc24.png"
@@ -71,7 +71,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Amouage Interlude",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-684f3c3779ba1-nestor_parfum-5dwk8kldkp4-w30p1yirwdi.png"
@@ -83,7 +83,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-652db3ade9167-nestor_parfum-v9vv3vkeiy-ebug9wc528j.png"
@@ -95,7 +95,7 @@ window.CATALOGO_NESTOR = [
     "size": "60 ML",
     "note": "Similar A Parfums De Marly Layton",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 94.5,
     "priceBcv": 113.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c6c89b345-_nestor_parfum-rji4xco0kzl-jsbfpln2xy9.png"
@@ -107,7 +107,7 @@ window.CATALOGO_NESTOR = [
     "size": "120 ML",
     "note": "Similar Al Gucci Bloom",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 118.13,
     "priceBcv": 141.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6533fd43ae530-nestor_parfum-llp5dd5ysv-i8o8k5u47qe.png"
@@ -119,7 +119,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Layton Exclusif De Parfums De Marly",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6754a9f9a4df3-nestor_parfum-e3bt0iomtat-v2qspeq7pm.png"
@@ -131,7 +131,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Montale Arabians Tonka",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 79.88,
     "priceBcv": 95.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66f42100ad284-nestor_parfum-7l6vsu1gkot-i2uv5q3wca9.png"
@@ -143,7 +143,7 @@ window.CATALOGO_NESTOR = [
     "size": "200 ML",
     "note": "Similar Al Creed Silver Mountain Water",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 84.38,
     "priceBcv": 101.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66bbc645a4d60-nestor_parfum-tlgr316o7wh-3mabjavmnc4.png"
@@ -155,7 +155,7 @@ window.CATALOGO_NESTOR = [
     "size": "100ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 77.63,
     "priceBcv": 93.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63f7cb22b5811-nestor_parfum-hstwjiavmai-2xljy7v8cy7.png"
@@ -167,7 +167,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Tom Ford Tuscan Leather",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 73.13,
     "priceBcv": 87.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d21a2532f-_nestor_parfum-cbg5zi2agmk-1tz2c03lvee.png"
@@ -179,7 +179,7 @@ window.CATALOGO_NESTOR = [
     "size": "75 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 133.88,
     "priceBcv": 160.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c3803456c-_nestor_parfum-vf6sprl6c3e-s62jk2ykb5.png"
@@ -191,7 +191,7 @@ window.CATALOGO_NESTOR = [
     "size": "18 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 160.88,
     "priceBcv": 193.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63ea65f0d37e1-nestor_parfum-oo3c8zuk62-f2ogfqpvex.png"
@@ -203,7 +203,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 150.75,
     "priceBcv": 180.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67afdbc04b4dd-nestor_parfum-bv2788offq4-zi43yo3eiip.png"
@@ -215,7 +215,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 20.25,
     "priceBcv": 24.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687af375c414a-nestor_parfum-z66exgd6d8g-klhvoa1eyjf.png"
@@ -227,7 +227,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "Similar A Parfums De Marly Layton",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 101.25,
     "priceBcv": 121.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c32160605-__nestor_parfum-tmoooepyof-1tr1jyw2h1s.png"
@@ -239,7 +239,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "Similar Al Maison Francis Kurkdjian Paris Gent",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 94.5,
     "priceBcv": 113.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c57a446eb-_nestor_parfum-syur5vbweq-ssircss9sjd.png"
@@ -251,7 +251,7 @@ window.CATALOGO_NESTOR = [
     "size": "60 ML",
     "note": "Similar Al Layton De Marly",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 81,
     "priceBcv": 97.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb1f153e9-_nestor_parfum-lpir1gylb0b-ifetzkqpo9.png"
@@ -263,7 +263,7 @@ window.CATALOGO_NESTOR = [
     "size": "60ML",
     "note": "Similar A Parfums De Marly Kalan",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 114.75,
     "priceBcv": 137.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cd759c4cd-_nestor_parfum-icyfwzxfjk-t2lrvvd7ezg.png"
@@ -275,7 +275,7 @@ window.CATALOGO_NESTOR = [
     "size": "75 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 132.75,
     "priceBcv": 159.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d490ac40c-_nestor_parfum-9ea5l15epu9-g9dnx59qpfc.png"
@@ -287,7 +287,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c534f5252-nestor_parfum-mt475p1syo-xbrbi984nnn.png"
@@ -299,7 +299,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 64.13,
     "priceBcv": 76.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198c27c0fd6-nestor_parfum-c04rrrpeqb8-wmp4yihq40d.png"
@@ -311,7 +311,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c76783f13-nestor_parfum-wi8j1ykoelk-m63nx506s7.png"
@@ -323,7 +323,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 70.88,
     "priceBcv": 85.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198c2805b24-nestor_parfum-pp5thnlnbj-5xin2ga45ca.png"
@@ -335,7 +335,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Roja Dove London Amber Pox Parfums",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 49.5,
     "priceBcv": 59.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68114c9696078-nestor_parfum-ibpo4pnpq8d-7qjs6iccavh.png"
@@ -347,7 +347,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar A Christian Dior Sauvage Elixir",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67d491dc07fa2-nestor_parfum-88wabrfkgsp-43e904vnol8.png"
@@ -359,7 +359,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 64.13,
     "priceBcv": 76.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683bd7d4af8a7-nestor_parfum-wxm3hnmphkq-ufl8tgyaj1s.png"
@@ -371,7 +371,7 @@ window.CATALOGO_NESTOR = [
     "size": "200 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 13.5,
     "priceBcv": 16.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ac6b62133-nestor_parfum-vq1ybmr30p-y4urj7mv07.png"
@@ -383,7 +383,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f518fdc8f-nestor_parfum-brf524pd0np-x9ljkrxux1h.png"
@@ -395,7 +395,7 @@ window.CATALOGO_NESTOR = [
     "size": "75 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 73.13,
     "priceBcv": 87.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b3d47bb6c-nestor_parfum-z7qcea11g8-qrb1lql91vq.png"
@@ -407,7 +407,7 @@ window.CATALOGO_NESTOR = [
     "size": "105 ML",
     "note": "Parfums Delina De Parfums",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-662674ad7b17b-nestor_parfum-bemfdf0igz7-ajv793w9hlq.png"
@@ -419,7 +419,7 @@ window.CATALOGO_NESTOR = [
     "size": "105 ML",
     "note": "Similar Al Creed Aventus",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb0179d48-_nestor_parfum-lubxzd5whfa-v484ecvyim.png"
@@ -431,7 +431,7 @@ window.CATALOGO_NESTOR = [
     "size": "105 ML",
     "note": "Similar Al Creed Millesime Imperial",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 52.88,
     "priceBcv": 63.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d5cb13c7f-__nestor_parfum-7d8xzodijln-mklkimyt18.png"
@@ -443,7 +443,7 @@ window.CATALOGO_NESTOR = [
     "size": "105 ML",
     "note": "Similar Al Creed Silver Mountain",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 54,
     "priceBcv": 64.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4caf456e82-__nestor_parfum-m09syy0vo8a-b01fr3uldkd.png"
@@ -455,7 +455,7 @@ window.CATALOGO_NESTOR = [
     "size": "105 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 63,
     "priceBcv": 75.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-655d31fd66502-nestor_parfum-1l6mfyen0vm-3w4og8opubw.png"
@@ -467,7 +467,7 @@ window.CATALOGO_NESTOR = [
     "size": "105 ML",
     "note": "Similar Al Burberry Mr",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d2e31fa03-_nestor_parfum-bc2zf316aed-kypfvb0y4li.png"
@@ -479,7 +479,7 @@ window.CATALOGO_NESTOR = [
     "size": "75 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b2489b6-nestor_parfum-1t89o39miwr-frmygy220i.png"
@@ -491,7 +491,7 @@ window.CATALOGO_NESTOR = [
     "size": "75 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b2673c2-nestor_parfum-cz5g0hfp3rg-fk791bfp177.png"
@@ -503,7 +503,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d74b1adbe-nestor_parfum-ylwzf17f5vr-o4fx640ad.png"
@@ -515,7 +515,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "Similar Al Chanel #1 L'eau Rouge",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6808172b71217-nestor_parfum-h1c68jmm6z-wa7ei50wbrm.png"
@@ -527,7 +527,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d74b33900-nestor_parfum-ivfnp0lv79h-fuaqq0eywvj.png"
@@ -539,7 +539,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a0212e78de-nestor_parfum-n7uxtbplf0i-rvvxlieoqfr.png"
@@ -551,7 +551,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a0212fa833-nestor_parfum-nwxf9khl62-575nizjxx6n.png"
@@ -563,7 +563,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a021310eda-nestor_parfum-t0eum4up28g-rhvpwha0ml8.png"
@@ -575,7 +575,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a024673f90-nestor_parfum-3mno8ojkimx-ntuj37hi8hg.png"
@@ -587,7 +587,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 49.5,
     "priceBcv": 59.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19aa73826d4-nestor_parfum-xwp3t1jj2ua-v1x4nl7bq1.png"
@@ -599,7 +599,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar A Burberry Her Elixir",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-676af7645582b-nestor_parfum-dcnn9lertpm-3vibnvwg1b4.png"
@@ -611,7 +611,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a557662d2-nestor_parfum-y031318lqu9-97q6ph98qcr.png"
@@ -623,7 +623,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Tom Ford Noir Extreme",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c28698019-_nestor_parfum-x63fcwocef-7mzv6hvjdgl.png"
@@ -635,7 +635,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 63,
     "priceBcv": 75.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c8822f255-nestor_parfum-evqexky783c-wrt8q9k3tq.png"
@@ -647,7 +647,7 @@ window.CATALOGO_NESTOR = [
     "size": "200 ML",
     "note": "Similar Al Yves Saint Laurent Y EDP",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 54,
     "priceBcv": 64.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66bfedd9a8e82-nestor_parfum-5gcp4k5ixim-bxjhbfrbucl.png"
@@ -659,7 +659,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 63,
     "priceBcv": 75.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199058dcd61-nestor_parfum-n43vfxgvn-z2x26tajib8.png"
@@ -671,7 +671,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 63,
     "priceBcv": 75.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e0ec2f02e-nestor_parfum-fy19wvvho75-vtdo55xmg.png"
@@ -683,7 +683,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Bvlgari Tygar",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-646d2bbc8c9c9-nestor_parfum-vasi4ylfjr-q6hsv28hce.png"
@@ -695,7 +695,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 54,
     "priceBcv": 64.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f2460de24-nestor_parfum-ehenlep3mg-zxftvvked9e.png"
@@ -707,7 +707,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 81,
     "priceBcv": 97.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f3b32c4d5-nestor_parfum-aj2ssi8mpp5-bno7uykxm98.png"
@@ -719,7 +719,7 @@ window.CATALOGO_NESTOR = [
     "size": "68 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 77.63,
     "priceBcv": 93.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a9d31224e-nestor_parfum-prneu30e0is-ohlrof942o.png"
@@ -731,7 +731,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML (SIMILAR AL VKCTOR&ROLF SPICEBOOM NIGHT VISION EDP",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 104.63,
     "priceBcv": 125.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be331b1b3c9-nestor_parfum-j1zxghg0o9l-9cd9lzmhs8v.png"
@@ -743,7 +743,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Bvlgari Tygar",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 104.63,
     "priceBcv": 125.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be34572afbf-nestor_parfum-rjm5e6qqjy-93pyx8fhjeu.png"
@@ -755,7 +755,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Viktor&rolf Spicebomb Night",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 104.63,
     "priceBcv": 125.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be35fb19cde-nestor_parfum-ygh4pjl4utj-y9mqw3mjy2p.png"
@@ -767,7 +767,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c20ae5aaf-_nestor_parfum-xzvuz4y6g0f-fyvwbpmgscs.png"
@@ -779,7 +779,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19aad94c3de-nestor_parfum-18kbmiy0son-wa39cgkziaj.png"
@@ -791,7 +791,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Creed Wind Flower",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 63,
     "priceBcv": 75.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6866ea4c96d9b-nestor_parfum-9cn2fqdic7n-re5kkxjjo6r.png"
@@ -803,7 +803,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Bleu De Chanel",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d1eb41e0a-__nestor_parfum-ci3g2fe10hh-655ckyx6xm4.png"
@@ -815,7 +815,7 @@ window.CATALOGO_NESTOR = [
     "size": "100ML",
     "note": "Similar Al Parfums De Marly Herot",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-685dae26d1eab-nestor_parfum-thqtlcdu35-7ulcnnrhx9u.png"
@@ -827,7 +827,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Xerjoff Erba Gold",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67cf196b4c9bf-nestor_parfum-jiq3nhhxqzn-4cx1whqo90b.png"
@@ -839,7 +839,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a015a00b2e-nestor_parfum-b8zax3zmyr-0lhykgup23un.png"
@@ -851,7 +851,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Xerjoff Erba Pura",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ffbaa8b0e5-nestor_parfum-4fmkqlifi5t-3gg9rgzf343.png"
@@ -863,7 +863,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e610ee37d-nestor_parfum-8skn3u7arr7-5cxv7lohdf6.png"
@@ -875,7 +875,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e60fbcf37-nestor_parfum-dbhstooqak-825jg9ii67m.png"
@@ -887,7 +887,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a015a4b411-nestor_parfum-0jt5k8m3rzmd-nmus6vtdu5g.png"
@@ -899,7 +899,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e610d5ecb-nestor_parfum-549oywg1xnu-bkr0m2aanei.png"
@@ -911,7 +911,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a015a61b73-nestor_parfum-y8kysa0uvom-watel6srf3j.png"
@@ -923,7 +923,7 @@ window.CATALOGO_NESTOR = [
     "size": "100ML",
     "note": "Similar Al Sauvage Elixir De Dior",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675215b8983bf-nestor_parfum-opa1ij0dqq-2twtrb1pdrn.png"
@@ -935,7 +935,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6790123fa4ee6-nestor_parfum-oybvxcpwhdn-v72fctfzqzj.png"
@@ -947,7 +947,7 @@ window.CATALOGO_NESTOR = [
     "size": "100ML",
     "note": "Similar Al Delina De Parfums De Marly",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675216df5fe11-nestor_parfum-4l4iq6vskqg-3yu2uviaqxd.png"
@@ -959,7 +959,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e6110df74-nestor_parfum-9h6q3n27hf7-1dfzzfuz1c2.png"
@@ -971,7 +971,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e611001f0-nestor_parfum-94oc9p3rb7a-g764bnwpd9c.png"
@@ -983,7 +983,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Chanel Allure Sport",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-656f4845b7b8b-nestor_parfum-ke9zfebme9m-9ny6y5z2yaa.png"
@@ -995,7 +995,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f80f5d801-nestor_parfum-94z1l1rvtrt-7v08o311izr.png"
@@ -1007,7 +1007,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 97.88,
     "priceBcv": 117.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68642d927589d-nestor_parfum-e21171s5m5c-t8qzo7d99h.png"
@@ -1019,7 +1019,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d778362f6-nestor_parfum-doh6a8gpcd-25jvm5qed8y.png"
@@ -1031,7 +1031,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 84.38,
     "priceBcv": 101.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fcb4179c-nestor_parfum-lniyld58mn-lm3rwh48nc.png"
@@ -1043,7 +1043,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f4c836c40-nestor_parfum-sc546dazghn-j7kaj9m1k2l.png"
@@ -1055,7 +1055,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 108,
     "priceBcv": 129.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-656b31b9dd728-nestor_parfum-m2ztf27pe8-qdekmul7m5o.png"
@@ -1067,7 +1067,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 101.25,
     "priceBcv": 121.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6794268a862de-nestor_parfum-lb7h6lrvk49-tszfckk1m1p.png"
@@ -1079,7 +1079,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Tribeca De Bond No 9",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 118.13,
     "priceBcv": 141.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-656b478385192-nestor_parfum-t8pwh08hkh-b366nhawy8c.png"
@@ -1091,7 +1091,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 16.88,
     "priceBcv": 20.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d1754f8ac-__nestor_parfum-d2tfegrysxv-wzeo0fp8nym.png"
@@ -1103,7 +1103,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 16.88,
     "priceBcv": 20.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d017954f0-_nestor_parfum-evga4oamfz7-osufksawdk.png"
@@ -1115,7 +1115,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a0154df4c4-nestor_parfum-f9ugr9e3kmt-m250paynbuc.png"
@@ -1127,7 +1127,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Gourmand",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a0155b01ea-nestor_parfum-617z3a3mszu-kv3ltjm8gg.png"
@@ -1139,7 +1139,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e6115b40d-nestor_parfum-9coxwfzxcm7-frljxkgimo.png"
@@ -1151,7 +1151,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Dior Sauvage",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a01557769f-nestor_parfum-keey1jizvaf-lzg341l99e8.png"
@@ -1163,7 +1163,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a0155e6562-nestor_parfum-l0oiton8xi-v800lprqtt.png"
@@ -1175,7 +1175,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e6113fabb-nestor_parfum-8lpv00c36i4-686gcjxs6b.png"
@@ -1187,7 +1187,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e61176881-nestor_parfum-vosjh3jlqus-hk6wcu0y1fu.png"
@@ -1199,7 +1199,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a675524454-nestor_parfum-hm3dabh3lk6-1hnx53ml5or.png"
@@ -1211,7 +1211,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 7.88,
     "priceBcv": 9.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a6d92cd3f7-nestor_parfum-m7p0x0q6p-glb5g36ajhk.png"
@@ -1223,7 +1223,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 7.88,
     "priceBcv": 9.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ad45139032-nestor_parfum-qllneyro8t-wqac3glfvgj.png"
@@ -1235,7 +1235,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Xerjoff Erba Pura",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 14.63,
     "priceBcv": 17.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a6eca1c4d9-nestor_parfum-yigi7ilfup-vwvx77nsm0f.png"
@@ -1247,7 +1247,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a715b22199-nestor_parfum-mtmfifxv33g-rypj8jtdcml.png"
@@ -1259,7 +1259,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Chanel Bleu",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 11.25,
     "priceBcv": 13.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a765817560-nestor_parfum-lvvyh0atsc-mmg1hgim4wl.png"
@@ -1271,7 +1271,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Creed Aventus",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 9,
     "priceBcv": 10.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a7dc19168f-nestor_parfum-gj6thvpy529-0us6wscpn5od.png"
@@ -1283,7 +1283,7 @@ window.CATALOGO_NESTOR = [
     "size": "10ML",
     "note": "Similar Al Xerjoff Erba Pura",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 16.88,
     "priceBcv": 20.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a97a543626-nestor_parfum-qt8j97zer3-y0897ii54s.png"
@@ -1295,7 +1295,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 10.13,
     "priceBcv": 12.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a980aa8c9c-nestor_parfum-htagjwro20f-jz6yl79s2jc.png"
@@ -1307,7 +1307,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Burberry Mr",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 7.88,
     "priceBcv": 9.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a99199b17d-nestor_parfum-s75g2sq9qid-yv1kp5yo3mh.png"
@@ -1319,7 +1319,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Scandal Pour Homme",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 10.13,
     "priceBcv": 12.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19abd1a1c96-nestor_parfum-qmajhlr43a9-swvuy0eoh6.png"
@@ -1331,7 +1331,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Yves Saint Laurent Y EDP",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a8232bee45-nestor_parfum-mtfh9wllf8-df2rn0kjqc7.png"
@@ -1343,7 +1343,7 @@ window.CATALOGO_NESTOR = [
     "size": "",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 9,
     "priceBcv": 10.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a83a5e3dab-nestor_parfum-44xi2581jpu-3fuivkrukux.png"
@@ -1355,7 +1355,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Creed Green Irish Tweed",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 11.25,
     "priceBcv": 13.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-689414ac3e5cd-nestor_parfum-j0u4qo9kmme-8n2vvwtlzus.png"
@@ -1367,7 +1367,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a642256cd6-nestor_parfum-ur6zdqed11l-ayrhyjaqk9l.png"
@@ -1379,7 +1379,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 13.5,
     "priceBcv": 16.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a851491527-nestor_parfum-a1s1wc5qla7-1ab3ewllvdy.png"
@@ -1391,7 +1391,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Bharara King",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a89ff2dcf4-nestor_parfum-7jkdx8qydoq-e7nbhc4zuaw.png"
@@ -1403,7 +1403,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 14.63,
     "priceBcv": 17.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199afbb1930-nestor_parfum-xq20qp4vrd9-k8q2aia8ppj.png"
@@ -1415,7 +1415,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 16.88,
     "priceBcv": 20.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6879de2a463f9-nestor_parfum-vmtm9qi2j8o-283lho6klg.png"
@@ -1427,7 +1427,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 15.75,
     "priceBcv": 18.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a8d72bad6d-nestor_parfum-z00n28nihoc-19y1z5bxfzu.png"
@@ -1439,7 +1439,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 15.75,
     "priceBcv": 18.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a8dd5263da-nestor_parfum-ut99ke87sm-ku3m3g6lbjp.png"
@@ -1451,7 +1451,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Tribeca De Bond No 9",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 15.75,
     "priceBcv": 18.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a8e1fed41a-nestor_parfum-rx35rkj8y5-yi25pc746g.png"
@@ -1463,7 +1463,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML  ( SIMILAR AL ALTAHIR",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 12.38,
     "priceBcv": 14.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a884c34f6-nestor_parfum-x2sh3ty7zc-d52niixfedi.png"
@@ -1475,7 +1475,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Viktor & Rolf Flowerbomb",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 10.13,
     "priceBcv": 12.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ace010a1d7-nestor_parfum-82jca5h5ir8-j4nu90j5zp.png"
@@ -1487,7 +1487,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Paco Rabanne Invictus",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 11.25,
     "priceBcv": 13.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fd0b8dcb-nestor_parfum-vuszyqcs5na-y9qo8w7hcrm.png"
@@ -1499,7 +1499,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML ( SIMILAR AL GUCCI FLORA GORGEOUS",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 9,
     "priceBcv": 10.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fd17743f-nestor_parfum-g9bsgf1lumd-tqfwz81in8.png"
@@ -1511,7 +1511,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Carolina Herrera Good Girl Blush",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 9,
     "priceBcv": 10.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6879d86f7aa70-nestor_parfum-b9p56ewi59c-qawufwgmo2t.png"
@@ -1523,7 +1523,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Kayali Eden Juicy Apple",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 9,
     "priceBcv": 10.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687b351938bd5-nestor_parfum-mu6sl3ie7k-o0g2wryirh7.png"
@@ -1535,7 +1535,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 11.25,
     "priceBcv": 13.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ad096309fb-nestor_parfum-y2nko64le4l-vyigtxf8rk.png"
@@ -1547,7 +1547,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 11.25,
     "priceBcv": 13.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fd0ddc2c-nestor_parfum-a72u6k9tjp-jcr33kar5se.png"
@@ -1559,7 +1559,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Paco Rabanne Phantom",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b19bbfce2-nestor_parfum-dhgk19klpg5-tpc6krrcf8f.png"
@@ -1571,7 +1571,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Paco Rabanne Invictus",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687adb985b3c2-nestor_parfum-ahsog8g7mzh-93fagl9bpx5.png"
@@ -1583,7 +1583,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 7.88,
     "priceBcv": 9.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fd11babd-nestor_parfum-fweiu780b88-rnlmfbzp1d.png"
@@ -1595,7 +1595,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Marc Antonie Barrios Ganymede",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 11.25,
     "priceBcv": 13.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fd1500a8-nestor_parfum-r09u9jb2amc-4t8pmm58npt.png"
@@ -1607,7 +1607,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19abd1ea3bf-nestor_parfum-u3qj2bgxtub-sg6rwq4bs2.png"
@@ -1619,7 +1619,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 11.25,
     "priceBcv": 13.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687aee4bb2f15-nestor_parfum-k4afr4jhwue-j3jlfgp5yu.png"
@@ -1631,7 +1631,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Jean Paul Gaultier Le Beau Paradise Garden",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a310f2aad-nestor_parfum-oum6waexdel-qey80i4y5o.png"
@@ -1643,7 +1643,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Burberry Her Elixir",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19abd1beefb-nestor_parfum-mfr47p2kbl-b83g43exkg4.png"
@@ -1655,7 +1655,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML DECANS",
     "note": "Similar Al Initio Prives OUD For Greatness",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198d21799f6-nestor_parfum-c600ib17od-wyzolooq16s.png"
@@ -1667,7 +1667,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Liz Claiborne Mambo For Woman",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fcf911ae-nestor_parfum-zltqzgmd5lh-c3t9j5ifo6q.png"
@@ -1679,7 +1679,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Paco Rabanne Black Xs",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687b31a597813-nestor_parfum-z2pulhpery-9j2ble95vkf.png"
@@ -1691,7 +1691,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Ariana Grande Sweet Like Candy",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 13.5,
     "priceBcv": 16.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ad29cd0ef3-nestor_parfum-llsg3vq9jkn-iveypgmpqw.png"
@@ -1703,7 +1703,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 23.63,
     "priceBcv": 28.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ad3bca8557-nestor_parfum-whxkhiy1xe-wzvk3p2vue.png"
@@ -1715,7 +1715,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687b3bc63605f-nestor_parfum-xnoc7zl6s0m-9w4et38b6bo.png"
@@ -1727,7 +1727,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 16.88,
     "priceBcv": 20.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68870606be526-nestor_parfum-qbajveeba8-r4zm6dpc2af.png"
@@ -1739,7 +1739,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Jean Paul Le Male Elixir",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 10.13,
     "priceBcv": 12.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6894e8a75c08a-nestor_parfum-bqggazx9k4s-mm36vyxhcr.png"
@@ -1751,7 +1751,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar Al Jean Paul Le Beau Le Parfum",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19abd1db880-nestor_parfum-nuxq6e0isp-xb3vhqr315g.png"
@@ -1763,7 +1763,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "Similar A Creed Aventus",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 6.75,
     "priceBcv": 8.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fd1b04cc-nestor_parfum-mpdzn8kfxb-jph1f1d1cr.png"
@@ -1775,7 +1775,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b344ff6-nestor_parfum-q59hs80rx1p-uqauvxgmg6.png"
@@ -1787,7 +1787,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Mandarin",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6827468774ba9-nestor_parfum-szh78yqyzmm-1frckipe0k9.png"
@@ -1799,7 +1799,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b2da33b-nestor_parfum-6m684b7ul3x-zf31k9h6mgl.png"
@@ -1811,7 +1811,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b3dc261-nestor_parfum-zrs5yj55i9a-1c0hjvb10ry.png"
@@ -1823,7 +1823,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b377c69-nestor_parfum-ldq9lcgj0j-22oqcnrze9f.png"
@@ -1835,7 +1835,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b3ac366-nestor_parfum-8vwzvy45k0k-usqpfec56h.png"
@@ -1847,7 +1847,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f520933e8-nestor_parfum-swv87njtb3d-psmev3dhxgt.png"
@@ -1859,7 +1859,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f52078ca0-nestor_parfum-t6gjeo7886k-22wrpt3edzq.png"
@@ -1871,7 +1871,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Santal 33",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-664bcdf05ade6-nestor_parfum-c4sr5612s0u-zkp45de2rrh.png"
@@ -1883,7 +1883,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 + 20 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e54cfc0ea-nestor_parfum-ghaxwul8v3c-1i1fo0x0p8x.png"
@@ -1895,7 +1895,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 36,
     "priceBcv": 43.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19cc4a3301f-nestor_parfum-qf2e749qsg-sna681vs19.png"
@@ -1907,7 +1907,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Spectre Malachite",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 60.75,
     "priceBcv": 72.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19df94a9b2f-nestor_parfum-7i3rmnm5oi4-fhqr4i24eid.png"
@@ -1919,7 +1919,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f520c2bc4-nestor_parfum-52vgm5fg0qm-bgnink1bbfv.png"
@@ -1931,7 +1931,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d106d3bbf-nestor_parfum-ksjexkv8rz-7bgkwrttnqs.png"
@@ -1943,7 +1943,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 25.88,
     "priceBcv": 31.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d2705b965-nestor_parfum-8quwhlnj2dk-hrmy3thwq56.png"
@@ -1955,7 +1955,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 66.38,
     "priceBcv": 79.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b0f1b9efa-nestor_parfum-svafjaew6m-4506zs0jg5p.png"
@@ -1967,7 +1967,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 76.5,
     "priceBcv": 91.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67925e170e88b-nestor_parfum-quifpt84ge-40lfpr2kex4.png"
@@ -1979,7 +1979,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 120.38,
     "priceBcv": 144.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c09e69b09-nestor_parfum-nbn036ln84m-tc9bhz1p2d.png"
@@ -1991,7 +1991,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Yves Saint Lauren M7 OUD Adsolu",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6866efae66994-nestor_parfum-gg4kv19voah-izibfk4pxyl.png"
@@ -2003,7 +2003,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Paco Rabanne Invi Tus",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683be358eb3e2-nestor_parfum-7idglotjkam-dvtkuxd4j1.png"
@@ -2015,7 +2015,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6866edded717e-nestor_parfum-9szdydn9ztu-pv5elnscrvd.png"
@@ -2027,7 +2027,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683be576c3084-nestor_parfum-chkoe44fn6w-y9lhhmpgv2i.png"
@@ -2039,7 +2039,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Marly Xerjoff Naxos",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6866f0d367059-nestor_parfum-gv9y8wbxu6w-p5mp3wutpkm.png"
@@ -2051,7 +2051,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ml",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6866f27c11a9c-nestor_parfum-klbzg48h4gr-qhj62hxivi.png"
@@ -2063,7 +2063,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar A La Viv La Juicy",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 67.5,
     "priceBcv": 81,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6866f40c93bbb-nestor_parfum-m60v0r54pb-2rvcmy25snd.png"
@@ -2075,7 +2075,7 @@ window.CATALOGO_NESTOR = [
     "size": "60 ML",
     "note": "Similar Al Mancera Roses Vanille",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65eb59e510a66-nestor_parfum-fre0yvg9gyv-tucaxqti5xl.png"
@@ -2087,7 +2087,7 @@ window.CATALOGO_NESTOR = [
     "size": "60 ML",
     "note": "Similar Al Viktor & Rolf Flowerbomb",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 22.5,
     "priceBcv": 27,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-680817504e30a-nestor_parfum-q7y9srnwqa-yo1dwnv866l.png"
@@ -2099,7 +2099,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65b1474618740-nestor_parfum-jm85f8zdc6-dzvxxgz5rob.png"
@@ -2111,7 +2111,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 27,
     "priceBcv": 32.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6686d22179f63-nestor_parfum-vpxo298h3is-qlgw5hx7ll.png"
@@ -2123,7 +2123,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 27,
     "priceBcv": 32.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eac750712-nestor_parfum-uyo2jdrd6wo-bpt8chwisj.png"
@@ -2135,7 +2135,7 @@ window.CATALOGO_NESTOR = [
     "size": "60 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65172ca3d9653-nestor_parfum-ntkkzknm94m-1jyg60ttzqt.png"
@@ -2147,7 +2147,7 @@ window.CATALOGO_NESTOR = [
     "size": "50 ML",
     "note": "Similar Al Dior Poison Girl",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 15.75,
     "priceBcv": 18.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6686f59fdf665-nestor_parfum-eb6ysfir2sa-deg8onzb0og.png"
@@ -2159,7 +2159,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67d9ad1491345-nestor_parfum-ue00sgb22h-qpp8bkarx.png"
@@ -2171,7 +2171,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb2e5ecfa-nestor_parfum-774pwuif8g9-mbb7jkbsd2p.png"
@@ -2183,7 +2183,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b3d441f1e-nestor_parfum-aonxhsx614m-wij2l4cxjvd.png"
@@ -2195,7 +2195,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Jean Paul Gaultier Le Beau",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-663901cab0233-nestor_parfum-ps80ee9r48c-fmhav66ur46.png"
@@ -2207,7 +2207,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Initio Prives Atomic Rose",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63f7da896ed36-nestor_parfum-dmedr4q0iu-snj7izamlh.png"
@@ -2219,7 +2219,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Carolina Herrera Good Girl Blush",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6754a9320f2d3-nestor_parfum-8heyfhu5d76-2muh4c80ofe.png"
@@ -2231,7 +2231,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a556b8f04-nestor_parfum-irxsgzsu2oe-1seir8ds2wl.png"
@@ -2243,7 +2243,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6494c0093248e-nestor_parfum-6ozva2pf02-wjfqmzgjhna.png"
@@ -2255,7 +2255,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65b4264d7b51f-nestor_parfum-ia8sj30fe4d-hkhnpybldmb.png"
@@ -2267,7 +2267,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fca3f91e-nestor_parfum-fugu6puoz4k-vmiy2x9pyh.png"
@@ -2279,7 +2279,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c53721e91-nestor_parfum-wq4x74p94c-q6cptqq2zl.png"
@@ -2291,7 +2291,7 @@ window.CATALOGO_NESTOR = [
     "size": "75 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 64.13,
     "priceBcv": 76.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a554cf9c0-nestor_parfum-x9mum17uzi-lv5vui1ifr.png"
@@ -2303,7 +2303,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Rosendo Mateu Nr 5",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65b148bb76eaa-nestor_parfum-jzi587beov-egxxcg61r6r.png"
@@ -2315,7 +2315,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eaea24785-nestor_parfum-t7swhg49nw-4m7ha016is7.png"
@@ -2327,7 +2327,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Stronger With You",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-665f4c6862325-nestor_parfum-w88mjhq6cn-y575i2d8wl.png"
@@ -2339,7 +2339,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 66.38,
     "priceBcv": 79.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eaea34ea9-nestor_parfum-ow05yea7j1-cc13ca4v6le.png"
@@ -2351,7 +2351,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e07bf9b99-nestor_parfum-c6gxcmougd9-we25qzf5p3c.png"
@@ -2363,7 +2363,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e07c1be7b-nestor_parfum-lz9q9l4oap-684hak1cc56.png"
@@ -2375,7 +2375,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Marc Antonie Barrios Ganymede",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67d9af9d6f2ff-nestor_parfum-v4ogadh6d7h-zyrk7d49hjh.png"
@@ -2387,7 +2387,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-651753f33f263-nestor_parfum-wor292et2gs-ancrgei1pvi.png"
@@ -2399,7 +2399,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6cccb935-nestor_parfum-6njop1ap2ov-b4lqd6113uh.png"
@@ -2411,7 +2411,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 49.5,
     "priceBcv": 59.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e07c06d12-nestor_parfum-3k3qldl32gc-x4kwmcjs3u.png"
@@ -2423,7 +2423,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Initio Prives OUD For Greatness",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67f82228952c5-nestor_parfum-ngdryjmtzk-qio4d5uihvq.png"
@@ -2435,7 +2435,7 @@ window.CATALOGO_NESTOR = [
     "size": "200 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 10.13,
     "priceBcv": 12.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198e7bca464-nestor_parfum-9f0aw2pxvg7-h6cnbr3k8n9.png"
@@ -2447,7 +2447,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 54,
     "priceBcv": 64.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a9339e77b-nestor_parfum-z9m05gl2mbs-onfb96y6dka.png"
@@ -2459,7 +2459,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Paragon De Initio Parfums Prives",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 63,
     "priceBcv": 75.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198e6e94bd2-nestor_parfum-rj2cbxnz56k-sbv5amq25nq.png"
@@ -2471,7 +2471,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Guerlain OUD Intense",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65010b8686741-nestor_parfum-75fmdg1o1kn-sjp7ako8yyt.png"
@@ -2483,7 +2483,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Xerjoff Alexandra Ii",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 25.88,
     "priceBcv": 31.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6504c6dd6c5a5-nestor_parfum-wdclxinxc7n-shb2lapo5w.png"
@@ -2495,7 +2495,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Initio OUD For Happiness",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 27,
     "priceBcv": 32.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66622916643e6-nestor_parfum-nt2k378pgr-9huemmx6dop.png"
@@ -2507,7 +2507,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199ef06fee7-nestor_parfum-dqd6gjlua6u-y6nj8b03vok.png"
@@ -2519,7 +2519,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similat A Yves Saint Laurent",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-681198a545909-nestor_parfum-mpkdg8w9ug-c7xbf61degk.png"
@@ -2531,7 +2531,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 52.88,
     "priceBcv": 63.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c536d8e90-nestor_parfum-yu62iweqi1d-psb3rzf5k1g.png"
@@ -2543,7 +2543,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Paco Rabanne Pure Xs",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675b3f2e65026-nestor_parfum-gqys0fnvyl-en83ygczkrs.png"
@@ -2555,7 +2555,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Jean Paul Gaultier Le Male Elixir",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f4ef26cdc-nestor_parfum-506ejo9cyxg-po7ux0qgxbp.png"
@@ -2567,7 +2567,7 @@ window.CATALOGO_NESTOR = [
     "size": "5 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c5371318c-nestor_parfum-rgd4sh7sq2p-r91evlycia.png"
@@ -2579,7 +2579,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Ariana Grande Sweet Like Candy",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6706de776d3a3-nestor_parfum-lr4wzcvwz8j-5etr9seqha6.png"
@@ -2591,7 +2591,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Christian Dior Poison Girl EDP",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67f8246fac2c2-nestor_parfum-sqryqa6x0o9-17s35pxqayq.png"
@@ -2603,7 +2603,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 49.5,
     "priceBcv": 59.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b3d42dd2d-nestor_parfum-ff7uj12z6v9-o62jotwhvjb.png"
@@ -2615,7 +2615,7 @@ window.CATALOGO_NESTOR = [
     "size": "25 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 64.13,
     "priceBcv": 76.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198e6c87726-nestor_parfum-hjcrhvtbrp9-c7n0291x1yn.png"
@@ -2627,7 +2627,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Yve Saint L Supreme Bouquet",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6508b16e0df5f-nestor_parfum-j099gl1g0ue-bg2nbxq622e.png"
@@ -2639,7 +2639,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67b3b3f61214e-nestor_parfum-gc98dlx7qvj-z3kna1dg0no.png"
@@ -2651,7 +2651,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 25.88,
     "priceBcv": 31.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-666dfb6836a48-nestor_parfum-a8xcdu2z1xd-36fcaleeaav.png"
@@ -2663,7 +2663,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-669ea6fddbb51-nestor_parfum-qtezedywdw-ije4o14tmna.png"
@@ -2675,7 +2675,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c066b695d-nestor_parfum-gj1ij3bps9l-qtbu8oon1bo.png"
@@ -2687,7 +2687,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Jean Paul Gaultier La Belle Intense",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66df739275eda-nestor_parfum-prc1s3vlcvb-05u199ieotel.png"
@@ -2699,7 +2699,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Jezn Pzul Gaultier Le Beau",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66565531c49e6-nestor_parfum-tmjal9tznpl-pgds9v0kkfk.png"
@@ -2711,7 +2711,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Jean Paul Gauktier Le Male",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66df72fff1f41-nestor_parfum-sntfhzld21-33rrz9dpbbt.png"
@@ -2723,7 +2723,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c9af9014c-nestor_parfum-1fapu5dtwmn-tqoe7u7x9sc.png"
@@ -2735,7 +2735,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar A Lois Vuitton Matiere",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66bfe9d9901a2-nestor_parfum-4atdl0d08fi-yczuxpdfgtl.png"
@@ -2747,7 +2747,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Baccarat Rouge 540",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-666dff84a4e98-nestor_parfum-350r44og67-rszxbel3j8h.png"
@@ -2759,7 +2759,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c9af7d195-nestor_parfum-sgwalks4mjn-bi51j81nd7n.png"
@@ -2771,7 +2771,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b1d80c4-nestor_parfum-7x0w48qrqyl-2sw6ldor5o1.png"
@@ -2783,7 +2783,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f9b20a1fc-nestor_parfum-50qe58lapi4-xtedhdxobr.png"
@@ -2795,7 +2795,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 25.88,
     "priceBcv": 31.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d92cc58b5-nestor_parfum-ndpkl5o1s6s-37zastb6tme.png"
@@ -2807,7 +2807,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 25.88,
     "priceBcv": 31.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6668ebd8b17a3-nestor_parfum-nsg8fo6hhz-10mjod4yv3fo.png"
@@ -2819,7 +2819,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d92d7249e-nestor_parfum-k8790415a7s-e1vzuthk82s.png"
@@ -2831,7 +2831,7 @@ window.CATALOGO_NESTOR = [
     "size": "100",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 33.75,
     "priceBcv": 40.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c9af6cc40-nestor_parfum-bbdet6ntwc-7k4l8ue68zc.png"
@@ -2843,7 +2843,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 90,
     "priceBcv": 108,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683faaac09564-nestor_parfum-f8ki02lkre-hmhfr6q9ec6.png"
@@ -2855,7 +2855,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 90,
     "priceBcv": 108,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683f6e83034a4-nestor_parfum-h9ypyhk5fuo-4q3oxl95wid.png"
@@ -2867,7 +2867,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 90,
     "priceBcv": 108,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683faa66f26a5-nestor_parfum-mn1v1wy03im-qbvdjnoqzfh.png"
@@ -2879,7 +2879,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 90,
     "priceBcv": 108,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683fa9590ff94-nestor_parfum-gyv6zrrnpdp-2ehub828by7.png"
@@ -2891,7 +2891,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 49.5,
     "priceBcv": 59.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a9d1f1e95-nestor_parfum-0p10ddge0dp9-4hr8nijijbo.png"
@@ -2903,7 +2903,7 @@ window.CATALOGO_NESTOR = [
     "size": "10 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 25.88,
     "priceBcv": 31.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eaea1328a-nestor_parfum-m642ywhdtgl-uyjpd67e3y.png"
@@ -2915,7 +2915,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 93.38,
     "priceBcv": 112.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c849af2-nestor_parfum-g6hv6s0a0h6-qp9x5ho2au.png"
@@ -2927,7 +2927,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 86.63,
     "priceBcv": 103.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c8304b8-nestor_parfum-bg3l56f9qy-zjg954vsq9d.png"
@@ -2939,7 +2939,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 93.38,
     "priceBcv": 112.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c81533a-nestor_parfum-upgygpsxn98-42fd0nqgn0u.png"
@@ -2951,7 +2951,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 110.25,
     "priceBcv": 132.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c959bc0-nestor_parfum-919ilfd60rg-cr4aq0x1x4p.png"
@@ -2963,7 +2963,7 @@ window.CATALOGO_NESTOR = [
     "size": "200 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 118.13,
     "priceBcv": 141.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6ca22f00-nestor_parfum-uphp15ejlgd-2rt8locyoxm.png"
@@ -2975,7 +2975,7 @@ window.CATALOGO_NESTOR = [
     "size": "200 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 118.13,
     "priceBcv": 141.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c9f1d5f-nestor_parfum-01cb8hou5jpj-7m0h4j0rjee.png"
@@ -2987,7 +2987,7 @@ window.CATALOGO_NESTOR = [
     "size": "200 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 118.13,
     "priceBcv": 141.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6ca4e943-nestor_parfum-mladqkhitar-mo2nk0rpc2.png"
@@ -2999,7 +2999,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 144,
     "priceBcv": 172.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be46fbbdb65-nestor_parfum-e6qpmugokse-ju3qdlgid9a.png"
@@ -3011,7 +3011,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 158.63,
     "priceBcv": 190.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c971bf2-nestor_parfum-mxo1d5c0rb-e3dxyf4kjza.png"
@@ -3023,7 +3023,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 158.63,
     "priceBcv": 190.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c990e46-nestor_parfum-bq3jjv6xrbe-wgr4i623kjr.png"
@@ -3035,7 +3035,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 97.88,
     "priceBcv": 117.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19bfcdb703e-nestor_parfum-qm18wj02p9o-6m26q7ovgag.png"
@@ -3047,7 +3047,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "Similar Al Santal 33",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 83.25,
     "priceBcv": 99.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65f480284a74b-nestor_parfum-1op9lcqqiyy-2t4he9zjmhe.png"
@@ -3059,7 +3059,7 @@ window.CATALOGO_NESTOR = [
     "size": "18 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 160.88,
     "priceBcv": 193.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65733280b3fdf-nestor_parfum-dvrn0xduqte-k7jtzksax.png"
@@ -3071,7 +3071,7 @@ window.CATALOGO_NESTOR = [
     "size": "",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 86.63,
     "priceBcv": 103.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c8f5289-nestor_parfum-4it66pk4u4l-myrs68vaya9.png"
@@ -3083,7 +3083,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 110.25,
     "priceBcv": 132.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c8c912e-nestor_parfum-8w5c25z5p32-7w09i4alvot.png"
@@ -3095,7 +3095,7 @@ window.CATALOGO_NESTOR = [
     "size": "80 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 110.25,
     "priceBcv": 132.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c87f6ef-nestor_parfum-psb0hve8oso-3b0q8r0lbt.png"
@@ -3107,7 +3107,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 86.63,
     "priceBcv": 103.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c85bd9c-nestor_parfum-jjxq95ii0e-bg84zpyzfiu.png"
@@ -3119,7 +3119,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 54,
     "priceBcv": 64.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683bea90ea7fd-nestor_parfum-yg35ziisg8g-yi9fivk6wn.png"
@@ -3131,7 +3131,7 @@ window.CATALOGO_NESTOR = [
     "size": "20 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 5.63,
     "priceBcv": 6.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67f824501c5b7-nestor_parfum-m2a18oyjg6-8f28f4iyiza.png"
@@ -3143,7 +3143,7 @@ window.CATALOGO_NESTOR = [
     "size": "20 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 9,
     "priceBcv": 10.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67f824c61d8f5-nestor_parfum-lu6cbagrufj-jlpdtowahp.png"
@@ -3155,7 +3155,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 64.13,
     "priceBcv": 76.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d74a77daa-nestor_parfum-71mx56r7nav-xka0ckdcyp.png"
@@ -3167,7 +3167,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ffba89b9d-nestor_parfum-o6503ez704i-l41qlltbdpk.png"
@@ -3179,7 +3179,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 77.63,
     "priceBcv": 93.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c5989f744-nestor_parfum-iihxs9p0ylo-5gkpxct4afb.png"
@@ -3191,7 +3191,7 @@ window.CATALOGO_NESTOR = [
     "size": "1OO ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 56.25,
     "priceBcv": 67.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199546ee233-nestor_parfum-8rnpyz7zib8-4vx98kfzb7o.png"
@@ -3203,7 +3203,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Viktor Flawerbom",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-669addd164be6-nestor_parfum-7tz5jl60zex-2ukd4e9k2a.png"
@@ -3215,7 +3215,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "Similar Al Jean Paul Le Male Elixir",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6856f7894a948-nestor_parfum-rgod7oybff-o7xhpwt8ngd.png"
@@ -3227,7 +3227,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 66.38,
     "priceBcv": 79.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e5f6f8ea5-nestor_parfum-eod8zsqeeup-qspram4gdpp.png"
@@ -3239,7 +3239,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 77.63,
     "priceBcv": 93.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c598af355-nestor_parfum-87s1ss5f8dd-93glgwsy1ms.png"
@@ -3251,7 +3251,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 66.38,
     "priceBcv": 79.65,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1992199145b-nestor_parfum-xvehc41hkda-jiyl3cys7aa.png"
@@ -3263,7 +3263,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 77.63,
     "priceBcv": 93.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c59888ddf-nestor_parfum-etab9cr3dta-abxsw6cj52k.png"
@@ -3275,7 +3275,7 @@ window.CATALOGO_NESTOR = [
     "size": "75 ML",
     "note": "Similar Al Kirkè Tiziana Terenzi",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 113.63,
     "priceBcv": 136.35,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63ed2cbba4356-nestor_parfum-9ze7j4w0gmw-cdmzuhkd047.png"
@@ -3287,7 +3287,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7c76ee1-nestor_parfum-oqk2ko7ves-66mm87hsxef.png"
@@ -3299,7 +3299,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7c4eddf-nestor_parfum-nrp82iwe44o-p795s4iuedm.png"
@@ -3311,7 +3311,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7be5622-nestor_parfum-we5dhe37uv-u01i56eh2w.png"
@@ -3323,7 +3323,7 @@ window.CATALOGO_NESTOR = [
     "size": "100 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7ca45b5-nestor_parfum-wi5t7mxb48-4s1pvk138j2.png"
@@ -3335,7 +3335,7 @@ window.CATALOGO_NESTOR = [
     "size": "50 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682aba2f777b3-nestor_parfum-4p5dfv4gxt9-m9035zaegva.png"
@@ -3347,7 +3347,7 @@ window.CATALOGO_NESTOR = [
     "size": "50 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682ab45059a2b-nestor_parfum-b8zwp2j91xp-xj2vhj5p71.png"
@@ -3359,7 +3359,7 @@ window.CATALOGO_NESTOR = [
     "size": "50 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682ab7a9e9537-nestor_parfum-jqvycufcfg-lfxpueipsxn.png"
@@ -3371,7 +3371,7 @@ window.CATALOGO_NESTOR = [
     "size": "50 ML",
     "note": "",
     "category": "arabe",
-    "categoryLabel": "Árabe de nicho",
+    "categoryLabel": "Árabes",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682abaee4235f-nestor_parfum-fu11njs557l-3lywon86em9.png"
@@ -4385,42 +4385,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6554fb87c2030-nestor_parfum-yj64lfpobmd-vn5uinponlo.png"
   },
   {
-    "id": "s33i9pjf63",
-    "name": "Byredo Animale EDP",
-    "genero": "Unisex",
-    "size": "50 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 489.38,
-    "priceBcv": 587.25,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ed25251e3-nestor_parfum-s33i9pjf63-zmwesu9b5n.png"
-  },
-  {
-    "id": "7wut5k777gg",
-    "name": "Byredo Blanche EDP",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 673.88,
-    "priceBcv": 808.65,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ed2751db6-nestor_parfum-7wut5k777gg-k9pwysuh5t.png"
-  },
-  {
-    "id": "r2h6q6ldo1j",
-    "name": "Byredo Gypsy Water Absolu De Parfum",
-    "genero": "Unisex",
-    "size": "50 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 596.25,
-    "priceBcv": 715.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ed284297b-nestor_parfum-r2h6q6ldo1j-4v3xbcwph3i.png"
-  },
-  {
     "id": "76iwse1hyb",
     "name": "Cacharel Amor Amor",
     "genero": "Dama",
@@ -5405,138 +5369,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19996ab8ea3-nestor_parfum-syouogykqzd-009mr4iaxuc14.png"
   },
   {
-    "id": "o834k4zlv1",
-    "name": "Creed Aventus",
-    "genero": "Dama",
-    "size": "75 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 437.63,
-    "priceBcv": 525.15,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6500c819abbfd-nestor_parfum-o834k4zlv1-c3bq67z86du.png"
-  },
-  {
-    "id": "3lq6km9ypgz",
-    "name": "Creed Aventus Cologne",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 472.5,
-    "priceBcv": 567,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb773de34-nestor_parfum-3lq6km9ypgz-a8g3iu94i8q.png"
-  },
-  {
-    "id": "zz6ndwhjct",
-    "name": "Creed Aventus EDP",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 421.88,
-    "priceBcv": 506.25,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c070d2fb8-__nestor_parfum-zz6ndwhjct-337w5imxhzu.png"
-  },
-  {
-    "id": "48qfewgs8fu",
-    "name": "Creed Carmina EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 414,
-    "priceBcv": 496.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67168aaac9bfc-nestor_parfum-48qfewgs8fu-msevlm60alp.png"
-  },
-  {
-    "id": "3k0o63kurx4",
-    "name": "Creed Centaurus EDP EDP",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 545.63,
-    "priceBcv": 654.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199e43aa981-nestor_parfum-3k0o63kurx4-qsfkr1ccm79.png"
-  },
-  {
-    "id": "z3qjnvqxse",
-    "name": "Creed Delphinus EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 641.25,
-    "priceBcv": 769.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199e43871c3-nestor_parfum-z3qjnvqxse-ul6vr49679l.png"
-  },
-  {
-    "id": "bduz2un2d6",
-    "name": "Creed Green Irish Tweed EDP",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 438.75,
-    "priceBcv": 526.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6610081e0a40e-nestor_parfum-bduz2un2d6-ch0suo60mn.png"
-  },
-  {
-    "id": "uf7xhszjdz",
-    "name": "Creed Obsolu Aventus",
-    "genero": "Caballero",
-    "size": "75 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 590.63,
-    "priceBcv": 708.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb769bd83-nestor_parfum-uf7xhszjdz-maityzot3o.png"
-  },
-  {
-    "id": "44s95kx46p2",
-    "name": "Creed Silver Mountain Water",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 481.5,
-    "priceBcv": 577.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d83019393-_nestor_parfum-44s95kx46p2-kiu8kigdhqm.png"
-  },
-  {
-    "id": "sgnbct01e7",
-    "name": "Creed Spring Flower",
-    "genero": "Dama",
-    "size": "75 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 337.5,
-    "priceBcv": 405,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7a9119b-nestor_parfum-sgnbct01e7-2mzijtxju9c.png"
-  },
-  {
-    "id": "p4aasx7dpip",
-    "name": "Creed Viking Cologne EDP",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 481.5,
-    "priceBcv": 577.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65557e640ad60-nestor_parfum-p4aasx7dpip-vaja2bjxthe.png"
-  },
-  {
     "id": "r6h5xklsr9",
     "name": "Crema Victoria's Secret Autumn Shore",
     "genero": "Dama",
@@ -5993,18 +5825,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-688706b969dd6-nestor_parfum-ds1pq7zj68q-gbcqx7dh3vk.png"
   },
   {
-    "id": "exm78qcs6ai",
-    "name": "Decant Creed Royal Water",
-    "genero": "Unisex",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 76.5,
-    "priceBcv": 91.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a9a77aafd8-nestor_parfum-exm78qcs6ai-6yqcenal5os.png"
-  },
-  {
     "id": "nh4e4qstrx",
     "name": "Decant Davidoff Cool Water",
     "genero": "Caballero",
@@ -6303,30 +6123,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 22.5,
     "priceBcv": 27,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ae414dea34-nestor_parfum-p9mz7svmxii-igrqbe4bxxr.png"
-  },
-  {
-    "id": "a70pqosqcdq",
-    "name": "Decant Mancera Cedrat Boise",
-    "genero": "Caballero",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 19.13,
-    "priceBcv": 22.95,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ae24a9d152-nestor_parfum-a70pqosqcdq-n641vri6kk.png"
-  },
-  {
-    "id": "o8l3hhb2bqp",
-    "name": "Decant Mancera Silver Blue EDP",
-    "genero": "Unisex",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 19.13,
-    "priceBcv": 22.95,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ae2b49e0b3-nestor_parfum-o8l3hhb2bqp-5j11w6e59vg.png"
   },
   {
     "id": "su1obe59tvp",
@@ -8621,66 +8417,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4d425697aa-nestor_parfum-u8s370kije-8i4e5cpg18g.png"
   },
   {
-    "id": "izsgt6z49fl",
-    "name": "Le Labo Santal 26 Scented Candle",
-    "genero": "Unisex",
-    "size": "127 G",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 182.25,
-    "priceBcv": 218.7,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f90f0475a-nestor_parfum-izsgt6z49fl-yxvo0t7bmi.png"
-  },
-  {
-    "id": "6e0v23o2l8r",
-    "name": "Le Labo Santal 33",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 708.75,
-    "priceBcv": 850.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64f64b40ac2b3-nestor_parfum-6e0v23o2l8r-129wqop0w1nr.png"
-  },
-  {
-    "id": "up85szpeh7q",
-    "name": "Le Labo Santal 33",
-    "genero": "Unisex",
-    "size": "50 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 515.25,
-    "priceBcv": 618.3,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6883cd12e6448-nestor_parfum-up85szpeh7q-swqs5291c4i.png"
-  },
-  {
-    "id": "s8al37v08jr",
-    "name": "Le Labo Santal 33 Body Lotion",
-    "genero": "Unisex",
-    "size": "237 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 191.25,
-    "priceBcv": 229.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f90f52716-nestor_parfum-s8al37v08jr-6ihpokwbtrp.png"
-  },
-  {
-    "id": "3sfjztepz3e",
-    "name": "Le Labo Santal 33 Shower Gel",
-    "genero": "Unisex",
-    "size": "237 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 150.75,
-    "priceBcv": 180.9,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f90f78f6c-nestor_parfum-3sfjztepz3e-jmzq2a2z0m.png"
-  },
-  {
     "id": "ee5z1b5zxh4",
     "name": "Liz Claiborne Curve Chill",
     "genero": "Dama",
@@ -8801,54 +8537,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19dbd67209a-nestor_parfum-sxoi9qrqdgh-x6c22k8omn.png"
   },
   {
-    "id": "mr5b13k3qpp",
-    "name": "Mancera Aoud Vanille EDP",
-    "genero": "Unisex",
-    "size": "120 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 118.13,
-    "priceBcv": 141.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64c3e63459808-nestor_parfum-mr5b13k3qpp-3vi682d7ivr.png"
-  },
-  {
-    "id": "7br2cynahes",
-    "name": "Mancera Cedrat Boise",
-    "genero": "Caballero",
-    "size": "120 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 168.75,
-    "priceBcv": 202.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d5e1a4e67-__nestor_parfum-7br2cynahes-2ud5dxlsj4b.png"
-  },
-  {
-    "id": "b0dae4dahqb",
-    "name": "Mancera Cedrat Boise Intense EDP",
-    "genero": "Unisex",
-    "size": "120 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 130.5,
-    "priceBcv": 156.6,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be45775c59f-nestor_parfum-b0dae4dahqb-a7qbh1tg2j.png"
-  },
-  {
-    "id": "zkzgfajle1",
-    "name": "Mancera Wild Python EDP",
-    "genero": "Dama",
-    "size": "120 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 165.38,
-    "priceBcv": 198.45,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c0d694e96-__nestor_parfum-zkzgfajle1-w09ftdkx2b.png"
-  },
-  {
     "id": "ljlu19y0o",
     "name": "Marc Jacobs Daisy Ever So Fresh",
     "genero": "Dama",
@@ -8919,18 +8607,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 127.13,
     "priceBcv": 152.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be45f8caded-nestor_parfum-z2sbwz0tto-bsygr9u8f19.png"
-  },
-  {
-    "id": "dyf8botivq",
-    "name": "Marly Pegasus",
-    "genero": "Caballero",
-    "size": "125ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 324,
-    "priceBcv": 388.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d0a75a683-_nestor_parfum-dyf8botivq-qq1nm9ao5si.png"
   },
   {
     "id": "jroytrgk7d",
@@ -9771,42 +9447,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 165.38,
     "priceBcv": 198.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65010ef818690-nestor_parfum-exe5zbg05qb-fyx80xbaxlp.png"
-  },
-  {
-    "id": "7weoshinew2",
-    "name": "Parfums De Marly Delina Exclusif Edition Parfum",
-    "genero": "Dama",
-    "size": "75 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 414,
-    "priceBcv": 496.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb76c7b10-nestor_parfum-7weoshinew2-neuoitv2r58.png"
-  },
-  {
-    "id": "a29l983z0ie",
-    "name": "Parfums De Marly Galloway Royal Essence EDP",
-    "genero": "Unisex",
-    "size": "75 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 337.5,
-    "priceBcv": 405,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6cd42d96-nestor_parfum-a29l983z0ie-r77o1tda9gk.png"
-  },
-  {
-    "id": "qwhfk5fbizg",
-    "name": "Parfums De Marly Paris Delina Royal Essence EDP",
-    "genero": "Dama",
-    "size": "75 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 324,
-    "priceBcv": 388.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6642945a7b11e-nestor_parfum-qwhfk5fbizg-g8dt6ng0hue.png"
   },
   {
     "id": "1l5w28unaif",
@@ -11511,6 +11151,390 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 194.63,
     "priceBcv": 233.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a6f7dd00c-nestor_parfum-e327fn7t7l-dkl3ibmf4d.png"
+  },
+  {
+    "id": "s33i9pjf63",
+    "name": "Byredo Animale EDP",
+    "genero": "Unisex",
+    "size": "50 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 489.38,
+    "priceBcv": 587.25,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ed25251e3-nestor_parfum-s33i9pjf63-zmwesu9b5n.png"
+  },
+  {
+    "id": "7wut5k777gg",
+    "name": "Byredo Blanche EDP",
+    "genero": "Unisex",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 673.88,
+    "priceBcv": 808.65,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ed2751db6-nestor_parfum-7wut5k777gg-k9pwysuh5t.png"
+  },
+  {
+    "id": "r2h6q6ldo1j",
+    "name": "Byredo Gypsy Water Absolu De Parfum",
+    "genero": "Unisex",
+    "size": "50 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 596.25,
+    "priceBcv": 715.5,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ed284297b-nestor_parfum-r2h6q6ldo1j-4v3xbcwph3i.png"
+  },
+  {
+    "id": "o834k4zlv1",
+    "name": "Creed Aventus",
+    "genero": "Dama",
+    "size": "75 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 437.63,
+    "priceBcv": 525.15,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6500c819abbfd-nestor_parfum-o834k4zlv1-c3bq67z86du.png"
+  },
+  {
+    "id": "3lq6km9ypgz",
+    "name": "Creed Aventus Cologne",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 472.5,
+    "priceBcv": 567,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb773de34-nestor_parfum-3lq6km9ypgz-a8g3iu94i8q.png"
+  },
+  {
+    "id": "zz6ndwhjct",
+    "name": "Creed Aventus EDP",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 421.88,
+    "priceBcv": 506.25,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c070d2fb8-__nestor_parfum-zz6ndwhjct-337w5imxhzu.png"
+  },
+  {
+    "id": "48qfewgs8fu",
+    "name": "Creed Carmina EDP",
+    "genero": "Dama",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 414,
+    "priceBcv": 496.8,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67168aaac9bfc-nestor_parfum-48qfewgs8fu-msevlm60alp.png"
+  },
+  {
+    "id": "3k0o63kurx4",
+    "name": "Creed Centaurus EDP EDP",
+    "genero": "Unisex",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 545.63,
+    "priceBcv": 654.75,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199e43aa981-nestor_parfum-3k0o63kurx4-qsfkr1ccm79.png"
+  },
+  {
+    "id": "z3qjnvqxse",
+    "name": "Creed Delphinus EDP",
+    "genero": "Dama",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 641.25,
+    "priceBcv": 769.5,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199e43871c3-nestor_parfum-z3qjnvqxse-ul6vr49679l.png"
+  },
+  {
+    "id": "bduz2un2d6",
+    "name": "Creed Green Irish Tweed EDP",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 438.75,
+    "priceBcv": 526.5,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6610081e0a40e-nestor_parfum-bduz2un2d6-ch0suo60mn.png"
+  },
+  {
+    "id": "uf7xhszjdz",
+    "name": "Creed Obsolu Aventus",
+    "genero": "Caballero",
+    "size": "75 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 590.63,
+    "priceBcv": 708.75,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb769bd83-nestor_parfum-uf7xhszjdz-maityzot3o.png"
+  },
+  {
+    "id": "44s95kx46p2",
+    "name": "Creed Silver Mountain Water",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 481.5,
+    "priceBcv": 577.8,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d83019393-_nestor_parfum-44s95kx46p2-kiu8kigdhqm.png"
+  },
+  {
+    "id": "sgnbct01e7",
+    "name": "Creed Spring Flower",
+    "genero": "Dama",
+    "size": "75 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 337.5,
+    "priceBcv": 405,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7a9119b-nestor_parfum-sgnbct01e7-2mzijtxju9c.png"
+  },
+  {
+    "id": "p4aasx7dpip",
+    "name": "Creed Viking Cologne EDP",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 481.5,
+    "priceBcv": 577.8,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65557e640ad60-nestor_parfum-p4aasx7dpip-vaja2bjxthe.png"
+  },
+  {
+    "id": "exm78qcs6ai",
+    "name": "Decant Creed Royal Water",
+    "genero": "Unisex",
+    "size": "10 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 76.5,
+    "priceBcv": 91.8,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a9a77aafd8-nestor_parfum-exm78qcs6ai-6yqcenal5os.png"
+  },
+  {
+    "id": "a70pqosqcdq",
+    "name": "Decant Mancera Cedrat Boise",
+    "genero": "Caballero",
+    "size": "10 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 19.13,
+    "priceBcv": 22.95,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ae24a9d152-nestor_parfum-a70pqosqcdq-n641vri6kk.png"
+  },
+  {
+    "id": "o8l3hhb2bqp",
+    "name": "Decant Mancera Silver Blue EDP",
+    "genero": "Unisex",
+    "size": "10 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 19.13,
+    "priceBcv": 22.95,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ae2b49e0b3-nestor_parfum-o8l3hhb2bqp-5j11w6e59vg.png"
+  },
+  {
+    "id": "01112obt0t4b",
+    "name": "Decant Xerjoff Erba Pura",
+    "genero": "Unisex",
+    "size": "10 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 60.75,
+    "priceBcv": 72.9,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19aa74c2168-nestor_parfum-01112obt0t4b-r9aq5v2o69s.png"
+  },
+  {
+    "id": "izsgt6z49fl",
+    "name": "Le Labo Santal 26 Scented Candle",
+    "genero": "Unisex",
+    "size": "127 G",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 182.25,
+    "priceBcv": 218.7,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f90f0475a-nestor_parfum-izsgt6z49fl-yxvo0t7bmi.png"
+  },
+  {
+    "id": "6e0v23o2l8r",
+    "name": "Le Labo Santal 33",
+    "genero": "Unisex",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 708.75,
+    "priceBcv": 850.5,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64f64b40ac2b3-nestor_parfum-6e0v23o2l8r-129wqop0w1nr.png"
+  },
+  {
+    "id": "up85szpeh7q",
+    "name": "Le Labo Santal 33",
+    "genero": "Unisex",
+    "size": "50 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 515.25,
+    "priceBcv": 618.3,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6883cd12e6448-nestor_parfum-up85szpeh7q-swqs5291c4i.png"
+  },
+  {
+    "id": "s8al37v08jr",
+    "name": "Le Labo Santal 33 Body Lotion",
+    "genero": "Unisex",
+    "size": "237 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 191.25,
+    "priceBcv": 229.5,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f90f52716-nestor_parfum-s8al37v08jr-6ihpokwbtrp.png"
+  },
+  {
+    "id": "3sfjztepz3e",
+    "name": "Le Labo Santal 33 Shower Gel",
+    "genero": "Unisex",
+    "size": "237 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 150.75,
+    "priceBcv": 180.9,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f90f78f6c-nestor_parfum-3sfjztepz3e-jmzq2a2z0m.png"
+  },
+  {
+    "id": "mr5b13k3qpp",
+    "name": "Mancera Aoud Vanille EDP",
+    "genero": "Unisex",
+    "size": "120 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 118.13,
+    "priceBcv": 141.75,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64c3e63459808-nestor_parfum-mr5b13k3qpp-3vi682d7ivr.png"
+  },
+  {
+    "id": "7br2cynahes",
+    "name": "Mancera Cedrat Boise",
+    "genero": "Caballero",
+    "size": "120 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 168.75,
+    "priceBcv": 202.5,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d5e1a4e67-__nestor_parfum-7br2cynahes-2ud5dxlsj4b.png"
+  },
+  {
+    "id": "b0dae4dahqb",
+    "name": "Mancera Cedrat Boise Intense EDP",
+    "genero": "Unisex",
+    "size": "120 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 130.5,
+    "priceBcv": 156.6,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be45775c59f-nestor_parfum-b0dae4dahqb-a7qbh1tg2j.png"
+  },
+  {
+    "id": "zkzgfajle1",
+    "name": "Mancera Wild Python EDP",
+    "genero": "Dama",
+    "size": "120 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 165.38,
+    "priceBcv": 198.45,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c0d694e96-__nestor_parfum-zkzgfajle1-w09ftdkx2b.png"
+  },
+  {
+    "id": "dyf8botivq",
+    "name": "Marly Pegasus",
+    "genero": "Caballero",
+    "size": "125ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 324,
+    "priceBcv": 388.8,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d0a75a683-_nestor_parfum-dyf8botivq-qq1nm9ao5si.png"
+  },
+  {
+    "id": "7weoshinew2",
+    "name": "Parfums De Marly Delina Exclusif Edition Parfum",
+    "genero": "Dama",
+    "size": "75 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 414,
+    "priceBcv": 496.8,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb76c7b10-nestor_parfum-7weoshinew2-neuoitv2r58.png"
+  },
+  {
+    "id": "a29l983z0ie",
+    "name": "Parfums De Marly Galloway Royal Essence EDP",
+    "genero": "Unisex",
+    "size": "75 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 337.5,
+    "priceBcv": 405,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6cd42d96-nestor_parfum-a29l983z0ie-r77o1tda9gk.png"
+  },
+  {
+    "id": "qwhfk5fbizg",
+    "name": "Parfums De Marly Paris Delina Royal Essence EDP",
+    "genero": "Dama",
+    "size": "75 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 324,
+    "priceBcv": 388.8,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6642945a7b11e-nestor_parfum-qwhfk5fbizg-g8dt6ng0hue.png"
+  },
+  {
+    "id": "83b5lwibtd3",
+    "name": "Xerjoff Naxos EDP",
+    "genero": "Unisex",
+    "size": "100 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 320.63,
+    "priceBcv": 384.75,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19fddbd5d88-nestor_parfum-83b5lwibtd3-i2ygpqm6n0a.png"
   },
   {
     "id": "jszq9anxd5d",
