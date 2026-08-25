@@ -224,6 +224,25 @@ decantRegistry.forEach((entry) => {
   }
 });
 
+// ---- Fotos del proveedor que traen su logo/marca de agua (no las queremos
+// mostrar tal cual) -- registro manual en scripts/photo-overrides.json.
+// action "hide": no se muestra ninguna foto para ese producto (queda el
+// fondo de la tarjeta, sin imagen) hasta que se le agregue una propia.
+// action "replace": usa la imagen local indicada en vez de la del proveedor.
+const photoOverridesPath = path.join(__dirname, 'photo-overrides.json');
+const photoOverrides = fs.existsSync(photoOverridesPath)
+  ? JSON.parse(fs.readFileSync(photoOverridesPath, 'utf8'))
+  : [];
+
+photoOverrides.forEach((entry) => {
+  const pattern = new RegExp(entry.matchPattern, 'i');
+  const match = results.find((r) => !r.bucket.startsWith('exclude-') && pattern.test(r.rawTitle));
+  if (!match) return;
+  const siteItem = keyToSiteItem.get(match.key);
+  if (!siteItem) return;
+  siteItem.image = entry.action === 'replace' ? (entry.image || '') : '';
+});
+
 const jsOut = `// Generado automaticamente por scripts/build-catalog.js a partir del
 // catalogo publico de Nestor Parfum (vercatalogo.com/nestor_parfum).
 // Precio final = precio_proveedor x 0.90 (mayorista) x 1.25 (ganancia 25%).
