@@ -1,0 +1,175 @@
+const fs = require('fs');
+const path = require('path');
+
+const raw = JSON.parse(fs.readFileSync(path.join(__dirname, 'nestor-parfum-raw.json'), 'utf8'));
+
+// Brands that fit "arabe de nicho" positioning
+const ARABE_BRANDS = [
+  'LATTAFA', 'ARMAF', 'AFNAN', 'RASASI', 'HAWAS', 'AL HARAMAIN', 'ORIENTICA',
+  'MAISON ALHAMBRA', 'BHARARA', 'FRENCH AVENUE', 'EMPER', 'SWISS ARABIAN',
+  'AJMAL', 'NABEEL', 'ARD AL ZAAFARAN', 'RASHEED',
+  'NAYAAT', 'MAKTOUB', 'RAYHAAN', 'ASSALA', 'ARABIYAD', 'DAR EL', 'CIEL',
+  "L'HAYA", "L' HAYA", "L ' HAYA"
+];
+
+// Recognized designer / prestige (and Western niche-luxury) brands
+const DESIGNER_BRANDS = [
+  'VERSACE', 'TOM FORD', 'DOLCE', 'VALENTINO', 'HUGO BOSS', 'JEAN PAUL GAULTIER',
+  'CAROLINA HERRERA', 'CAROLINA HERREARA', 'PACO RABANNE', 'LACOSTE', 'CALVIN KLEIN',
+  'RALPH LAUREN', 'PRADA', 'LANCOME', 'AZZARO', 'GUESS', 'ISSEY MIYAKE',
+  'SALVATORE FERRAGAMO', 'VIKTOR & ROLF', 'ARIANA GRANDE', 'BRITNEY SPEARS',
+  'KATY PERRY', 'JESUS DEL POZO', 'JESÚS DEL POZO', 'CLINIQUE', 'CLÍNIQUE',
+  'NAUTICA', 'TOMMY HILFIGER', 'TOMMY GIRL', 'TOMMY IMPACT', 'TOMMY NOW',
+  'ANTONIO BANDERAS', 'ANTONIO BANDERA', 'VICTORINOX', 'PARIS HILTON', 'D&G',
+  'CHRISTIAN DIOR', 'DIOR', 'GIORGIO ARMANI', 'EMPORIO ARMANI', 'ARMANI',
+  'BURBERRY', 'BVLGARI', 'CARTIER', 'GUCCI', 'GUERLAIN', 'GIVENCHY', 'JIMMY CHOO',
+  'JUICY COUTURE', 'KENZO', 'LALIQUE', 'ELIZABETH ARDEN', 'ESTEE LAUDER',
+  'ESTEE LAUDEE', 'DKNY', 'COACH', 'DAVIDOFF', 'ESCADA', 'CACHAREL', 'BOUCHERON',
+  'ANIMALE', 'ABERCROMBIE', 'YVES SAINT LAURENT', 'MONT BLANC', 'JOOP', 'JO MILANO',
+  'KENNETH COLE', 'LOUIS VUITTON', 'MARC JACOBS', 'MOSCHINO', 'NINA RICCI',
+  'PERRY ELLIS', 'PHILIPP PLEIN', 'TED LAPIDUS', 'TOUS', 'ÓSCAR DE', 'OSCAR DE',
+  "VICTORIA'S SECRET", 'VICTIRIA\'S SECRET', 'BALDESSARINI', 'BENTLEY', 'BOND NRO',
+  'LIZ CLAIBORNE', 'LOLITA LEMPICKA', 'LAGERFELD', 'POLICE', 'LE LABO',
+  'PARFUMS DE MARLY', 'MARLY', "TERRE D'", 'CREED', 'BYREDO', 'MANCERA',
+  'YVES SAINT LAUREN'
+];
+
+// Budget/clone-only brands to exclude even though numerous
+const EXCLUDE_BRANDS = [
+  'NEW BRAND', 'CUBA', 'FRAGLUXE', 'FRAGLUX', 'MACARENA', 'GRANDEUR TUBBEES',
+  'DUMONT', 'MAST PERFUME', 'SHAKIRA', 'ADIDAS', 'BENETTON'
+];
+
+function classify(title) {
+  const t = title.toUpperCase();
+  // Only match brand names against the part BEFORE the first "•" (the actual
+  // product name), never against the full title — otherwise a "(similar al
+  // Paco Rabanne ...)" note on a budget/clone product would wrongly tag it
+  // as that designer brand.
+  const namePart = t.split('•')[0];
+  // The "(ÁRABE)" annotation is a real category marker and can appear
+  // anywhere in the title, so that one check still uses the full string.
+  if (/^TESTER\b/.test(t)) return 'exclude-tester';
+  if (/^SPLASH\b/.test(t)) return 'exclude-splash';
+  if (/NI[ÑN]O|KIDS|MARVEL|SPIDERMAN/.test(t)) return 'exclude-kids';
+  if (EXCLUDE_BRANDS.some(b => namePart.includes(b))) return 'exclude-budget';
+  if (/^ESTUCHE|^SET\b/.test(t)) return 'estuche';
+  if (/\(\s*ÁRABE\s*\)|\(\s*ARABE\s*\)/.test(t) || ARABE_BRANDS.some(b => namePart.includes(b))) return 'arabe';
+  if (DESIGNER_BRANDS.some(b => namePart.includes(b))) return 'disenador';
+  return 'unclassified';
+}
+
+function parseMoney(str) {
+  if (!str) return null;
+  const m = str.replace(/\./g, '').match(/([\d,]+)/);
+  if (!m) return null;
+  return parseFloat(m[1].replace(',', '.'));
+}
+
+function toTitleCase(str) {
+  return str.replace(/\w\S*/g, (w) => {
+    // keep known acronyms upper
+    if (/^(EDP|EDT|ML|CH|DKNY|YSL|USA|AM|PM|VIP|OUD)$/i.test(w)) return w.toUpperCase();
+    return w.charAt(0).toUpperCase() + w.slice(1).toLowerCase();
+  });
+}
+
+const seen = new Set();
+const results = raw.map((item) => {
+  const rawTitle = item.title.replace(/\s+/g, ' ').trim();
+  const bucket = classify(rawTitle);
+
+  // Title format: "NAME • GENERO • SIZE (nota)"
+  const parts = rawTitle.split('•').map(s => s.trim());
+  const namePart = parts[0] || rawTitle;
+  const generoPart = parts[1] || '';
+  let sizePart = parts[2] || '';
+
+  // Pull "(similar al X)" / "(ÁRABE)" asides out of the size string into
+  // their own note, so size just shows e.g. "100 ML".
+  let note = '';
+  const parenMatch = sizePart.match(/\(([^)]+)\)/);
+  if (parenMatch) {
+    note = parenMatch[1].trim();
+    sizePart = sizePart.replace(/\([^)]+\)/g, '').trim();
+  }
+  if (/^ÁRABE$|^ARABE$/i.test(note)) note = '';
+
+  const rawUsd = parseMoney(item.price);
+  const rawBcv = parseMoney(item.bcv);
+  const finalUsd = rawUsd != null ? Math.round(rawUsd * 1.125 * 100) / 100 : null;
+  const finalBcv = rawBcv != null ? Math.round(rawBcv * 1.125 * 100) / 100 : null;
+
+  return {
+    key: rawTitle.toLowerCase(),
+    rawTitle,
+    name: toTitleCase(namePart),
+    genero: generoPart,
+    size: sizePart,
+    note: note ? toTitleCase(note.toLowerCase()) : '',
+    bucket,
+    rawUsd, rawBcv, finalUsd, finalBcv
+  };
+}).filter((item) => {
+  if (item.finalUsd == null) return false;
+  if (seen.has(item.key)) return false;
+  seen.add(item.key);
+  return true;
+});
+
+const counts = {};
+results.forEach(r => { counts[r.bucket] = (counts[r.bucket] || 0) + 1; });
+
+const curatedBuckets = ['arabe', 'disenador', 'estuche'];
+const curated = results.filter(r => curatedBuckets.includes(r.bucket));
+const unclassified = results.filter(r => r.bucket === 'unclassified');
+
+fs.writeFileSync(path.join(__dirname, 'catalog-full-classified.json'), JSON.stringify(results, null, 2));
+fs.writeFileSync(path.join(__dirname, 'catalog-curated.json'), JSON.stringify(curated, null, 2));
+fs.writeFileSync(path.join(__dirname, 'catalog-unclassified.json'), JSON.stringify(unclassified.map(u => u.rawTitle), null, 2));
+
+// ---- Site-ready data file ----
+const bucketOrder = { arabe: 0, disenador: 1, estuche: 2 };
+const bucketLabel = { arabe: 'Árabe de nicho', disenador: 'Diseñador', estuche: 'Estuche' };
+
+function slugify(str) {
+  return str.toLowerCase()
+    .normalize('NFD').replace(/[̀-ͯ]/g, '')
+    .replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+
+const usedIds = new Set();
+const siteData = curated
+  .sort((a, b) => (bucketOrder[a.bucket] - bucketOrder[b.bucket]) || a.name.localeCompare(b.name))
+  .map((item) => {
+    let id = slugify(`${item.name}-${item.size}`);
+    while (usedIds.has(id)) id += '-x';
+    usedIds.add(id);
+    return {
+      id,
+      name: item.name,
+      genero: item.genero ? item.genero.charAt(0) + item.genero.slice(1).toLowerCase() : '',
+      size: item.size,
+      note: item.note,
+      category: item.bucket,
+      categoryLabel: bucketLabel[item.bucket],
+      priceUsd: item.finalUsd,
+      priceBcv: item.finalBcv
+    };
+  });
+
+const jsOut = `// Generado automaticamente por scripts/build-catalog.js a partir del
+// catalogo publico de Nestor Parfum (vercatalogo.com/nestor_parfum).
+// Precio final = precio_proveedor x 0.90 (mayorista) x 1.25 (ganancia 25%).
+// No editar a mano: volver a correr el script si cambian los precios del proveedor.
+window.CATALOGO_NESTOR = ${JSON.stringify(siteData, null, 2)};
+`;
+fs.writeFileSync(path.join(__dirname, '..', 'assets', 'data', 'catalogo.js'), jsOut);
+
+console.log('Site-ready items written:', siteData.length);
+
+console.log('Total raw:', raw.length);
+console.log('Total unique parsed:', results.length);
+console.log('Counts by bucket:', counts);
+console.log('Curated total:', curated.length);
+console.log('Sample curated:', curated.slice(0, 5));

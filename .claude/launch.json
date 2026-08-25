@@ -2,10 +2,10 @@
   "version": "0.0.1",
   "configurations": [
     {
-      "name": "perfumeria",
+      "name": "df-parfums",
       "runtimeExecutable": "node",
       "runtimeArgs": ["dev-server.js"],
-      "port": 5500
+      "port": 5501
     }
   ]
 }

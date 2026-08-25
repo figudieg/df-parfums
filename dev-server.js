@@ -2,7 +2,7 @@ const http = require('http');
 const fs = require('fs');
 const path = require('path');
 
-const port = 5500;
+const port = 5501;
 const root = __dirname;
 
 const mime = {
