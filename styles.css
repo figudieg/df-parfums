@@ -1,45 +1,10 @@
 :root {
-  /* Marca (no cambian con el tema) */
+  /* Marca */
   --green-deep: #12352A;
-  --gold: #B8965F;
   --white: #FFFFFF;
 
-  /* Tokens de tema (claro por defecto) */
-  --bg: #FAF6EC;
-  --bg-alt: #F2EBD8;
-  --surface: #FFFFFF;
-  --text: #1C1B17;
-  --text-soft: #5B5A52;
-  --heading: #12352A;
-  --heading-rgb: 18, 53, 42;
-  --border: rgba(18, 53, 42, 0.08);
-  --border-strong: rgba(18, 53, 42, 0.15);
-  --tint: rgba(18, 53, 42, 0.06);
-
-  --radius-lg: 26px;
-  --radius-md: 18px;
-  --radius-sm: 12px;
-  --shadow-soft: 0 20px 45px -20px rgba(18, 53, 42, 0.25);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #0E1712;
-    --bg-alt: #17221B;
-    --surface: #17221B;
-    --text: #EDE8DC;
-    --text-soft: #A7B0A9;
-    --heading: #F2ECDD;
-    --heading-rgb: 242, 236, 221;
-    --border: rgba(242, 236, 221, 0.09);
-    --border-strong: rgba(242, 236, 221, 0.18);
-    --tint: rgba(242, 236, 221, 0.08);
-    --gold: #CBA876;
-    --shadow-soft: 0 20px 45px -20px rgba(0, 0, 0, 0.5);
-  }
-}
-
-:root[data-theme="dark"] {
+  /* Tokens de tema -- oscuro por defecto */
+  --gold: #CBA876;
   --bg: #0E1712;
   --bg-alt: #17221B;
   --surface: #17221B;
@@ -50,8 +15,26 @@
   --border: rgba(242, 236, 221, 0.09);
   --border-strong: rgba(242, 236, 221, 0.18);
   --tint: rgba(242, 236, 221, 0.08);
-  --gold: #CBA876;
   --shadow-soft: 0 20px 45px -20px rgba(0, 0, 0, 0.5);
+
+  --radius-lg: 26px;
+  --radius-md: 18px;
+  --radius-sm: 12px;
+}
+
+:root[data-theme="light"] {
+  --gold: #B8965F;
+  --bg: #FAF6EC;
+  --bg-alt: #F2EBD8;
+  --surface: #FFFFFF;
+  --text: #1C1B17;
+  --text-soft: #5B5A52;
+  --heading: #12352A;
+  --heading-rgb: 18, 53, 42;
+  --border: rgba(18, 53, 42, 0.08);
+  --border-strong: rgba(18, 53, 42, 0.15);
+  --tint: rgba(18, 53, 42, 0.06);
+  --shadow-soft: 0 20px 45px -20px rgba(18, 53, 42, 0.25);
 }
 
 * { box-sizing: border-box; }
@@ -207,10 +190,7 @@ a { text-decoration: none; color: inherit; }
   position: absolute;
   inset: 0;
   z-index: -1;
-  background:
-    radial-gradient(circle at 18% 20%, rgba(31, 75, 54, 0.10) 0%, transparent 45%),
-    radial-gradient(circle at 82% 75%, rgba(184, 150, 95, 0.14) 0%, transparent 45%),
-    var(--bg);
+  background: var(--bg);
 }
 
 .hero-inner {
@@ -565,17 +545,13 @@ a { text-decoration: none; color: inherit; }
 
 .mini-card-decant { border-color: rgba(184, 150, 95, 0.5); }
 
-/* Fondo con degrade suave en vez de blanco plano -- evita el look "vacio" */
 .mini-card-photo {
   width: 100%;
   aspect-ratio: 1 / 1;
   border-radius: var(--radius-sm);
   overflow: hidden;
   margin-bottom: 14px;
-  background:
-    radial-gradient(circle at 30% 25%, rgba(184, 150, 95, 0.16) 0%, transparent 55%),
-    radial-gradient(circle at 75% 80%, rgba(31, 75, 54, 0.12) 0%, transparent 55%),
-    var(--bg-alt);
+  background: var(--bg-alt);
   border: 1px solid var(--border);
   display: flex;
   align-items: center;
