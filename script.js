@@ -22,6 +22,36 @@ window.addEventListener('load', onScroll);
 
 document.getElementById('year').textContent = new Date().getFullYear();
 
+// ---------- Modo oscuro / claro ----------
+const THEME_KEY = 'df-theme';
+const themeToggleBtn = document.getElementById('themeToggle');
+const prefersDarkQuery = window.matchMedia('(prefers-color-scheme: dark)');
+
+function isDarkActive() {
+  const stored = localStorage.getItem(THEME_KEY);
+  if (stored === 'dark') return true;
+  if (stored === 'light') return false;
+  return prefersDarkQuery.matches;
+}
+
+function syncThemeToggleIcon() {
+  if (themeToggleBtn) themeToggleBtn.classList.toggle('is-dark', isDarkActive());
+}
+
+syncThemeToggleIcon();
+prefersDarkQuery.addEventListener('change', () => {
+  if (!localStorage.getItem(THEME_KEY)) syncThemeToggleIcon();
+});
+
+if (themeToggleBtn) {
+  themeToggleBtn.addEventListener('click', () => {
+    const next = isDarkActive() ? 'light' : 'dark';
+    localStorage.setItem(THEME_KEY, next);
+    document.documentElement.setAttribute('data-theme', next);
+    syncThemeToggleIcon();
+  });
+}
+
 // ---------- Catalogo (proveedor + insignia de decant cuando aplica) ----------
 const WA_NUMBER = '584121985211';
 const allProducts = window.CATALOGO_NESTOR || [];
