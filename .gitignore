@@ -2,6 +2,7 @@
 Thumbs.db
 node_modules/
 .claude/settings.local.json
+*.traineddata
 
 # Debug-only outputs from scripts/build-catalog.js (regenerable, not needed to run the site)
 scripts/catalog-full-classified.json

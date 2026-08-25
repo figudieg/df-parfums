@@ -113,7 +113,10 @@ const results = raw.map((item) => {
   return {
     key: rawTitle.toLowerCase(),
     code: item.code || '',
-    image: item.image || '',
+    // Si scripts/detect-watermarks.js marco esta foto con el logo del
+    // proveedor pegado, no la mostramos (queda sin foto hasta que
+    // photo-overrides.json le ponga una propia).
+    image: item.watermark ? '' : (item.image || ''),
     rawTitle,
     name: toTitleCase(namePart),
     genero: generoPart,
