@@ -31,7 +31,8 @@ assets/
   logo/         → logo.jpg (original), logo-white-nav.png (letras blancas, para el nav verde), logo-video.MP4
   productos/    → 6 fotos de producto reales (1 a 6, nombradas por producto)
   data/
-    catalogo.js → catálogo completo (~1000 productos, con foto) generado desde el proveedor, ver abajo
+    catalogo.js    → catálogo del proveedor (~900 productos, con foto), auto-generado, ver abajo
+    destacados.js  → los 6 productos con foto propia y decant disponible, se edita a mano
 scripts/
   scrape-catalog.js        → scraping con Playwright del catálogo en vivo del proveedor (titulo, precios, código, foto)
   build-catalog.js         → genera assets/data/catalogo.js a partir del raw scrapeado (filtros de marca + fórmula de precio)
@@ -54,24 +55,18 @@ Para levantar el sitio localmente: `node dev-server.js` (sirve en `http://localh
 - **Hero:** una sola columna centrada (logo/video arriba, texto abajo, botones). Se probó un layout de grid en dos columnas y secciones alternadas verde/blanco, pero **el usuario pidió revertir todo eso** — solo se quedó el cambio de color del nav. No reintentar esos cambios a menos que el usuario lo pida de nuevo explícitamente.
 - El video del logo (`logo-video.MP4`) tiene su propio fondo "quemado" en el video — no se puede recolorear con CSS, solo se igualó el fondo del contenedor al crema de la página.
 
-## Catálogo destacado (los 6 productos originales, con foto real)
+## Catálogo (un solo sistema unificado, decants + inventario del proveedor)
 
-Cada tarjeta es un `<button class="product-card">` con `data-*` attributes que alimentan el **modal de detalle** (foto grande, descripción, precios, botón de WhatsApp con mensaje predefinido). Estos 6 tienen foto real (tomada por el usuario) y precios **fijados a mano por él** (no vienen de la fórmula del proveedor):
+**Importante (Agosto 2026):** hasta hace poco había dos secciones separadas en la página — un grid de 6 tarjetas con foto propia (`.product-card`, hardcodeadas en `index.html`) y, debajo, el catálogo completo del proveedor (`.mini-card`). El usuario dijo explícitamente que **no le gustaba esa separación**, así que se fusionó todo en **un solo grid** bajo `#catalogo`. Si en el futuro alguien propone volver a separar "destacados" del resto, avisar que fue una decisión explícita del usuario, no un accidente.
 
-| Producto | Precio Divisas/Efectivo | Precio BCV | Decant |
-|---|---|---|---|
-| AFNAN 9pm Night Out | $65 | $80 | Sí |
-| Armaf Club de Nuit Urban Man Elixir | $55,08 | *(sin definir)* | Sí |
-| Lattafa Pride Art of Universe | $70 | $80 | Sí |
-| Hawas For Him — Fire | $65 | $80 | Sí |
-| Hawas For Him — Malibu | $60 | $75 | Sí |
-| Armaf Dunescape Dubai | $55 | $65 | Sí |
+Cómo quedó:
+- Los 6 productos con foto propia viven ahora en `assets/data/destacados.js` (`window.DESTACADOS_DECANT`), **no en HTML** — cada uno con id, nombre, tamaño, precios, `image` (foto real en `assets/productos/`), `desc` (descripción) y `decant: true`. Este archivo se edita a mano; el scraping automático nunca lo toca.
+- `script.js` arma `allProducts = [...DESTACADOS_DECANT, ...CATALOGO_NESTOR]` y renderiza **todo con la misma tarjeta** (`.mini-card`). Los que tienen `decant: true` se ordenan siempre primero (dentro de "Todos" y dentro de su categoría) y llevan una insignia dorada "Decant". Hay un filtro extra `data-cat="decant"` para verlos solos.
+- Solo las tarjetas con `decant: true` son clicables para abrir el modal de detalle (foto grande + descripción + precios); las del catálogo del proveedor no tienen descripción propia, así que su única acción es el botón directo a WhatsApp — igual que antes.
+- **"Disponible en decant" sigue siendo una afirmación real solo sobre esos 6** — el usuario dijo explícitamente que hoy son los únicos que tiene físicamente a la mano para fraccionar; el resto del catálogo (proveedor) son botellas completas, nunca asumir que hay decant ahí.
+- Precios: `$65,08` con coma no se usa en la UI — `fmtPrice()` en `script.js` usa punto decimal (`$55.08`), así ha sido siempre en el catálogo grande, no es un bug nuevo.
 
-El "disponible en decant" es una afirmación real que el usuario hizo específicamente sobre estos 6 — **no asumir que aplica a los 600 del catálogo completo** (de esos no sabemos si hay decant).
-
-## Catálogo completo (~1000 productos, conectado con el proveedor, se auto-actualiza)
-
-Sección nueva (`#catalogo-mayor`) debajo del catálogo destacado: buscador + filtros por categoría (Árabes / Diseñador / Nicho / Estuches / Todos) + grid paginado de 30 en 30 ("Mostrar más"). Cada tarjeta (`.mini-card`) muestra foto (si el proveedor la tiene), nombre, género/tamaño, nota "similar a X" si aplica, ambos precios, y botón directo a WhatsApp con mensaje pre-armado por producto — todo generado dinámicamente en `script.js` a partir de `window.CATALOGO_NESTOR` (definido en `assets/data/catalogo.js`).
+Cada tarjeta del grid unificado muestra foto (real para los 6, del proveedor para el resto — con fondo degradado sutil en dorado/verde en vez de blanco plano), categoría, nombre, género/tamaño, nota "similar a X" si aplica (con altura reservada aunque no haya nota, para que todas las tarjetas de una fila midan igual), ambos precios (ahora estandarizados: USD con fondo verde sólido, BCV con chip dorado claro, mismo tamaño y peso de fuente en ambos para que se lean igual de bien), y botón de WhatsApp — todo generado dinámicamente en `script.js`.
 
 **Origen de los datos y auto-sync (Agosto 2026):** el catálogo del proveedor (`vercatalogo.com/nestor_parfum/products/by-all/all`) es un sitio Angular que carga los productos por lotes al hacer click en "Ver mas", con fotos en lazy-load. Un GitHub Action programado (`.github/workflows/sync-catalog.yml`, corre todos los días a las 9am hora Venezuela + se puede disparar a mano desde la pestaña Actions del repo) usa Playwright (`scripts/scrape-catalog.js`) para abrir esa página con un navegador real, clickear "Ver mas" hasta cargar todo, hacer scroll para disparar el lazy-load de fotos, y extraer título + precio + BCV + código único de producto + URL de foto de cada `.card`. Con eso regenera `scripts/nestor-parfum-raw.json` y corre `scripts/build-catalog.js`, que aplica la fórmula de precio y filtros de marca (ver abajo) y reescribe `assets/data/catalogo.js`. Si algo cambió, el workflow hace commit y push directo a `main`, lo que dispara el deploy automático de Vercel — es decir, el sitio se actualiza solo, sin que nadie tenga que correr nada a mano.
 - **Cómo se detectan productos que el proveedor ya no tiene:** cada producto usa como `id` el código único que el proveedor le asigna internamente (`.codigo-producto` en su HTML, ej. `"yeelpa7cuvn"`), no un slug del nombre. Como el scraping siempre trae el catálogo completo y vigente, un producto que el proveedor quitó simplemente no aparece en la nueva pasada y desaparece de `catalogo.js` — no hace falta lógica de diff aparte.
@@ -94,30 +89,27 @@ Sección nueva (`#catalogo-mayor`) debajo del catálogo destacado: buscador + fi
 2. **Categorías que quedaron afuera a propósito:** testers, splash, perfumes de niños, marcas de imitación baratas (New Brand, Cuba, Fraglux, Macarena, etc.), y **decants** (cualquier producto con "DECANT" en el nombre, ~140 en el catálogo del proveedor) — el usuario no ofrece servicio de decant, así que no le sirve mostrarlos (confirmado Agosto 2026). Si el usuario los quiere después, están en `scripts/catalog-unclassified.json` (gitignored, hay que re-correr el scraping) o simplemente se amplían/ajustan las reglas de `classify()` en `build-catalog.js`.
 4. El catálogo completo es una **foto fija** del proveedor al momento del scraping (Agosto 2026) — no se actualiza solo. Si los precios o el inventario del proveedor cambian, hay que volver a scrapear y correr `build-catalog.js`.
 
-## Cómo agregar un producto individual al catálogo destacado (los 6 con foto)
+## Cómo agregar un producto individual con decant (foto propia)
 
-```html
-<button type="button" class="product-card reveal reveal-up"
-  data-brand="MARCA" data-name="Nombre" data-size="Tipo · tamaño"
-  data-price-usd="$XX" data-price-bcv="$YY" data-decant="true"
-  data-desc="Descripción corta del aroma."
-  data-img="assets/productos/archivo.jpg"
-  data-wa="https://wa.me/584121985211?text=Hola%2C%20estoy%20interesado%20en%20[NOMBRE%20URL-ENCODED].%20Quiero%20m%C3%A1s%20informaci%C3%B3n.">
-  <div class="product-photo"><img src="assets/productos/archivo.jpg" alt="Marca Nombre" loading="lazy"></div>
-  <div class="product-info">
-    <span class="product-brand">MARCA</span>
-    <h4>Nombre</h4>
-    <span class="product-size">Tipo · tamaño</span>
-    <div class="product-prices">
-      <span class="price-usd">$XX <em>Divisas/Efectivo</em></span>
-      <span class="price-bcv">$YY <em>BCV</em></span>
-    </div>
-    <span class="decant-badge">Disponible en decant</span>
-  </div>
-  <span class="product-cta">Ver detalle →</span>
-</button>
+**No se edita HTML.** Se agrega un objeto al array `window.DESTACADOS_DECANT` en `assets/data/destacados.js`:
+
+```js
+{
+  id: 'destacado-marca-nombre',        // unico, minusculas, guiones
+  name: 'Marca Nombre',                 // marca incluida en el nombre, igual que el catalogo grande
+  genero: '',                           // opcional, ej. 'Caballero' / 'Dama' / 'Unisex'
+  size: 'Tipo · tamaño',
+  note: '',
+  category: 'arabe',                    // 'arabe' | 'disenador' | 'nicho' | 'estuche'
+  categoryLabel: 'Árabes',
+  priceUsd: 65,                         // numero, no string
+  priceBcv: 80,                         // o null si todavia no se sabe
+  image: 'assets/productos/archivo.jpg',
+  decant: true,
+  desc: 'Descripción corta del aroma.'
+}
 ```
 
-Si no hay precio BCV, se omite el `<span class="price-bcv">` (el JS del modal ya maneja `data-price-bcv=""` vacío ocultando esa línea).
+Foto real del producto va en `assets/productos/`. No hace falta tocar `index.html` ni `script.js` — el render, el badge "Decant", el orden (siempre primero) y el modal de detalle salen solos de ese objeto.
 
-Para el catálogo completo (los 600), **no se edita HTML a mano** — se edita `scripts/build-catalog.js` (listas de marcas o lógica de precio) y se vuelve a correr `node scripts/build-catalog.js`, que regenera `assets/data/catalogo.js` completo.
+Para el resto del catálogo (proveedor, sin decant), **tampoco se edita a mano** — corre solo todos los días (ver sección de auto-sync arriba). Si hay que ajustar qué marcas entran, se edita `scripts/build-catalog.js`.

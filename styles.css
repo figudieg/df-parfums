@@ -262,109 +262,37 @@ a { text-decoration: none; color: inherit; }
 
 .catalogo { padding: 40px 0 100px; }
 
-/* ---------- Product grid ---------- */
-.product-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 26px;
-}
-
-.product-card {
-  display: flex;
-  flex-direction: column;
-  background: var(--white);
-  border-radius: var(--radius-lg);
-  overflow: hidden;
-  border: 1px solid rgba(18,53,42,0.08);
-  box-shadow: 0 16px 32px -22px rgba(18,53,42,0.22);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  width: 100%;
-  padding: 0;
-  font-family: inherit;
-  text-align: left;
-  cursor: pointer;
-}
-
-.product-card:hover {
-  transform: translateY(-6px);
-  box-shadow: 0 26px 40px -20px rgba(18,53,42,0.32);
-}
-
-.product-photo {
-  aspect-ratio: 4 / 5;
-  background: var(--cream-alt);
-  overflow: hidden;
-}
-
-.product-photo img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  object-position: center 30%;
-  filter: saturate(0.94) contrast(1.04);
-  transition: transform 0.5s ease;
-}
-
-.product-card:hover .product-photo img {
-  transform: scale(1.04);
-}
-
-.product-info { padding: 20px 22px 6px; flex: 1; }
-
-.product-brand {
-  font-size: 11.5px;
-  letter-spacing: 0.14em;
-  color: var(--gold);
-  font-weight: 700;
-  text-transform: uppercase;
-}
-
-.product-info h4 {
-  font-size: 18px;
-  margin: 6px 0 8px;
-  line-height: 1.3;
-}
-
-.product-size {
-  font-size: 13px;
-  color: var(--ink-soft);
-}
-
-.product-prices {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin-top: 12px;
-}
-
+/* ---------- Precios (compartido: mini-card + modal) ---------- */
 .price-usd, .price-bcv {
   font-family: 'Playfair Display', serif;
-  font-size: 15px;
+  font-size: 16px;
   font-weight: 700;
-  padding: 5px 12px;
+  line-height: 1;
+  padding: 7px 14px;
   border-radius: 999px;
+  letter-spacing: 0.01em;
 }
 
 .price-usd {
-  background: var(--cream-alt);
-  color: var(--green-deep);
+  background: var(--green-deep);
+  color: var(--white);
 }
 
 .price-bcv {
-  background: transparent;
-  color: var(--ink-soft);
-  border: 1px solid rgba(18,53,42,0.15);
+  background: var(--cream-alt);
+  color: var(--green-deep);
+  border: 1px solid rgba(184, 150, 95, 0.4);
 }
 
 .price-usd em, .price-bcv em {
   font-family: 'Inter', sans-serif;
   font-style: normal;
-  font-weight: 500;
-  font-size: 10.5px;
+  font-weight: 600;
+  font-size: 9.5px;
   text-transform: uppercase;
-  letter-spacing: 0.04em;
-  opacity: 0.75;
-  margin-left: 3px;
+  letter-spacing: 0.05em;
+  opacity: 0.8;
+  margin-left: 4px;
 }
 
 .decant-badge {
@@ -378,20 +306,6 @@ a { text-decoration: none; color: inherit; }
 
 .decant-badge::before {
   content: "✓ ";
-}
-
-.product-cta {
-  margin: 18px 22px 22px;
-  font-size: 13.5px;
-  font-weight: 600;
-  color: var(--green-deep);
-}
-
-@media (max-width: 900px) {
-  .product-grid { grid-template-columns: repeat(2, 1fr); }
-}
-@media (max-width: 560px) {
-  .product-grid { grid-template-columns: 1fr; }
 }
 
 /* ---------- Cobertura ---------- */
@@ -617,14 +531,7 @@ a { text-decoration: none; color: inherit; }
   .modal-info { padding: 28px 24px; }
 }
 
-/* ---------- Catalogo completo link (featured section) ---------- */
-.catalogo-completo-link {
-  text-align: center;
-  margin-top: 44px;
-}
-
-/* ---------- Catalogo mayor (full inventory) ---------- */
-.catalogo-mayor { padding: 20px 0 100px; background: var(--white); }
+/* ---------- Catalogo (destacados con decant + inventario del proveedor) ---------- */
 
 .catalogo-controls {
   display: flex;
@@ -689,44 +596,61 @@ a { text-decoration: none; color: inherit; }
 .mini-grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 18px;
+  gap: 20px;
 }
 
 .mini-card {
-  background: var(--cream);
+  display: flex;
+  flex-direction: column;
+  background: var(--white);
   border-radius: var(--radius-md);
-  padding: 20px 22px;
+  padding: 16px 18px 18px;
   border: 1px solid rgba(18,53,42,0.07);
+  box-shadow: 0 14px 26px -22px rgba(18,53,42,0.28);
   transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
+.mini-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 32px -18px rgba(18,53,42,0.3);
+  border-color: rgba(18,53,42,0.15);
+}
+
+.mini-card-decant { border-color: rgba(184, 150, 95, 0.5); cursor: pointer; }
+.mini-card-decant:hover { border-color: var(--gold); }
+
+/* Fondo con degrade suave en vez de blanco plano -- evita el look "vacio" */
 .mini-card-photo {
   width: 100%;
   aspect-ratio: 1 / 1;
-  border-radius: var(--radius-sm, 10px);
+  border-radius: var(--radius-sm, 12px);
   overflow: hidden;
-  margin-bottom: 12px;
-  background: #fff;
+  margin-bottom: 14px;
+  background:
+    radial-gradient(circle at 30% 25%, rgba(184, 150, 95, 0.16) 0%, transparent 55%),
+    radial-gradient(circle at 75% 80%, rgba(31, 75, 54, 0.08) 0%, transparent 55%),
+    var(--cream-alt);
+  border: 1px solid rgba(18,53,42,0.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .mini-card-photo img {
   width: 100%;
   height: 100%;
   object-fit: contain;
+  padding: 10px;
 }
 
-.mini-card:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 16px 28px -18px rgba(18,53,42,0.3);
-  border-color: rgba(18,53,42,0.15);
-}
+.mini-card-body { flex: 1; display: flex; flex-direction: column; }
 
 .mini-card-top {
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
-  gap: 10px;
-  margin-bottom: 10px;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 8px;
 }
 
 .mini-card-category {
@@ -737,35 +661,56 @@ a { text-decoration: none; color: inherit; }
   color: var(--gold);
 }
 
+.mini-card-decant-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 9.5px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--green-deep);
+  background: rgba(184, 150, 95, 0.22);
+  padding: 3px 9px;
+  border-radius: 999px;
+}
+
+.mini-card-decant-badge::before {
+  content: "✓";
+}
+
 .mini-card h4 {
-  font-size: 16px;
+  font-size: 15.5px;
   line-height: 1.3;
   margin: 0 0 4px;
 }
 
 .mini-card-meta {
-  font-size: 12.5px;
+  font-size: 12px;
   color: var(--ink-soft);
   margin-bottom: 4px;
 }
 
+/* min-height reserva la misma linea para todas las tarjetas, tengan nota o no */
 .mini-card-note {
   font-size: 11.5px;
   color: var(--ink-soft);
   font-style: italic;
-  margin-bottom: 12px;
+  line-height: 1.4;
+  min-height: 1.4em;
+  margin-bottom: 4px;
 }
 
 .mini-card-prices {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px;
-  margin-bottom: 14px;
+  gap: 7px;
+  margin: 12px 0 12px;
 }
 
 .mini-card-prices .price-usd, .mini-card-prices .price-bcv {
-  font-size: 12.5px;
-  padding: 4px 10px;
+  font-size: 13px;
+  padding: 5px 12px;
 }
 
 .mini-card-wa {
@@ -774,7 +719,7 @@ a { text-decoration: none; color: inherit; }
   justify-content: center;
   gap: 8px;
   width: 100%;
-  padding: 10px;
+  padding: 11px;
   border-radius: 999px;
   background: var(--green-deep);
   color: var(--white);
