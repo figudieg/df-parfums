@@ -109,6 +109,7 @@ function renderMiniGrid() {
   } else {
     grid.innerHTML = toShow.map((item) => `
       <div class="mini-card">
+        ${item.image ? `<div class="mini-card-photo"><img src="${item.image}" alt="${item.name}" loading="lazy"></div>` : ''}
         <div class="mini-card-top">
           <span class="mini-card-category">${item.categoryLabel}</span>
         </div>

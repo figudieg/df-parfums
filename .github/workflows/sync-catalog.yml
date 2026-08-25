@@ -1,0 +1,44 @@
+name: Sync catalogo Nestor Parfum
+
+on:
+  schedule:
+    # 9:00 AM hora de Venezuela (UTC-4) todos los dias
+    - cron: '0 13 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Instalar Chromium (Playwright)
+        run: npx playwright install --with-deps chromium
+
+      - name: Re-scrapear catalogo y regenerar assets/data/catalogo.js
+        run: npm run sync-catalog
+
+      - name: Commit y push si hubo cambios
+        run: |
+          git config user.name "df-parfums-bot"
+          git config user.email "actions@users.noreply.github.com"
+          FILES="assets/data/catalogo.js scripts/nestor-parfum-raw.json scripts/catalog-curated.json"
+          if git diff --quiet -- $FILES; then
+            echo "Sin cambios en el catalogo, nada que commitear."
+            exit 0
+          fi
+          git add $FILES
+          git commit -m "Auto-sync catalogo Nestor Parfum $(date -u +%Y-%m-%d)"
+          git push

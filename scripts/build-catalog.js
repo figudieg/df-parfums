@@ -102,6 +102,8 @@ const results = raw.map((item) => {
 
   return {
     key: rawTitle.toLowerCase(),
+    code: item.code || '',
+    image: item.image || '',
     rawTitle,
     name: toTitleCase(namePart),
     genero: generoPart,
@@ -112,8 +114,9 @@ const results = raw.map((item) => {
   };
 }).filter((item) => {
   if (item.finalUsd == null) return false;
-  if (seen.has(item.key)) return false;
-  seen.add(item.key);
+  const dedupeKey = item.code || item.key;
+  if (seen.has(dedupeKey)) return false;
+  seen.add(dedupeKey);
   return true;
 });
 
@@ -142,7 +145,7 @@ const usedIds = new Set();
 const siteData = curated
   .sort((a, b) => (bucketOrder[a.bucket] - bucketOrder[b.bucket]) || a.name.localeCompare(b.name))
   .map((item) => {
-    let id = slugify(`${item.name}-${item.size}`);
+    let id = item.code || slugify(`${item.name}-${item.size}`);
     while (usedIds.has(id)) id += '-x';
     usedIds.add(id);
     return {
@@ -154,17 +157,35 @@ const siteData = curated
       category: item.bucket,
       categoryLabel: bucketLabel[item.bucket],
       priceUsd: item.finalUsd,
-      priceBcv: item.finalBcv
+      priceBcv: item.finalBcv,
+      image: item.image || ''
     };
   });
 
 const jsOut = `// Generado automaticamente por scripts/build-catalog.js a partir del
 // catalogo publico de Nestor Parfum (vercatalogo.com/nestor_parfum).
 // Precio final = precio_proveedor x 0.90 (mayorista) x 1.25 (ganancia 25%).
-// No editar a mano: volver a correr el script si cambian los precios del proveedor.
+// Este archivo se regenera solo (ver .github/workflows/sync-catalog.yml) cada
+// vez que corre scripts/scrape-catalog.js. No editar a mano.
 window.CATALOGO_NESTOR = ${JSON.stringify(siteData, null, 2)};
 `;
-fs.writeFileSync(path.join(__dirname, '..', 'assets', 'data', 'catalogo.js'), jsOut);
+const outFile = path.join(__dirname, '..', 'assets', 'data', 'catalogo.js');
+
+// Salvaguarda: si el nuevo catalogo tiene muchos menos productos que el
+// anterior (ej. el scraping se rompio a medias por un cambio en el sitio del
+// proveedor), no lo sobreescribimos -- eso vaciaria el catalogo en vivo.
+if (fs.existsSync(outFile)) {
+  const prevMatch = fs.readFileSync(outFile, 'utf8').match(/"id":/g);
+  const prevCount = prevMatch ? prevMatch.length : 0;
+  if (prevCount > 0 && siteData.length < prevCount * 0.6) {
+    throw new Error(
+      `El nuevo catalogo tiene ${siteData.length} productos vs ${prevCount} antes (caida > 40%). ` +
+      `Probablemente el scraping fallo a medias. Abortando sin escribir catalogo.js.`
+    );
+  }
+}
+
+fs.writeFileSync(outFile, jsOut);
 
 console.log('Site-ready items written:', siteData.length);
 
