@@ -106,7 +106,11 @@ function renderCard(item) {
   return `
     <div class="mini-card${item.decant ? ' mini-card-decant' : ''}">
       <div class="mini-card-photo">
-        ${item.image ? `<img src="${item.image}" alt="${item.name}" loading="lazy">` : ''}
+        ${item.image ? `
+          <img src="${item.image}" alt="${item.name}" loading="lazy">
+          <span class="photo-mask photo-mask-bl"></span>
+          <span class="photo-mask photo-mask-br"></span>
+        ` : ''}
       </div>
       <div class="mini-card-body">
         <div class="mini-card-top">

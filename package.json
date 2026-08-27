@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Sitio estatico de DF Parfums. Sin build para el sitio en si; las devDependencies solo se usan para re-scrapear el catalogo del proveedor.",
   "scripts": {
-    "sync-catalog": "node scripts/scrape-catalog.js && node scripts/detect-watermarks.js && node scripts/build-catalog.js",
+    "sync-catalog": "node scripts/scrape-catalog.js && node scripts/detect-decant-photos.js && node scripts/build-catalog.js",
     "dev": "node dev-server.js"
   },
   "devDependencies": {

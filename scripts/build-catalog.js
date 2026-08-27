@@ -58,7 +58,10 @@ function classify(title) {
   if (/^TESTER\b/.test(t)) return 'exclude-tester';
   if (/^SPLASH\b/.test(t)) return 'exclude-splash';
   // No ofrecemos servicio de decant (no se venden por separado en tamaños
-  // chicos tipo 10 ML), asi que se excluyen del catalogo del sitio.
+  // chicos tipo 10 ML), asi que se excluyen del catalogo del sitio. Ojo:
+  // esto solo agarra los que dicen "DECANT" en el titulo -- muchos NO lo
+  // dicen ahi, solo se ve en la foto ("DECANT 10 ML" con dibujo del
+  // frasquito). Esos se detectan aparte con OCR, ver decantPhoto abajo.
   if (/DECANT/.test(namePart)) return 'exclude-decant';
   if (/NI[ÑN]O|KIDS|MARVEL|SPIDERMAN/.test(t)) return 'exclude-kids';
   if (EXCLUDE_BRANDS.some(b => namePart.includes(b))) return 'exclude-budget';
@@ -87,7 +90,10 @@ function toTitleCase(str) {
 const seen = new Set();
 const results = raw.map((item) => {
   const rawTitle = item.title.replace(/\s+/g, ' ').trim();
-  const bucket = classify(rawTitle);
+  // decantPhoto lo marca scripts/detect-decant-photos.js via OCR sobre la
+  // foto (busca la palabra "DECANT" en el dibujo que le pega el proveedor) --
+  // agarra los que no dicen "decant" en el titulo, que son la mayoria.
+  const bucket = item.decantPhoto ? 'exclude-decant' : classify(rawTitle);
 
   // Title format: "NAME • GENERO • SIZE (nota)"
   const parts = rawTitle.split('•').map(s => s.trim());
@@ -113,10 +119,11 @@ const results = raw.map((item) => {
   return {
     key: rawTitle.toLowerCase(),
     code: item.code || '',
-    // Si scripts/detect-watermarks.js marco esta foto con el logo del
-    // proveedor pegado, no la mostramos (queda sin foto hasta que
-    // photo-overrides.json le ponga una propia).
-    image: item.watermark ? '' : (item.image || ''),
+    // Ya no ocultamos la foto completa por marca de agua detectada (el OCR
+    // resulto poco confiable, ver PROYECTO.md) -- ahora styles.css recorta y
+    // tapa geometricamente esas zonas en TODAS las fotos, siempre. Se sigue
+    // mostrando la imagen del proveedor tal cual aqui.
+    image: item.image || '',
     rawTitle,
     name: toTitleCase(namePart),
     genero: generoPart,

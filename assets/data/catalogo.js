@@ -266,7 +266,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 73.13,
     "priceBcv": 87.75,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d21a2532f-_nestor_parfum-cbg5zi2agmk-1tz2c03lvee.png"
   },
   {
     "id": "vf6sprl6c3e",
@@ -278,7 +278,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 133.88,
     "priceBcv": 160.65,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c3803456c-_nestor_parfum-vf6sprl6c3e-s62jk2ykb5.png"
   },
   {
     "id": "oo3c8zuk62",
@@ -326,7 +326,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 94.5,
     "priceBcv": 113.4,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c57a446eb-_nestor_parfum-syur5vbweq-ssircss9sjd.png"
   },
   {
     "id": "lpir1gylb0b",
@@ -362,7 +362,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 132.75,
     "priceBcv": 159.3,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d490ac40c-_nestor_parfum-9ea5l15epu9-g9dnx59qpfc.png"
   },
   {
     "id": "mt475p1syo",
@@ -482,7 +482,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c794f1e89-_nestor_parfum-qq3dsl0199-8ki9u1tgczw.png"
   },
   {
     "id": "bemfdf0igz7",
@@ -506,7 +506,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb0179d48-_nestor_parfum-lubxzd5whfa-v484ecvyim.png"
   },
   {
     "id": "m09syy0vo8a",
@@ -518,7 +518,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 54,
     "priceBcv": 64.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4caf456e82-__nestor_parfum-m09syy0vo8a-b01fr3uldkd.png"
   },
   {
     "id": "1l6mfyen0vm",
@@ -710,7 +710,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c28698019-_nestor_parfum-x63fcwocef-7mzv6hvjdgl.png"
   },
   {
     "id": "evqexky783c",
@@ -1178,7 +1178,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 16.88,
     "priceBcv": 20.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d1754f8ac-__nestor_parfum-d2tfegrysxv-wzeo0fp8nym.png"
   },
   {
     "id": "evga4oamfz7",
@@ -1190,7 +1190,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Árabes",
     "priceUsd": 16.88,
     "priceBcv": 20.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d017954f0-_nestor_parfum-evga4oamfz7-osufksawdk.png"
   },
   {
     "id": "f9ugr9e3kmt",
@@ -3050,7 +3050,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 56.25,
     "priceBcv": 67.5,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ce670acb8-_nestor_parfum-h3iw0791uog-b9z2ngcjmtq.png"
   },
   {
     "id": "kvv5sqoh1f",
@@ -3062,7 +3062,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 54,
     "priceBcv": 64.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cbba03bb5-__nestor_parfum-kvv5sqoh1f-shugdyqxw2a.png"
   },
   {
     "id": "yl7bt2s0po",
@@ -3110,7 +3110,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 126,
     "priceBcv": 151.2,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d2e7b14c5-_nestor_parfum-bd1ll50xsn4-71di9osiiaq.png"
   },
   {
     "id": "cfppt6c3ibd",
@@ -3122,7 +3122,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d20297c10-__nestor_parfum-cfppt6c3ibd-nljb0ooep1.png"
   },
   {
     "id": "9k9lwhtaau",
@@ -3158,7 +3158,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cffc0c9d0-__nestor_parfum-exbpnqavz65-kb9ym65doxb.png"
   },
   {
     "id": "q625v13wyvb",
@@ -3230,7 +3230,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 29.25,
     "priceBcv": 35.1,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d4d444066-__nestor_parfum-8w9myvwfdj-knslwaf66pk.png"
   },
   {
     "id": "98v9v6sr1dp",
@@ -3386,7 +3386,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 28.13,
     "priceBcv": 33.75,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ccf00b8f9-__nestor_parfum-j0kjpi7hzhs-nwoija6sjv.png"
   },
   {
     "id": "n225to6eeaf",
@@ -3398,7 +3398,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 50.63,
     "priceBcv": 60.75,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ca3ce51c5-_nestor_parfum-n225to6eeaf-ghmrmvoth1.png"
   },
   {
     "id": "s5y95uonjwh",
@@ -3422,7 +3422,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d4ad7acee-__nestor_parfum-9900002-v9fy5slm86r.png"
   },
   {
     "id": "ivj8rek1wss",
@@ -3446,7 +3446,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ce24b6480-__nestor_parfum-hdor07vyp7d-x9994q48mle.png"
   },
   {
     "id": "qny3rjln5fp",
@@ -3710,7 +3710,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 73.13,
     "priceBcv": 87.75,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb3e0872e-__nestor_parfum-ljyiun51vj-ytkopig06xm.png"
   },
   {
     "id": "enh0xiiujv5",
@@ -3794,7 +3794,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 60.75,
     "priceBcv": 72.9,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d49fcc571-__nestor_parfum-9cl4yi2gu6j-7qx1stnlu95.png"
   },
   {
     "id": "ytzyfkzlln",
@@ -3878,7 +3878,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 30.38,
     "priceBcv": 36.45,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d43a118fa-__nestor_parfum-9rv119dyjtk-8cpn0g7nyxs.png"
   },
   {
     "id": "pemnv9izmdk",
@@ -3890,7 +3890,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c8a2078ed-__nestor_parfum-pemnv9izmdk-qy91efrk2tn.png"
   },
   {
     "id": "vbxrhgg9t2",
@@ -3962,7 +3962,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 151.88,
     "priceBcv": 182.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c97adcf24-_nestor_parfum-o4hrq5mskwa-e17hy76uez.png"
   },
   {
     "id": "yl2li93ln0e",
@@ -3974,7 +3974,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 167.63,
     "priceBcv": 201.15,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c1a8c781e-_nestor_parfum-yl2li93ln0e-2w27xwrjiuw.png"
   },
   {
     "id": "icp3l5dejq",
@@ -4022,7 +4022,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 91.13,
     "priceBcv": 109.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ce1fbc57e-__nestor_parfum-hfb4szbw8r5-5y7bm7ru8s6.png"
   },
   {
     "id": "wqyo0cb0mb",
@@ -4058,7 +4058,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 56.25,
     "priceBcv": 67.5,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d603f3ae8-__nestor_parfum-76iwse1hyb-qsvxq0gk8hs.png"
   },
   {
     "id": "xlqy2qmzbxs",
@@ -4070,7 +4070,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 56.25,
     "priceBcv": 67.5,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c22d41189-__nestor_parfum-xlqy2qmzbxs-p4dldjs5oil.png"
   },
   {
     "id": "iqilj0rpd3p",
@@ -4094,7 +4094,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c86704a1d-_nestor_parfum-prlk90a0f9r-xf6144es7s.png"
   },
   {
     "id": "3by4k5aapuq",
@@ -4154,7 +4154,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c7ac4dada-__nestor_parfum-qly79cpn8up-xp8t3lv9lf.png"
   },
   {
     "id": "dgvone6yczc",
@@ -4166,7 +4166,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d13b1964d-_nestor_parfum-dgvone6yczc-6qih30g3073.png"
   },
   {
     "id": "dq1gtzdlobf",
@@ -4178,7 +4178,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 103.5,
     "priceBcv": 124.2,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d0d78acf8-_nestor_parfum-dq1gtzdlobf-rrpmp4yovb.png"
   },
   {
     "id": "ik7cnl3pr7c",
@@ -4190,7 +4190,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 70.88,
     "priceBcv": 85.05,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cd4e1cccc-_nestor_parfum-ik7cnl3pr7c-dl3ymcqzpr4.png"
   },
   {
     "id": "hutoe00c5fa",
@@ -4262,7 +4262,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 54,
     "priceBcv": 64.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cd02d82bd-__nestor_parfum-ize85cs9yg-vy7ulurxln8.png"
   },
   {
     "id": "cxmiugo56w",
@@ -4310,7 +4310,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 124.88,
     "priceBcv": 149.85,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb7ea91e4-__nestor_parfum-l2e7ovfpg3d-y39dal7uodf.png"
   },
   {
     "id": "gqym103gk4",
@@ -4322,7 +4322,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 141.75,
     "priceBcv": 170.1,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cec61d374-_nestor_parfum-gqym103gk4-1dgsmuax56i.png"
   },
   {
     "id": "0hh13n1j4x48",
@@ -4334,7 +4334,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 106.88,
     "priceBcv": 128.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4db3e2624a-__nestor_parfum-0hh13n1j4x48-zxkgesxp5h.png"
   },
   {
     "id": "fg2ra1z5x29",
@@ -4370,7 +4370,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 96.75,
     "priceBcv": 116.1,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d3e70fb21-_nestor_parfum-a53duj4efd4-c07mmau3z5n.png"
   },
   {
     "id": "5je9y8j32b5",
@@ -4382,7 +4382,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 124.88,
     "priceBcv": 149.85,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d7601becb-_nestor_parfum-5je9y8j32b5-k0f1gegymx.png"
   },
   {
     "id": "i5kls4tkzc",
@@ -4406,7 +4406,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 113.63,
     "priceBcv": 136.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c337e4735-_nestor_parfum-vw3bnthc4lc-0bqi4oaicw.png"
   },
   {
     "id": "1k7ekkg92ji",
@@ -4442,7 +4442,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 121.5,
     "priceBcv": 145.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d50a204bd-_nestor_parfum-8n7w5wgrsmy-c1crnzmpbb4.png"
   },
   {
     "id": "wid0nmoqii9",
@@ -4610,7 +4610,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 76.5,
     "priceBcv": 91.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d6fd09937-__nestor_parfum-5wnaju96rt2-x6kc8qiwop.png"
   },
   {
     "id": "xq9ytaoby5l",
@@ -4670,7 +4670,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 184.5,
     "priceBcv": 221.4,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c66c03023-_nestor_parfum-rtbn8koy8ad-cu16dzbijhl.png"
   },
   {
     "id": "fh2l9yatgxe",
@@ -4682,7 +4682,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 238.5,
     "priceBcv": 286.2,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cfaf96b7a-__nestor_parfum-fh2l9yatgxe-u3upnoenplc.png"
   },
   {
     "id": "nmfhc9j4usf",
@@ -4706,7 +4706,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 182.25,
     "priceBcv": 218.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cd1a24794-_nestor_parfum-ivvhhsbl5ae-b5oxlk3wgoo.png"
   },
   {
     "id": "kroqljgklkp",
@@ -4742,7 +4742,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 175.5,
     "priceBcv": 210.6,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cc6814b13-_nestor_parfum-jto0oo1a4uc-9gfuut90u09.png"
   },
   {
     "id": "pvjdgy4v4",
@@ -4862,7 +4862,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 185.63,
     "priceBcv": 222.75,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c5a495b0b-_nestor_parfum-ssa4ynz055-dudienebxth.png"
   },
   {
     "id": "nyq0zb3xsca",
@@ -4874,7 +4874,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 229.5,
     "priceBcv": 275.4,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c9974b642-_nestor_parfum-nyq0zb3xsca-0jjqx15ku92f.png"
   },
   {
     "id": "u51m24zplak",
@@ -4958,7 +4958,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 60.75,
     "priceBcv": 72.9,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cac3c6069-_nestor_parfum-m9r3298sy5l-pvhy3mu1q9.png"
   },
   {
     "id": "e57q8fzlmf5",
@@ -5222,7 +5222,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cf48dd877-_nestor_parfum-fzy1nfq1jud-l6txei53lzs.png"
   },
   {
     "id": "zqpvc6et5ok",
@@ -5234,7 +5234,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c0aa84a9a-__nestor_parfum-zqpvc6et5ok-hd9tv4s64tc.png"
   },
   {
     "id": "vwc3j4rzyg",
@@ -5378,7 +5378,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 94.5,
     "priceBcv": 113.4,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c2b7296a2-_nestor_parfum-wr25cfmglo-j6g837ncfx8.png"
   },
   {
     "id": "70daux3j9ak",
@@ -5654,7 +5654,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 155.25,
     "priceBcv": 186.3,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c3eb91697-_nestor_parfum-v2a7qv2oqeh-px4ei2r4gh.png"
   },
   {
     "id": "invz4k7krk",
@@ -5666,7 +5666,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 160.88,
     "priceBcv": 193.05,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cd2f050f9-_nestor_parfum-invz4k7krk-xeo41lzfn1d.png"
   },
   {
     "id": "9eoun9a38pq",
@@ -5990,7 +5990,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d102b4ee2-__nestor_parfum-dn2e88mfaeg-grn7wi3a4gk.png"
   },
   {
     "id": "l8l50bdkk6",
@@ -6002,7 +6002,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb6ab30fa-_nestor_parfum-l8l50bdkk6-n8xix3842r9.png"
   },
   {
     "id": "nvhx9igy9cl",
@@ -6026,7 +6026,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c165debe0-__nestor_parfum-yxmidpnylds-5qq6jaiw8g4.png"
   },
   {
     "id": "s0xb8o5ix3",
@@ -6038,7 +6038,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 37.13,
     "priceBcv": 44.55,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c62a214ea-__nestor_parfum-s0xb8o5ix3-5gmfyjp7lz2.png"
   },
   {
     "id": "2gag6x5699q",
@@ -6050,7 +6050,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d96a15dc4-_nestor_parfum-2gag6x5699q-6s8jzj052k7.png"
   },
   {
     "id": "d2dd6ly0d4r",
@@ -6074,7 +6074,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c341bb28f-_nestor_parfum-vs1vxsd2w9-6op6al74mir.png"
   },
   {
     "id": "wojyouqhhhi",
@@ -6182,7 +6182,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 76.5,
     "priceBcv": 91.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cee0098fc-_nestor_parfum-gn22kkt7ldt-87kdqysvhoa.png"
   },
   {
     "id": "50okf36v6t7",
@@ -6302,7 +6302,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d34e0d54a-_nestor_parfum-ao5a29ns56d-5atcitmiat.png"
   },
   {
     "id": "dgxowlc80n6",
@@ -6326,7 +6326,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 64.13,
     "priceBcv": 76.95,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ca7079b0c-_nestor_parfum-mle98nigxi9-jjncqvttlxh.png"
   },
   {
     "id": "ndlpecfcv5r",
@@ -6542,7 +6542,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 145.13,
     "priceBcv": 174.15,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cce76fcac-_nestor_parfum-j3cyj0t597l-bmdtcrofzhk.png"
   },
   {
     "id": "lu3uc9asedq",
@@ -6626,7 +6626,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d53314c60-__nestor_parfum-8jq9m1bpecc-mcf2bkybr5c.png"
   },
   {
     "id": "w8pv06metgb",
@@ -6842,7 +6842,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 40.5,
     "priceBcv": 48.6,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c6a9a9c9c-_nestor_parfum-rmgs26so2v-clfgpyl8abv.png"
   },
   {
     "id": "s6m6w5iajf",
@@ -6938,7 +6938,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 91.13,
     "priceBcv": 109.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c7f486654-_nestor_parfum-qapebvirf2r-tlv3tot5c1c.png"
   },
   {
     "id": "p6y1q752pg",
@@ -6950,7 +6950,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 81,
     "priceBcv": 97.2,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c8bb9a5e0-_nestor_parfum-p6y1q752pg-j905enau53b.png"
   },
   {
     "id": "rd0nr4wp6yf",
@@ -7142,7 +7142,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 106.88,
     "priceBcv": 128.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4db74f0306-_nestor_parfum-05eqe3hrt172-0tnpljhdirfm.png"
   },
   {
     "id": "z1qezhs831",
@@ -7166,7 +7166,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 162,
     "priceBcv": 194.4,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c3b1628c5-_nestor_parfum-v8iz7o24yhc-rn0mtwtzi6s.png"
   },
   {
     "id": "yro2nezzrwc",
@@ -7214,7 +7214,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 145.13,
     "priceBcv": 174.15,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d20763d42-__nestor_parfum-ceny4eroy5r-x06rzp9y5ed.png"
   },
   {
     "id": "9e3efnhkrj",
@@ -7514,7 +7514,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d66e14d30-_nestor_parfum-6onypbeq4ao-2xd5lz1g0ul.png"
   },
   {
     "id": "dn0ukcublnw",
@@ -7526,7 +7526,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 52.88,
     "priceBcv": 63.45,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d10749a30-_nestor_parfum-dn0ukcublnw-1g75m5hpr5c.png"
   },
   {
     "id": "a5gts2oadj",
@@ -7598,7 +7598,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c8da08026-_nestor_parfum-p369ia4ahj-093xpk755cn8.png"
   },
   {
     "id": "qp66hhjmsap",
@@ -7610,7 +7610,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 56.25,
     "priceBcv": 67.5,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c79e01de9-_nestor_parfum-qp66hhjmsap-hplruns6jx.png"
   },
   {
     "id": "p3glsap0opo",
@@ -7622,7 +7622,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 67.5,
     "priceBcv": 81,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c8d613b10-__nestor_parfum-p3glsap0opo-mqhtw7swl4f.png"
   },
   {
     "id": "wfrxm0a01ja",
@@ -7658,7 +7658,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 27,
     "priceBcv": 32.4,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ca340f9ca-__nestor_parfum-mqyyswocahg-vxr6erzrkq9.png"
   },
   {
     "id": "rqhl70f6l4",
@@ -7670,7 +7670,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 27,
     "priceBcv": 32.4,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c67930683-__nestor_parfum-rqhl70f6l4-vbob4o2c57h.png"
   },
   {
     "id": "u3wyjlf7vl8",
@@ -7694,7 +7694,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 32.63,
     "priceBcv": 39.15,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d1994154d-__nestor_parfum-cwkyp6pgsaq-r37qgq4obb.png"
   },
   {
     "id": "9qd0fasyv1b",
@@ -8174,7 +8174,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 157.5,
     "priceBcv": 189,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cbfe92467-_nestor_parfum-kdvoa0nxdn-l3ucxb95h68.png"
   },
   {
     "id": "giy01yz8gj",
@@ -8222,7 +8222,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 100.13,
     "priceBcv": 120.15,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d61585637-__nestor_parfum-735k2kjy4zo-udb04efcdkb.png"
   },
   {
     "id": "h5x9ml8uogi",
@@ -8234,7 +8234,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ce5a4690f-_nestor_parfum-h5x9ml8uogi-nf80frft7bm.png"
   },
   {
     "id": "uawyqujdwqc",
@@ -8258,7 +8258,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 74.25,
     "priceBcv": 89.1,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d18742339-__nestor_parfum-d1dleg817ec-jf1zfoqdfn.png"
   },
   {
     "id": "9kd5y05i0d",
@@ -8270,7 +8270,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 76.5,
     "priceBcv": 91.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d464be068-_nestor_parfum-9kd5y05i0d-j2py72i5fg.png"
   },
   {
     "id": "p59fmf3qk1",
@@ -8282,7 +8282,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 64.13,
     "priceBcv": 76.95,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c8c407ae9-_nestor_parfum-p59fmf3qk1-uaf2gg0x19k.png"
   },
   {
     "id": "igqottojfns",
@@ -8330,7 +8330,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cee40acfa-__nestor_parfum-gmdhbz2aaxq-blh8qdyj2xa.png"
   },
   {
     "id": "i6cv32bisn",
@@ -8354,7 +8354,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cca739c32-__nestor_parfum-jh3qtn8xeu-ds9f59g5exr.png"
   },
   {
     "id": "tk8h0ni2l9",
@@ -8378,7 +8378,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 56.25,
     "priceBcv": 67.5,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d7965427f-__nestor_parfum-56kehv1jna3-qqi70m3unl.png"
   },
   {
     "id": "cbk1fx6qdg6",
@@ -8390,7 +8390,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 46.13,
     "priceBcv": 55.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d214ceb17-__nestor_parfum-cbk1fx6qdg6-tzaaiw3s58f.png"
   },
   {
     "id": "kj6sr2om6xn",
@@ -8414,7 +8414,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 39.38,
     "priceBcv": 47.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d34120b68-_nestor_parfum-atqx7vhq6yu-sqci066o55f.png"
   },
   {
     "id": "kynffg80rvg",
@@ -8426,7 +8426,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb922bf26-__nestor_parfum-kynffg80rvg-rchpmpv1mg.png"
   },
   {
     "id": "j23crmmwlpe",
@@ -8438,7 +8438,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 42.75,
     "priceBcv": 51.3,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ccf8ab099-_nestor_parfum-j23crmmwlpe-b89nu4fwykw.png"
   },
   {
     "id": "ep8wrrkfv78",
@@ -8474,7 +8474,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 43.88,
     "priceBcv": 52.65,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d62906fa5-_nestor_parfum-70h7w4fsh3e-lxuzva6vf3.png"
   },
   {
     "id": "djlb9kvkc2a",
@@ -8582,7 +8582,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c73a84acd-_nestor_parfum-r1l0ve6std-8dx3shdnhpv.png"
   },
   {
     "id": "nchx09f5mxq",
@@ -8594,7 +8594,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 66.38,
     "priceBcv": 79.65,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c9f8b735b-_nestor_parfum-nchx09f5mxq-h0vge7h4xd7.png"
   },
   {
     "id": "kl7nzrwj6j",
@@ -8606,7 +8606,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 38.25,
     "priceBcv": 45.9,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cbdb058a4-_nestor_parfum-kl7nzrwj6j-ktkc2ad66jf.png"
   },
   {
     "id": "37r53gqacwe",
@@ -8618,7 +8618,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d8eb8ff54-_nestor_parfum-37r53gqacwe-1n31c29ni59.png"
   },
   {
     "id": "ht9wu4q9vrp",
@@ -8690,7 +8690,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d1793cf0d-_nestor_parfum-d2h5b8kxos9-84ontbk9la6.png"
   },
   {
     "id": "lvmyxqa5ay",
@@ -8702,7 +8702,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 59.63,
     "priceBcv": 71.55,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cafd7322b-_nestor_parfum-lvmyxqa5ay-xk55hbo3t1i.png"
   },
   {
     "id": "gty7v3l47lu",
@@ -8714,7 +8714,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 182.25,
     "priceBcv": 218.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ceb0805d7-_nestor_parfum-gty7v3l47lu-r13iprfynvb.png"
   },
   {
     "id": "jsn3wv47mmm",
@@ -8966,7 +8966,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 81,
     "priceBcv": 97.2,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c85e854fd-_nestor_parfum-prus6jtrc6d-1zf169w0fm9.png"
   },
   {
     "id": "pwlf1lepya",
@@ -8990,7 +8990,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 70.88,
     "priceBcv": 85.05,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cf0ec1660-__nestor_parfum-gd4du23syo5-djcslmxk4kj.png"
   },
   {
     "id": "882rxd77rra",
@@ -9158,7 +9158,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 52.88,
     "priceBcv": 63.45,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d71112790-_nestor_parfum-5tnh0jiwcqt-g8rjl13vtoh.png"
   },
   {
     "id": "r3xbb9u3hi",
@@ -9194,7 +9194,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 57.38,
     "priceBcv": 68.85,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d0a3947c2-_nestor_parfum-dz2fb6tlaj-beqvnyz2f.png"
   },
   {
     "id": "z05sl80j3gt",
@@ -9230,7 +9230,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 56.25,
     "priceBcv": 67.5,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d35f78890-_nestor_parfum-anf0jwljmsg-h1flouutevw.png"
   },
   {
     "id": "eenp3v3lded",
@@ -9242,7 +9242,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 47.25,
     "priceBcv": 56.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d050a6815-_nestor_parfum-eenp3v3lded-jbh0gwpu6ys.png"
   },
   {
     "id": "hu7dm7z4o2t",
@@ -9410,7 +9410,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 113.63,
     "priceBcv": 136.35,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d4fb1095c-_nestor_parfum-8pqv4h73fpf-wmbb38trn9f.png"
   },
   {
     "id": "hzqh1szwh1q",
@@ -9434,7 +9434,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 104.63,
     "priceBcv": 125.55,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c54c450d5-_nestor_parfum-t6jcjjmf0t9-z4ipudaoh2e.png"
   },
   {
     "id": "93muctrjnvw",
@@ -9458,7 +9458,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 118.13,
     "priceBcv": 141.75,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d0003ae08-__nestor_parfum-ex01of73m9g-pvbpyldrata.png"
   },
   {
     "id": "lqjphyqi4yr",
@@ -9470,7 +9470,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 110.25,
     "priceBcv": 132.3,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb1b57d22-__nestor_parfum-lqjphyqi4yr-t7p9cnv1ttq.png"
   },
   {
     "id": "t6u7jklgidf",
@@ -9482,7 +9482,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 130.5,
     "priceBcv": 156.6,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c547bf570-_nestor_parfum-t6u7jklgidf-2ie3ldqdb4l.png"
   },
   {
     "id": "ldv2uomlzk",
@@ -9518,7 +9518,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 114.75,
     "priceBcv": 137.7,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c83703e75-_nestor_parfum-pzjubf53vhh-allf21on7gs.png"
   },
   {
     "id": "iesf7g249kn",
@@ -9590,7 +9590,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 60.75,
     "priceBcv": 72.9,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4ceb90a28c-__nestor_parfum-grd3a6er6n-2ug9b6h6dgo.png"
   },
   {
     "id": "ba8oiqkodci",
@@ -9782,7 +9782,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 120.38,
     "priceBcv": 144.45,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d823153ac-__nestor_parfum-46ds9webffc-g3z1y6ktg9o.png"
   },
   {
     "id": "rozz244dgze",
@@ -9794,7 +9794,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 106.88,
     "priceBcv": 128.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c688010e0-_nestor_parfum-rozz244dgze-uzniwhrbqhs.png"
   },
   {
     "id": "7vkmwaqq0f5",
@@ -9854,7 +9854,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 225,
     "priceBcv": 270,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d7dc181e6-_nestor_parfum-4kr2143rt9s-r68db305a9.png"
   },
   {
     "id": "aldmf7yh4t",
@@ -9890,7 +9890,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 133.88,
     "priceBcv": 160.65,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c55de819b-__nestor_parfum-t2rgk2vvgr-ne2wezkh7qd.png"
   },
   {
     "id": "dhtfxnlson",
@@ -10034,7 +10034,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Nicho",
     "priceUsd": 421.88,
     "priceBcv": 506.25,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c070d2fb8-__nestor_parfum-zz6ndwhjct-337w5imxhzu.png"
   },
   {
     "id": "48qfewgs8fu",
@@ -10106,7 +10106,7 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Nicho",
     "priceUsd": 481.5,
     "priceBcv": 577.8,
-    "image": ""
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d83019393-_nestor_parfum-44s95kx46p2-kiu8kigdhqm.png"
   },
   {
     "id": "sgnbct01e7",
