@@ -57,8 +57,8 @@ const WA_NUMBER = '584121985211';
 const allProducts = window.CATALOGO_NESTOR || [];
 let catFilter = 'all';
 let catSearch = '';
-let catVisible = 30;
-const CAT_BATCH = 30;
+let catPage = 1;
+const CAT_PAGE_SIZE = 6;
 
 function fmtPrice(n) {
   if (n == null) return '';
@@ -130,18 +130,36 @@ function renderCard(item) {
 function renderMiniGrid() {
   const grid = document.getElementById('miniGrid');
   const countEl = document.getElementById('catCount');
-  const loadMoreBtn = document.getElementById('catLoadMore');
+  const prevBtn = document.getElementById('catPrev');
+  const nextBtn = document.getElementById('catNext');
+  const pageInfo = document.getElementById('catPageInfo');
   if (!grid) return;
 
   const filtered = getFilteredCatalogo();
-  const toShow = filtered.slice(0, catVisible);
+  const totalPages = Math.max(1, Math.ceil(filtered.length / CAT_PAGE_SIZE));
+  if (catPage > totalPages) catPage = totalPages;
+  const start = (catPage - 1) * CAT_PAGE_SIZE;
+  const toShow = filtered.slice(start, start + CAT_PAGE_SIZE);
 
   grid.innerHTML = toShow.length === 0
     ? '<p class="cat-empty">No encontramos fragancias con ese criterio. Prueba con otro término o categoría.</p>'
     : toShow.map(renderCard).join('');
 
-  if (countEl) countEl.textContent = `Mostrando ${toShow.length} de ${filtered.length} fragancias`;
-  if (loadMoreBtn) loadMoreBtn.style.display = catVisible < filtered.length ? '' : 'none';
+  if (countEl) {
+    countEl.textContent = filtered.length
+      ? `Mostrando ${start + 1}–${start + toShow.length} de ${filtered.length} fragancias`
+      : '';
+  }
+  if (pageInfo) pageInfo.textContent = `Página ${catPage} de ${totalPages}`;
+  if (prevBtn) prevBtn.disabled = catPage <= 1;
+  if (nextBtn) nextBtn.disabled = catPage >= totalPages;
+}
+
+function goToCatPage(page) {
+  catPage = page;
+  renderMiniGrid();
+  const section = document.getElementById('catalogo');
+  if (section) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
 if (allProducts.length) {
@@ -150,7 +168,7 @@ if (allProducts.length) {
       document.querySelectorAll('.cat-filter').forEach((b) => b.classList.remove('active'));
       btn.classList.add('active');
       catFilter = btn.dataset.cat;
-      catVisible = CAT_BATCH;
+      catPage = 1;
       renderMiniGrid();
     });
   });
@@ -159,16 +177,24 @@ if (allProducts.length) {
   if (catSearchInput) {
     catSearchInput.addEventListener('input', () => {
       catSearch = catSearchInput.value.trim().toLowerCase();
-      catVisible = CAT_BATCH;
+      catPage = 1;
       renderMiniGrid();
     });
   }
 
-  const catLoadMoreBtn = document.getElementById('catLoadMore');
-  if (catLoadMoreBtn) {
-    catLoadMoreBtn.addEventListener('click', () => {
-      catVisible += CAT_BATCH;
-      renderMiniGrid();
+  const catPrevBtn = document.getElementById('catPrev');
+  if (catPrevBtn) {
+    catPrevBtn.addEventListener('click', () => {
+      if (catPage > 1) goToCatPage(catPage - 1);
+    });
+  }
+
+  const catNextBtn = document.getElementById('catNext');
+  if (catNextBtn) {
+    catNextBtn.addEventListener('click', () => {
+      const filtered = getFilteredCatalogo();
+      const totalPages = Math.max(1, Math.ceil(filtered.length / CAT_PAGE_SIZE));
+      if (catPage < totalPages) goToCatPage(catPage + 1);
     });
   }
 
