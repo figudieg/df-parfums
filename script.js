@@ -108,8 +108,7 @@ function renderCard(item) {
       <div class="mini-card-photo">
         ${item.image ? `
           <img src="${item.image}" alt="${item.name}" loading="lazy">
-          <span class="photo-mask photo-mask-bl"></span>
-          <span class="photo-mask photo-mask-br"></span>
+          <span class="photo-fade"></span>
         ` : ''}
       </div>
       <div class="mini-card-body">

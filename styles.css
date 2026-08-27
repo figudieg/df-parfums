@@ -567,17 +567,25 @@ a { text-decoration: none; color: inherit; }
   object-fit: cover;
 }
 
-.photo-mask {
+/* Antes eran dos recuadros blancos solidos en las esquinas -- funcionaban
+   pero se veian como un parche pegado, poco profesional. Un solo degradado
+   suave de abajo hacia arriba (efecto "vineta" de fotografia de producto)
+   cubre exactamente la misma zona sin dejar un borde duro. */
+.photo-fade {
   position: absolute;
+  left: 0;
+  right: 0;
   bottom: 0;
-  width: 42%;
-  height: 34%;
-  background: #FFFFFF;
+  height: 40%;
+  background: linear-gradient(to bottom,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0.55) 35%,
+    rgba(255, 255, 255, 0.92) 65%,
+    #FFFFFF 85%
+  );
   z-index: 2;
+  pointer-events: none;
 }
-
-.photo-mask-bl { left: 0; }
-.photo-mask-br { right: 0; }
 
 .mini-card-body { flex: 1; display: flex; flex-direction: column; }
 
