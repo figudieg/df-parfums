@@ -1,5 +1,20 @@
 [
   {
+    "key": "givenchy blue label • caballero • 100 ml",
+    "code": "4hkmpnej1qr",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a043d23195-nestor_parfum-4hkmpnej1qr-fbcvsnemt3n.png",
+    "rawTitle": "GIVENCHY BLUE LABEL • CABALLERO • 100 ML",
+    "name": "Givenchy Blue Label",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 66,
+    "rawBcv": 79.2,
+    "finalUsd": 74.25,
+    "finalBcv": 89.1
+  },
+  {
     "key": "spray body paris hilton heiress • dama • 236 ml",
     "code": "8c7mxtq9mi5",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a021530981-nestor_parfum-8c7mxtq9mi5-2b6jb3a0b1g.png",
@@ -5550,21 +5565,6 @@
     "finalBcv": 117.45
   },
   {
-    "key": "salvatore ferragamo uomo signature • caballero • 100ml",
-    "code": "gd4du23syo5",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cf0ec1660-__nestor_parfum-gd4du23syo5-djcslmxk4kj.png",
-    "rawTitle": "SALVATORE FERRAGAMO UOMO SIGNATURE • CABALLERO • 100ML",
-    "name": "Salvatore Ferragamo Uomo Signature",
-    "genero": "CABALLERO",
-    "size": "100ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 63,
-    "rawBcv": 75.6,
-    "finalUsd": 70.88,
-    "finalBcv": 85.05
-  },
-  {
     "key": "boucheron edp • caballero • 100 ml",
     "code": "p7isvdv3qyc",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f4ef3d7ee-nestor_parfum-p7isvdv3qyc-1kl54awfoefk.png",
@@ -5925,19 +5925,19 @@
     "finalBcv": 121.5
   },
   {
-    "key": "liz claiborne curve wave • dama • 100 ml",
-    "code": "opyfkbafee",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4dd7fc420d-nestor_parfum-opyfkbafee-2nrn40sjb6v.png",
-    "rawTitle": "LIZ CLAIBORNE CURVE WAVE • DAMA • 100 ML",
-    "name": "Liz Claiborne Curve Wave",
+    "key": "estuche bvlgari rose goldea blossom delight edp • dama •",
+    "code": "9t8bvd6wlgm",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65b42d8cd7d4f-nestor_parfum-9t8bvd6wlgm-hzphewd4ia.png",
+    "rawTitle": "ESTUCHE BVLGARI ROSE GOLDEA BLOSSOM DELIGHT EDP • DAMA •",
+    "name": "Estuche Bvlgari Rose Goldea Blossom Delight EDP",
     "genero": "DAMA",
-    "size": "100 ML",
+    "size": "",
     "note": "",
-    "bucket": "disenador",
-    "rawUsd": 29,
-    "rawBcv": 34.8,
-    "finalUsd": 32.63,
-    "finalBcv": 39.15
+    "bucket": "estuche",
+    "rawUsd": 96,
+    "rawBcv": 115.2,
+    "finalUsd": 108,
+    "finalBcv": 129.6
   },
   {
     "key": "ralph lauren polo ralph edp • dama • 100 ml",
@@ -5953,6 +5953,21 @@
     "rawBcv": 153.6,
     "finalUsd": 144,
     "finalBcv": 172.8
+  },
+  {
+    "key": "creed aventus edp • caballero • 100 ml",
+    "code": "zz6ndwhjct",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c070d2fb8-__nestor_parfum-zz6ndwhjct-337w5imxhzu.png",
+    "rawTitle": "CREED AVENTUS EDP • CABALLERO • 100 ML",
+    "name": "Creed Aventus EDP",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "nicho",
+    "rawUsd": 375,
+    "rawBcv": 450,
+    "finalUsd": 421.88,
+    "finalBcv": 506.25
   },
   {
     "key": "carolina herrera good girl mini edp • dama • 10 ml",
@@ -5985,19 +6000,19 @@
     "finalBcv": 56.7
   },
   {
-    "key": "creed aventus edp • caballero • 100 ml",
-    "code": "zz6ndwhjct",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c070d2fb8-__nestor_parfum-zz6ndwhjct-337w5imxhzu.png",
-    "rawTitle": "CREED AVENTUS EDP • CABALLERO • 100 ML",
-    "name": "Creed Aventus EDP",
-    "genero": "CABALLERO",
-    "size": "100 ML",
+    "key": "yves saint laurent libre berry crush edp • dama • 90 ml",
+    "code": "dhtfxnlson",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e54d232ad-nestor_parfum-dhtfxnlson-ub10zz8tvxk.png",
+    "rawTitle": "YVES SAINT LAURENT LIBRE BERRY CRUSH EDP • DAMA • 90 ML",
+    "name": "Yves Saint Laurent Libre Berry Crush EDP",
+    "genero": "DAMA",
+    "size": "90 ML",
     "note": "",
-    "bucket": "nicho",
-    "rawUsd": 375,
-    "rawBcv": 450,
-    "finalUsd": 421.88,
-    "finalBcv": 506.25
+    "bucket": "disenador",
+    "rawUsd": 266,
+    "rawBcv": 319.2,
+    "finalUsd": 299.25,
+    "finalBcv": 359.1
   },
   {
     "key": "estuche paris hilton gold rush 4 piezas • caballero •",
@@ -6060,19 +6075,19 @@
     "finalBcv": 51.3
   },
   {
-    "key": "yves saint laurent libre berry crush edp • dama • 90 ml",
-    "code": "dhtfxnlson",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e54d232ad-nestor_parfum-dhtfxnlson-ub10zz8tvxk.png",
-    "rawTitle": "YVES SAINT LAURENT LIBRE BERRY CRUSH EDP • DAMA • 90 ML",
-    "name": "Yves Saint Laurent Libre Berry Crush EDP",
-    "genero": "DAMA",
-    "size": "90 ML",
+    "key": "issey miyake cedre edt • caballero • 100 ml",
+    "code": "dgxowlc80n6",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65b4293f1db16-nestor_parfum-dgxowlc80n6-o1ktgo7ewr.png",
+    "rawTitle": "ISSEY MIYAKE CEDRE EDT • CABALLERO • 100 ML",
+    "name": "Issey Miyake Cedre EDT",
+    "genero": "CABALLERO",
+    "size": "100 ML",
     "note": "",
     "bucket": "disenador",
-    "rawUsd": 266,
-    "rawBcv": 319.2,
-    "finalUsd": 299.25,
-    "finalBcv": 359.1
+    "rawUsd": 72,
+    "rawBcv": 86.4,
+    "finalUsd": 81,
+    "finalBcv": 97.2
   },
   {
     "key": "orientica luxury collection royal amber oil concentrate • unisex • 18 ml ( árabe )",
@@ -6088,21 +6103,6 @@
     "rawBcv": 171.6,
     "finalUsd": 160.88,
     "finalBcv": 193.05
-  },
-  {
-    "key": "issey miyake cedre edt • caballero • 100 ml",
-    "code": "dgxowlc80n6",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65b4293f1db16-nestor_parfum-dgxowlc80n6-o1ktgo7ewr.png",
-    "rawTitle": "ISSEY MIYAKE CEDRE EDT • CABALLERO • 100 ML",
-    "name": "Issey Miyake Cedre EDT",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 72,
-    "rawBcv": 86.4,
-    "finalUsd": 81,
-    "finalBcv": 97.2
   },
   {
     "key": "calvin klein contradiction edp • dama • 100 ml",
@@ -6150,6 +6150,21 @@
     "finalBcv": 81
   },
   {
+    "key": "assala prime hayati edp • unisex • 100 ml",
+    "code": "dbhstooqak",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e60fbcf37-nestor_parfum-dbhstooqak-825jg9ii67m.png",
+    "rawTitle": "ASSALA PRIME HAYATI EDP • UNISEX • 100 ML",
+    "name": "Assala Prime Hayati EDP",
+    "genero": "UNISEX",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "arabe",
+    "rawUsd": 26,
+    "rawBcv": 31.2,
+    "finalUsd": 29.25,
+    "finalBcv": 35.1
+  },
+  {
     "key": "victoria's secret bare edp • dama • 100 ml",
     "code": "e49g0jnu434",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e602fd1fb-nestor_parfum-e49g0jnu434-0hffou2k8m8.png",
@@ -6180,19 +6195,19 @@
     "finalBcv": 172.8
   },
   {
-    "key": "assala prime hayati edp • unisex • 100 ml",
-    "code": "dbhstooqak",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e60fbcf37-nestor_parfum-dbhstooqak-825jg9ii67m.png",
-    "rawTitle": "ASSALA PRIME HAYATI EDP • UNISEX • 100 ML",
-    "name": "Assala Prime Hayati EDP",
-    "genero": "UNISEX",
-    "size": "100 ML",
+    "key": "carolina herrera bad boy elixir edp • caballero • 150 ml",
+    "code": "d9mnobtzcbi",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1ccb423c-nestor_parfum-d9mnobtzcbi-s1v8jmx0kz.png",
+    "rawTitle": "CAROLINA HERRERA BAD BOY ELIXIR EDP • CABALLERO • 150 ML",
+    "name": "Carolina Herrera Bad Boy Elixir EDP",
+    "genero": "CABALLERO",
+    "size": "150 ML",
     "note": "",
-    "bucket": "arabe",
-    "rawUsd": 26,
-    "rawBcv": 31.2,
-    "finalUsd": 29.25,
-    "finalBcv": 35.1
+    "bucket": "disenador",
+    "rawUsd": 152,
+    "rawBcv": 182.4,
+    "finalUsd": 171,
+    "finalBcv": 205.2
   },
   {
     "key": "estuche perry ellis aqua 4 piezas • caballero •",
@@ -6210,19 +6225,19 @@
     "finalBcv": 72.9
   },
   {
-    "key": "carolina herrera bad boy elixir edp • caballero • 150 ml",
-    "code": "d9mnobtzcbi",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1ccb423c-nestor_parfum-d9mnobtzcbi-s1v8jmx0kz.png",
-    "rawTitle": "CAROLINA HERRERA BAD BOY ELIXIR EDP • CABALLERO • 150 ML",
-    "name": "Carolina Herrera Bad Boy Elixir EDP",
-    "genero": "CABALLERO",
-    "size": "150 ML",
+    "key": "orientica royal collection disnaty edp • unisex • 80 ml",
+    "code": "53wbqdwavzy",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c8add31-nestor_parfum-53wbqdwavzy-khi1oqpfqx.png",
+    "rawTitle": "ORIENTICA ROYAL COLLECTION DISNATY EDP • UNISEX • 80 ML",
+    "name": "Orientica Royal Collection Disnaty EDP",
+    "genero": "UNISEX",
+    "size": "80 ML",
     "note": "",
-    "bucket": "disenador",
-    "rawUsd": 152,
-    "rawBcv": 182.4,
-    "finalUsd": 171,
-    "finalBcv": 205.2
+    "bucket": "arabe",
+    "rawUsd": 98,
+    "rawBcv": 117.6,
+    "finalUsd": 110.25,
+    "finalBcv": 132.3
   },
   {
     "key": "liz claiborne curve chill • dama • 100 ml",
@@ -6330,21 +6345,6 @@
     "finalBcv": 64.8
   },
   {
-    "key": "orientica royal collection disnaty edp • unisex • 80 ml",
-    "code": "53wbqdwavzy",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c8add31-nestor_parfum-53wbqdwavzy-khi1oqpfqx.png",
-    "rawTitle": "ORIENTICA ROYAL COLLECTION DISNATY EDP • UNISEX • 80 ML",
-    "name": "Orientica Royal Collection Disnaty EDP",
-    "genero": "UNISEX",
-    "size": "80 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 98,
-    "rawBcv": 117.6,
-    "finalUsd": 110.25,
-    "finalBcv": 132.3
-  },
-  {
     "key": "liz claiborne curve wave • caballero • 125 ml",
     "code": "elg13pkewbg",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4dd4e9abe5-nestor_parfum-elg13pkewbg-2fl2xqlwu8t.png",
@@ -6388,21 +6388,6 @@
     "rawBcv": 63.6,
     "finalUsd": 59.63,
     "finalBcv": 71.55
-  },
-  {
-    "key": "azzaro most wanted edt intense • caballero • 100 ml",
-    "code": "enh0xiiujv5",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c2e9e53d4-nestor_parfum-enh0xiiujv5-yrdisjl81dh.png",
-    "rawTitle": "AZZARO MOST WANTED EDT INTENSE • CABALLERO • 100 ML",
-    "name": "Azzaro Most Wanted EDT Intense",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 105,
-    "rawBcv": 126,
-    "finalUsd": 118.13,
-    "finalBcv": 141.75
   },
   {
     "key": "rasasi hawas london edp • caballero • 100 ml",
@@ -6480,21 +6465,6 @@
     "finalBcv": 141.75
   },
   {
-    "key": "rasasi hawas viper • caballero • 100 ml",
-    "code": "etab9cr3dta",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c59888ddf-nestor_parfum-etab9cr3dta-abxsw6cj52k.png",
-    "rawTitle": "RASASI HAWAS VIPER • CABALLERO • 100 ML",
-    "name": "Rasasi Hawas Viper",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 69,
-    "rawBcv": 82.8,
-    "finalUsd": 77.63,
-    "finalBcv": 93.15
-  },
-  {
     "key": "escada fairy love • dama • 100 ml",
     "code": "d060w5uaoii",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66b2610ab8067-nestor_parfum-d060w5uaoii-pj5erxckqgn.png",
@@ -6510,6 +6480,21 @@
     "finalBcv": 52.65
   },
   {
+    "key": "rasasi hawas viper • caballero • 100 ml",
+    "code": "etab9cr3dta",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c59888ddf-nestor_parfum-etab9cr3dta-abxsw6cj52k.png",
+    "rawTitle": "RASASI HAWAS VIPER • CABALLERO • 100 ML",
+    "name": "Rasasi Hawas Viper",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "arabe",
+    "rawUsd": 69,
+    "rawBcv": 82.8,
+    "finalUsd": 77.63,
+    "finalBcv": 93.15
+  },
+  {
     "key": "estuche carolina herrera good girl 3 piezas edp • dama • 80 ml",
     "code": "01qn8g45z7rb",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e08bfbbb9-nestor_parfum-01qn8g45z7rb-ovmjgul57di.png",
@@ -6523,6 +6508,21 @@
     "rawBcv": 240,
     "finalUsd": 225,
     "finalBcv": 270
+  },
+  {
+    "key": "calvin klein my euphoria • dama• 100 ml",
+    "code": "cxmiugo56w",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19aff2f0052-nestor_parfum-cxmiugo56w-v3ccgkogwm.png",
+    "rawTitle": "CALVIN KLEIN MY EUPHORIA • DAMA• 100 ML",
+    "name": "Calvin Klein My Euphoria",
+    "genero": "DAMA",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 75,
+    "rawBcv": 90,
+    "finalUsd": 84.38,
+    "finalBcv": 101.25
   },
   {
     "key": "crema victoria's secret sunrise waves • dama • 236ml",
@@ -6585,21 +6585,6 @@
     "finalBcv": 198.45
   },
   {
-    "key": "calvin klein my euphoria • dama• 100 ml",
-    "code": "cxmiugo56w",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19aff2f0052-nestor_parfum-cxmiugo56w-v3ccgkogwm.png",
-    "rawTitle": "CALVIN KLEIN MY EUPHORIA • DAMA• 100 ML",
-    "name": "Calvin Klein My Euphoria",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 75,
-    "rawBcv": 90,
-    "finalUsd": 84.38,
-    "finalBcv": 101.25
-  },
-  {
     "key": "philipp plein fatale rose edp • dama • 90 ml",
     "code": "5822wioq7fd",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ac7768541-nestor_parfum-5822wioq7fd-beowpddg12r.png",
@@ -6613,21 +6598,6 @@
     "rawBcv": 90,
     "finalUsd": 84.38,
     "finalBcv": 101.25
-  },
-  {
-    "key": "assala prime royal rose edp • unisex • 100ml (similar al delina de parfums de marly)",
-    "code": "4l4iq6vskqg",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675216df5fe11-nestor_parfum-4l4iq6vskqg-3yu2uviaqxd.png",
-    "rawTitle": "ASSALA PRIME ROYAL ROSE EDP • UNISEX • 100ML (SIMILAR AL DELINA DE PARFUMS DE MARLY)",
-    "name": "Assala Prime Royal Rose EDP",
-    "genero": "UNISEX",
-    "size": "100ML",
-    "note": "Similar Al Delina De Parfums De Marly",
-    "bucket": "arabe",
-    "rawUsd": 33,
-    "rawBcv": 39.6,
-    "finalUsd": 37.13,
-    "finalBcv": 44.55
   },
   {
     "key": "jo milano game of spades gold parfum • unisex • 100 ml ( similar al dubai gold de bond no)",
@@ -6645,19 +6615,19 @@
     "finalBcv": 113.4
   },
   {
-    "key": "estee laudee pleasure • caballero • 100 ml",
-    "code": "f214qp76l9r",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cfe0e3ab1-_nestor_parfum-f214qp76l9r-nn5x7zwx3r.png",
-    "rawTitle": "ESTEE LAUDEE PLEASURE • CABALLERO • 100 ML",
-    "name": "Estee Laudee Pleasure",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 51,
-    "rawBcv": 61.2,
-    "finalUsd": 57.38,
-    "finalBcv": 68.85
+    "key": "assala prime royal rose edp • unisex • 100ml (similar al delina de parfums de marly)",
+    "code": "4l4iq6vskqg",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675216df5fe11-nestor_parfum-4l4iq6vskqg-3yu2uviaqxd.png",
+    "rawTitle": "ASSALA PRIME ROYAL ROSE EDP • UNISEX • 100ML (SIMILAR AL DELINA DE PARFUMS DE MARLY)",
+    "name": "Assala Prime Royal Rose EDP",
+    "genero": "UNISEX",
+    "size": "100ML",
+    "note": "Similar Al Delina De Parfums De Marly",
+    "bucket": "arabe",
+    "rawUsd": 33,
+    "rawBcv": 39.6,
+    "finalUsd": 37.13,
+    "finalBcv": 44.55
   },
   {
     "key": "estuche guess marciano 3 piezas • caballero •",
@@ -6669,6 +6639,21 @@
     "size": "",
     "note": "",
     "bucket": "estuche",
+    "rawUsd": 51,
+    "rawBcv": 61.2,
+    "finalUsd": 57.38,
+    "finalBcv": 68.85
+  },
+  {
+    "key": "estee laudee pleasure • caballero • 100 ml",
+    "code": "f214qp76l9r",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cfe0e3ab1-_nestor_parfum-f214qp76l9r-nn5x7zwx3r.png",
+    "rawTitle": "ESTEE LAUDEE PLEASURE • CABALLERO • 100 ML",
+    "name": "Estee Laudee Pleasure",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
     "rawUsd": 51,
     "rawBcv": 61.2,
     "finalUsd": 57.38,
@@ -6705,6 +6690,21 @@
     "finalBcv": 40.5
   },
   {
+    "key": "louis vuitton l'immensité edp • caballero • 100 ml",
+    "code": "cp2ppppnbev",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19dbd6ef9fe-nestor_parfum-cp2ppppnbev-tm15ktl6j5n.png",
+    "rawTitle": "LOUIS VUITTON L'IMMENSITÉ EDP • CABALLERO • 100 ML",
+    "name": "Louis Vuitton L'immensité EDP",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 588,
+    "rawBcv": 705.6,
+    "finalUsd": 661.5,
+    "finalBcv": 793.8
+  },
+  {
     "key": "maktoub 100 edp • unisex • 100 ml",
     "code": "f8ki02lkre",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683faaac09564-nestor_parfum-f8ki02lkre-hmhfr6q9ec6.png",
@@ -6720,19 +6720,19 @@
     "finalBcv": 108
   },
   {
-    "key": "louis vuitton l'immensité edp • caballero • 100 ml",
-    "code": "cp2ppppnbev",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19dbd6ef9fe-nestor_parfum-cp2ppppnbev-tm15ktl6j5n.png",
-    "rawTitle": "LOUIS VUITTON L'IMMENSITÉ EDP • CABALLERO • 100 ML",
-    "name": "Louis Vuitton L'immensité EDP",
+    "key": "prada luna rossa black edp • caballero • 100 ml",
+    "code": "58coepdl8kv",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649b463eace97-nestor_parfum-58coepdl8kv-tadtj3t88f.png",
+    "rawTitle": "PRADA LUNA ROSSA BLACK EDP • CABALLERO • 100 ML",
+    "name": "Prada Luna Rossa Black EDP",
     "genero": "CABALLERO",
     "size": "100 ML",
     "note": "",
     "bucket": "disenador",
-    "rawUsd": 588,
-    "rawBcv": 705.6,
-    "finalUsd": 661.5,
-    "finalBcv": 793.8
+    "rawUsd": 141,
+    "rawBcv": 169.2,
+    "finalUsd": 158.63,
+    "finalBcv": 190.35
   },
   {
     "key": "hugo boss bottled night • caballero • 200 ml",
@@ -6763,21 +6763,6 @@
     "rawBcv": 194.4,
     "finalUsd": 182.25,
     "finalBcv": 218.7
-  },
-  {
-    "key": "prada luna rossa black edp • caballero • 100 ml",
-    "code": "58coepdl8kv",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649b463eace97-nestor_parfum-58coepdl8kv-tadtj3t88f.png",
-    "rawTitle": "PRADA LUNA ROSSA BLACK EDP • CABALLERO • 100 ML",
-    "name": "Prada Luna Rossa Black EDP",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 141,
-    "rawBcv": 169.2,
-    "finalUsd": 158.63,
-    "finalBcv": 190.35
   },
   {
     "key": "yves saint laurent black opium edp • dama • 90 ml",
@@ -6975,6 +6960,21 @@
     "finalBcv": 81
   },
   {
+    "key": "abercrombie & fitch first instinct • dama • 100 ml",
+    "code": "cfppt6c3ibd",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d20297c10-__nestor_parfum-cfppt6c3ibd-nljb0ooep1.png",
+    "rawTitle": "ABERCROMBIE & FITCH FIRST INSTINCT • DAMA • 100 ML",
+    "name": "Abercrombie & Fitch First Instinct",
+    "genero": "DAMA",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 45,
+    "rawBcv": 54,
+    "finalUsd": 50.63,
+    "finalBcv": 60.75
+  },
+  {
     "key": "perry ellis 360 collection edp • dama • 100 ml",
     "code": "fv916g0ze9j",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cf55a8c38-_nestor_parfum-fv916g0ze9j-gkcj10rtvo9.png",
@@ -7005,19 +7005,19 @@
     "finalBcv": 202.5
   },
   {
-    "key": "abercrombie & fitch first instinct • dama • 100 ml",
-    "code": "cfppt6c3ibd",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d20297c10-__nestor_parfum-cfppt6c3ibd-nljb0ooep1.png",
-    "rawTitle": "ABERCROMBIE & FITCH FIRST INSTINCT • DAMA • 100 ML",
-    "name": "Abercrombie & Fitch First Instinct",
+    "key": "lancome la vie est belle rose edt • dama • 100 ml",
+    "code": "ceny4eroy5r",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d20763d42-__nestor_parfum-ceny4eroy5r-x06rzp9y5ed.png",
+    "rawTitle": "LANCOME LA VIE EST BELLE ROSE EDT • DAMA • 100 ML",
+    "name": "Lancome La Vie Est Belle Rose EDT",
     "genero": "DAMA",
     "size": "100 ML",
     "note": "",
     "bucket": "disenador",
-    "rawUsd": 45,
-    "rawBcv": 54,
-    "finalUsd": 50.63,
-    "finalBcv": 60.75
+    "rawUsd": 129,
+    "rawBcv": 154.8,
+    "finalUsd": 145.13,
+    "finalBcv": 174.15
   },
   {
     "key": "paco rabanne olympea absolu mini • dama • 10 ml",
@@ -7065,19 +7065,19 @@
     "finalBcv": 112.05
   },
   {
-    "key": "lancome la vie est belle rose edt • dama • 100 ml",
-    "code": "ceny4eroy5r",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d20763d42-__nestor_parfum-ceny4eroy5r-x06rzp9y5ed.png",
-    "rawTitle": "LANCOME LA VIE EST BELLE ROSE EDT • DAMA • 100 ML",
-    "name": "Lancome La Vie Est Belle Rose EDT",
-    "genero": "DAMA",
-    "size": "100 ML",
+    "key": "antonio bandera the icon supreme mini • caballero • 10 ml",
+    "code": "58shslbjxke",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1d1851b4-nestor_parfum-58shslbjxke-a2nwzwwsx7h.png",
+    "rawTitle": "ANTONIO BANDERA THE ICON SUPREME MINI • CABALLERO • 10 ML",
+    "name": "Antonio Bandera The Icon Supreme Mini",
+    "genero": "CABALLERO",
+    "size": "10 ML",
     "note": "",
     "bucket": "disenador",
-    "rawUsd": 129,
-    "rawBcv": 154.8,
-    "finalUsd": 145.13,
-    "finalBcv": 174.15
+    "rawUsd": 6,
+    "rawBcv": 7.2,
+    "finalUsd": 6.75,
+    "finalBcv": 8.1
   },
   {
     "key": "assala prime assala gold • unisex • 100 ml (similar al xerjoff erba pura)",
@@ -7093,21 +7093,6 @@
     "rawBcv": 39.6,
     "finalUsd": 37.13,
     "finalBcv": 44.55
-  },
-  {
-    "key": "antonio bandera the icon supreme mini • caballero • 10 ml",
-    "code": "58shslbjxke",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1d1851b4-nestor_parfum-58shslbjxke-a2nwzwwsx7h.png",
-    "rawTitle": "ANTONIO BANDERA THE ICON SUPREME MINI • CABALLERO • 10 ML",
-    "name": "Antonio Bandera The Icon Supreme Mini",
-    "genero": "CABALLERO",
-    "size": "10 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 6,
-    "rawBcv": 7.2,
-    "finalUsd": 6.75,
-    "finalBcv": 8.1
   },
   {
     "key": "prada la femme intense edp • dama • 100 ml",
@@ -7695,21 +7680,6 @@
     "finalBcv": 108
   },
   {
-    "key": "mont blanc legend • caballero • 10 ml",
-    "code": "hadck0yd5vi",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687aec5c62ec1-nestor_parfum-hadck0yd5vi-8uayq1fsq2u.png",
-    "rawTitle": "MONT BLANC LEGEND • CABALLERO • 10 ML",
-    "name": "Mont Blanc Legend",
-    "genero": "CABALLERO",
-    "size": "10 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 9,
-    "rawBcv": 10.8,
-    "finalUsd": 10.13,
-    "finalBcv": 12.15
-  },
-  {
     "key": "juicy couture viva la juicy noir edp • dama • 100 ml",
     "code": "c8qs3if8o6k",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d22987858-__nestor_parfum-c8qs3if8o6k-t0yjd7rig59.png",
@@ -7933,21 +7903,6 @@
     "rawBcv": 31.2,
     "finalUsd": 29.25,
     "finalBcv": 35.1
-  },
-  {
-    "key": "cartier declaration • caballero • 10 ml",
-    "code": "7huxgt822y",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199cac6190e-nestor_parfum-7huxgt822y-29lfagxq27m.png",
-    "rawTitle": "CARTIER DECLARATION • CABALLERO • 10 ML",
-    "name": "Cartier Declaration",
-    "genero": "CABALLERO",
-    "size": "10 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 19,
-    "rawBcv": 22.8,
-    "finalUsd": 21.38,
-    "finalBcv": 25.65
   },
   {
     "key": "l ' haya mansoury • unisex • 100 ml (similar al paco rabanne invi tus)",
@@ -8608,21 +8563,6 @@
     "rawBcv": 72,
     "finalUsd": 67.5,
     "finalBcv": 81
-  },
-  {
-    "key": "estuche bvlgari rose goldea blossom delight edp • dama •",
-    "code": "9t8bvd6wlgm",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65b42d8cd7d4f-nestor_parfum-9t8bvd6wlgm-hzphewd4ia.png",
-    "rawTitle": "ESTUCHE BVLGARI ROSE GOLDEA BLOSSOM DELIGHT EDP • DAMA •",
-    "name": "Estuche Bvlgari Rose Goldea Blossom Delight EDP",
-    "genero": "DAMA",
-    "size": "",
-    "note": "",
-    "bucket": "estuche",
-    "rawUsd": 96,
-    "rawBcv": 115.2,
-    "finalUsd": 108,
-    "finalBcv": 129.6
   },
   {
     "key": "rasasi la yuqawam jasmine wisp edp • dama • 75 ml (similar al kirkè tiziana terenzi )",
@@ -9570,21 +9510,6 @@
     "finalBcv": 70.2
   },
   {
-    "key": "cacharel anais anais • dama • 10 ml",
-    "code": "iqilj0rpd3p",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199b138fc0f-nestor_parfum-iqilj0rpd3p-cscqkli11vo.png",
-    "rawTitle": "CACHAREL ANAIS ANAIS • DAMA • 10 ML",
-    "name": "Cacharel Anais Anais",
-    "genero": "DAMA",
-    "size": "10 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 8,
-    "rawBcv": 9.6,
-    "finalUsd": 9,
-    "finalBcv": 10.8
-  },
-  {
     "key": "azzaro chrome edt • caballero • 200 ml",
     "code": "iqky6cucn8",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67b0c000865ad-nestor_parfum-iqky6cucn8-wytz20evqs.png",
@@ -9943,21 +9868,6 @@
     "rawBcv": 111.6,
     "finalUsd": 104.63,
     "finalBcv": 125.55
-  },
-  {
-    "key": "paris hilton can can edp • dama • 100 ml ( nueva presentación )",
-    "code": "kk6z6tj30ac",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a91ad87456-nestor_parfum-kk6z6tj30ac-64dpof8hpod.png",
-    "rawTitle": "PARIS HILTON CAN CAN EDP • DAMA • 100 ML ( NUEVA PRESENTACIÓN )",
-    "name": "Paris Hilton Can Can EDP",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "Nueva Presentación",
-    "bucket": "disenador",
-    "rawUsd": 7,
-    "rawBcv": 8.4,
-    "finalUsd": 7.88,
-    "finalBcv": 9.45
   },
   {
     "key": "l' haya oud royale • unisex • 100 ml",
@@ -10740,21 +10650,6 @@
     "finalBcv": 51.3
   },
   {
-    "key": "decast paco rabanne invictus platinum edp • caballero • 10 ml",
-    "code": "nu3f0lbrsbd",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687af8e8b8693-nestor_parfum-nu3f0lbrsbd-7fxmchek0ct.png",
-    "rawTitle": "DECAST PACO RABANNE INVICTUS PLATINUM EDP • CABALLERO • 10 ML",
-    "name": "Decast Paco Rabanne Invictus Platinum EDP",
-    "genero": "CABALLERO",
-    "size": "10 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 18,
-    "rawBcv": 21.6,
-    "finalUsd": 20.25,
-    "finalBcv": 24.3
-  },
-  {
     "key": "guess dare • caballero • 100 ml",
     "code": "nvhx9igy9cl",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c9a4e0431-__nestor_parfum-nvhx9igy9cl-rdlw1kll0a.png",
@@ -10845,21 +10740,6 @@
     "finalBcv": 182.25
   },
   {
-    "key": "salvatore ferragamo bright leather edt • caballero • 100ml",
-    "code": "o6zyb2xjqld",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-644742c29426a-nestor_parfum-o6zyb2xjqld-r671ni9ypep.png",
-    "rawTitle": "SALVATORE FERRAGAMO BRIGHT LEATHER EDT • CABALLERO • 100ML",
-    "name": "Salvatore Ferragamo Bright Leather EDT",
-    "genero": "CABALLERO",
-    "size": "100ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 72,
-    "rawBcv": 86.4,
-    "finalUsd": 81,
-    "finalBcv": 97.2
-  },
-  {
     "key": "tous gems power • dama • 90 ml",
     "code": "ofkwatnglw",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675c88316fbc8-nestor_parfum-ofkwatnglw-zi9ziqvhkif.png",
@@ -10948,6 +10828,21 @@
     "rawBcv": 39.6,
     "finalUsd": 37.13,
     "finalBcv": 44.55
+  },
+  {
+    "key": "liz claiborne curve wave • dama • 100 ml",
+    "code": "opyfkbafee",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4dd7fc420d-nestor_parfum-opyfkbafee-2nrn40sjb6v.png",
+    "rawTitle": "LIZ CLAIBORNE CURVE WAVE • DAMA • 100 ML",
+    "name": "Liz Claiborne Curve Wave",
+    "genero": "DAMA",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 29,
+    "rawBcv": 34.8,
+    "finalUsd": 32.63,
+    "finalBcv": 39.15
   },
   {
     "key": "estuche davidoff 5 piezas edt • caballero • 100 ml",
@@ -13348,21 +13243,6 @@
     "rawBcv": 205.2,
     "finalUsd": 192.38,
     "finalBcv": 230.85
-  },
-  {
-    "key": "le labo another 13 • unisex • 100 ml",
-    "code": "27cfy6o1wzd",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a03f189100-nestor_parfum-27cfy6o1wzd-hhyst6rsffr.png",
-    "rawTitle": "LE LABO ANOTHER 13 • UNISEX • 100 ML",
-    "name": "Le Labo Another 13",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "nicho",
-    "rawUsd": 630,
-    "rawBcv": 756,
-    "finalUsd": 708.75,
-    "finalBcv": 850.5
   },
   {
     "key": "armaf lets move salsa • unisex • 100 ml",

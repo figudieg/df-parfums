@@ -3713,18 +3713,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cb3e0872e-__nestor_parfum-ljyiun51vj-ytkopig06xm.png"
   },
   {
-    "id": "enh0xiiujv5",
-    "name": "Azzaro Most Wanted EDT Intense",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 118.13,
-    "priceBcv": 141.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c2e9e53d4-nestor_parfum-enh0xiiujv5-yrdisjl81dh.png"
-  },
-  {
     "id": "yp4ny09qqu",
     "name": "Azzaro Sport EDT",
     "genero": "Caballero",
@@ -4071,18 +4059,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 56.25,
     "priceBcv": 67.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c22d41189-__nestor_parfum-xlqy2qmzbxs-p4dldjs5oil.png"
-  },
-  {
-    "id": "iqilj0rpd3p",
-    "name": "Cacharel Anais Anais",
-    "genero": "Dama",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 9,
-    "priceBcv": 10.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199b138fc0f-nestor_parfum-iqilj0rpd3p-cscqkli11vo.png"
   },
   {
     "id": "prlk90a0f9r",
@@ -4805,18 +4781,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1d64c344-nestor_parfum-s0a1ss1mujg-5tg2l96re2h.png"
   },
   {
-    "id": "7huxgt822y",
-    "name": "Cartier Declaration",
-    "genero": "Caballero",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 21.38,
-    "priceBcv": 25.65,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199cac6190e-nestor_parfum-7huxgt822y-29lfagxq27m.png"
-  },
-  {
     "id": "s102iplkp7j",
     "name": "Cartier Declaration EDT",
     "genero": "Caballero",
@@ -5247,18 +5211,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 60.75,
     "priceBcv": 72.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a50bdec49-nestor_parfum-vwc3j4rzyg-1x4wsr1f4u3h.png"
-  },
-  {
-    "id": "nu3f0lbrsbd",
-    "name": "Decast Paco Rabanne Invictus Platinum EDP",
-    "genero": "Caballero",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 20.25,
-    "priceBcv": 24.3,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687af8e8b8693-nestor_parfum-nu3f0lbrsbd-7fxmchek0ct.png"
   },
   {
     "id": "jru7isv64ga",
@@ -5703,6 +5655,18 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 120.38,
     "priceBcv": 144.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e8ea898b4-nestor_parfum-gyxpf6rbbgf-zz3mufweny.png"
+  },
+  {
+    "id": "4hkmpnej1qr",
+    "name": "Givenchy Blue Label",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 74.25,
+    "priceBcv": 89.1,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a043d23195-nestor_parfum-4hkmpnej1qr-fbcvsnemt3n.png"
   },
   {
     "id": "nk3rpbpc56",
@@ -7325,18 +7289,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4dc14b45a8-nestor_parfum-mup7mtjyms-zfi5hh8t7qj.png"
   },
   {
-    "id": "opyfkbafee",
-    "name": "Liz Claiborne Curve Wave",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 32.63,
-    "priceBcv": 39.15,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4dd7fc420d-nestor_parfum-opyfkbafee-2nrn40sjb6v.png"
-  },
-  {
     "id": "elg13pkewbg",
     "name": "Liz Claiborne Curve Wave",
     "genero": "Caballero",
@@ -7347,6 +7299,18 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 32.63,
     "priceBcv": 39.15,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4dd4e9abe5-nestor_parfum-elg13pkewbg-2fl2xqlwu8t.png"
+  },
+  {
+    "id": "opyfkbafee",
+    "name": "Liz Claiborne Curve Wave",
+    "genero": "Dama",
+    "size": "100 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 32.63,
+    "priceBcv": 39.15,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64a4dd7fc420d-nestor_parfum-opyfkbafee-2nrn40sjb6v.png"
   },
   {
     "id": "gfwi47ubj8m",
@@ -7539,18 +7503,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4d3d3b72ca-_nestor_parfum-a5gts2oadj-y5gxdnc0wj9.png"
-  },
-  {
-    "id": "hadck0yd5vi",
-    "name": "Mont Blanc Legend",
-    "genero": "Caballero",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 10.13,
-    "priceBcv": 12.15,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687aec5c62ec1-nestor_parfum-hadck0yd5vi-8uayq1fsq2u.png"
   },
   {
     "id": "n9cdq09fe0r",
@@ -8309,18 +8261,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65010ef818690-nestor_parfum-exe5zbg05qb-fyx80xbaxlp.png"
   },
   {
-    "id": "kk6z6tj30ac",
-    "name": "Paris Hilton Can Can EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Nueva Presentación",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 7.88,
-    "priceBcv": 9.45,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687a91ad87456-nestor_parfum-kk6z6tj30ac-64dpof8hpod.png"
-  },
-  {
     "id": "gmdhbz2aaxq",
     "name": "Paris Hilton Clásico",
     "genero": "Dama",
@@ -8897,18 +8837,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63ec1dacf18cc-nestor_parfum-06g3mlpdlokp-jfnxye5m70o.png"
   },
   {
-    "id": "o6zyb2xjqld",
-    "name": "Salvatore Ferragamo Bright Leather EDT",
-    "genero": "Caballero",
-    "size": "100ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 81,
-    "priceBcv": 97.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-644742c29426a-nestor_parfum-o6zyb2xjqld-r671ni9ypep.png"
-  },
-  {
     "id": "42hf6ksf85g",
     "name": "Salvatore Ferragamo F",
     "genero": "Caballero",
@@ -8979,18 +8907,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 74.25,
     "priceBcv": 89.1,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4c84345520-_nestor_parfum-pwlf1lepya-ab6znfmun98.png"
-  },
-  {
-    "id": "gd4du23syo5",
-    "name": "Salvatore Ferragamo Uomo Signature",
-    "genero": "Caballero",
-    "size": "100ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 70.88,
-    "priceBcv": 85.05,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63e4cf0ec1660-__nestor_parfum-gd4du23syo5-djcslmxk4kj.png"
   },
   {
     "id": "882rxd77rra",
@@ -10131,18 +10047,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 481.5,
     "priceBcv": 577.8,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65557e640ad60-nestor_parfum-p4aasx7dpip-vaja2bjxthe.png"
-  },
-  {
-    "id": "27cfy6o1wzd",
-    "name": "Le Labo Another 13",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "",
-    "category": "nicho",
-    "categoryLabel": "Nicho",
-    "priceUsd": 708.75,
-    "priceBcv": 850.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a03f189100-nestor_parfum-27cfy6o1wzd-hhyst6rsffr.png"
   },
   {
     "id": "izsgt6z49fl",
