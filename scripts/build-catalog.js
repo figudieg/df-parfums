@@ -116,14 +116,23 @@ const results = raw.map((item) => {
   const finalUsd = rawUsd != null ? Math.round(rawUsd * 1.125 * 100) / 100 : null;
   const finalBcv = rawBcv != null ? Math.round(rawBcv * 1.125 * 100) / 100 : null;
 
+  // El OCR sobre el eslogan/insignia resulto poco confiable (ver PROYECTO.md
+  // -- se seguian colando fotos con el logo bien visible). Hallazgo mejor:
+  // el nombre del archivo en el CDN del proveedor ya indica si trae su logo
+  // pegado, sin necesidad de OCR ni de bajar la imagen -- las fotos con logo
+  // tienen un guion bajo antes de "nestor_parfum" en la URL
+  // (_nestor_parfum o __nestor_parfum), las limpias (render de fabrica)
+  // tienen guion normal (-nestor_parfum). Confirmado visualmente contra 15
+  // fotos (6 con logo, 9 limpias), cero excepciones. Si tiene el logo,
+  // simplemente no se muestra foto (igual que un producto "agotado") en vez
+  // de recortarla/tapar zonas -- el usuario no quiere ver ningun rastro del
+  // logo ni ningun parche/degradado tapando parte de la foto.
+  const hasProviderLogo = /_nestor_parfum/.test(item.image || '');
+
   return {
     key: rawTitle.toLowerCase(),
     code: item.code || '',
-    // Ya no ocultamos la foto completa por marca de agua detectada (el OCR
-    // resulto poco confiable, ver PROYECTO.md) -- ahora styles.css recorta y
-    // tapa geometricamente esas zonas en TODAS las fotos, siempre. Se sigue
-    // mostrando la imagen del proveedor tal cual aqui.
-    image: item.image || '',
+    image: hasProviderLogo ? '' : (item.image || ''),
     rawTitle,
     name: toTitleCase(namePart),
     genero: generoPart,

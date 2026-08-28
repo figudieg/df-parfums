@@ -106,10 +106,12 @@ function renderCard(item) {
   return `
     <div class="mini-card${item.decant ? ' mini-card-decant' : ''}">
       <div class="mini-card-photo">
-        ${item.image ? `
-          <img src="${item.image}" alt="${item.name}" loading="lazy">
-          <span class="photo-fade"></span>
-        ` : ''}
+        ${item.image ? `<img src="${item.image}" alt="${item.name}" loading="lazy">` : `
+          <svg class="mini-card-photo-placeholder" viewBox="0 0 24 24" width="40" height="40" fill="none" stroke="currentColor" stroke-width="1.4">
+            <path d="M10 2h4M10.5 2v3.2c0 .5-.2 1-.6 1.4l-.7.7c-.5.5-.8 1.2-.8 1.9V21a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1V9.2c0-.7-.3-1.4-.8-1.9l-.7-.7c-.4-.4-.6-.9-.6-1.4V2"/>
+            <path d="M9 13h6M9 17h6"/>
+          </svg>
+        `}
       </div>
       <div class="mini-card-body">
         <div class="mini-card-top">
