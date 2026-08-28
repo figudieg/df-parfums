@@ -9,7 +9,11 @@ const ARABE_BRANDS = [
   'MAISON ALHAMBRA', 'BHARARA', 'FRENCH AVENUE', 'EMPER', 'SWISS ARABIAN',
   'AJMAL', 'NABEEL', 'ARD AL ZAAFARAN', 'RASHEED',
   'NAYAAT', 'MAKTOUB', 'RAYHAAN', 'ASSALA', 'ARABIYAD', 'DAR EL', 'CIEL',
-  "L'HAYA", "L' HAYA", "L ' HAYA"
+  "L'HAYA", "L' HAYA", "L ' HAYA",
+  // "STALLION" es la linea de Emper -- a veces el proveedor la lista sin el
+  // prefijo "EMPER" delante (ej. "STALLION UOMO INTENSE EDP"), y sin esto
+  // quedaba sin categoria y no se mostraba en el sitio.
+  'STALLION'
 ];
 
 // Diseñador: marcas de moda / prestigio mainstream (venta masiva, department stores)
@@ -30,7 +34,10 @@ const DESIGNER_BRANDS = [
   'PERRY ELLIS', 'PHILIPP PLEIN', 'TED LAPIDUS', 'TOUS', 'ÓSCAR DE', 'OSCAR DE',
   "VICTORIA'S SECRET", 'VICTIRIA\'S SECRET', 'BALDESSARINI', 'BENTLEY', 'BOND NRO',
   'LIZ CLAIBORNE', 'LOLITA LEMPICKA', 'LAGERFELD', 'POLICE', "TERRE D'",
-  'YVES SAINT LAUREN'
+  'YVES SAINT LAUREN', 'PHILLIPP PLEIN',
+  // Encontrados sueltos en "sin clasificar" -- son marcas reales, solo les
+  // faltaba entrar a la lista.
+  'CABOTINE', 'GRES', 'THIERRY MUGLER', 'MUGLER', 'JENNIFER LOPEZ', 'JENNIFER LÓPEZ', 'HOLLISTER'
 ];
 
 // Nicho: casas de perfumeria de nicho occidental (indie/artesanal, no venta

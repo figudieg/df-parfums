@@ -2765,6 +2765,18 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7ca45b5-nestor_parfum-wi5t7mxb48-4s1pvk138j2.png"
   },
   {
+    "id": "dc5j8g9bfh9",
+    "name": "Stallion Uomo Intense EDP",
+    "genero": "Unisex",
+    "size": "100 ML",
+    "note": "",
+    "category": "arabe",
+    "categoryLabel": "Árabes",
+    "priceUsd": 47.25,
+    "priceBcv": 56.7,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19cc4a40df5-nestor_parfum-dc5j8g9bfh9-4tc196mv0p.png"
+  },
+  {
     "id": "b8zwp2j91xp",
     "name": "Tubbees Cotton Candy",
     "genero": "Dama",
@@ -3723,6 +3735,18 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 129.38,
     "priceBcv": 155.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6554fb87c2030-nestor_parfum-yj64lfpobmd-vn5uinponlo.png"
+  },
+  {
+    "id": "okrhtx3nm4",
+    "name": "Cabotine Gres EDT",
+    "genero": "Dama",
+    "size": "100 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 30.38,
+    "priceBcv": 36.45,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19996b00cf5-nestor_parfum-okrhtx3nm4-oewx3975x5l.png"
   },
   {
     "id": "76iwse1hyb",
@@ -5753,6 +5777,18 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d26f33570-nestor_parfum-egaya5zbco-qm35bz54hpf.png"
   },
   {
+    "id": "lu7359j439",
+    "name": "Hollister Canyon Scape",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 30.38,
+    "priceBcv": 36.45,
+    "image": ""
+  },
+  {
     "id": "yau0f9v5o5a",
     "name": "Hugo Boss Alive EDP",
     "genero": "Dama",
@@ -6231,6 +6267,18 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 184.5,
     "priceBcv": 221.4,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64b6cd651f1ab-nestor_parfum-v8pwl3ygjc8-llpbt80egsr.png"
+  },
+  {
+    "id": "o4grzle24b",
+    "name": "Jennifer López Miami Glow EDT",
+    "genero": "Dama",
+    "size": "100 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 37.13,
+    "priceBcv": 44.55,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64726da8e3851-nestor_parfum-o4grzle24b-kcmhp39bnbq.png"
   },
   {
     "id": "u2no46qo408",
@@ -8225,6 +8273,30 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ac76e7f37-nestor_parfum-vg7k525sc9l-wybj1g9stb.png"
   },
   {
+    "id": "wktculcw4je",
+    "name": "Phillipp Plein No Limit Super Fresh EDT",
+    "genero": "Caballero",
+    "size": "90 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 79.88,
+    "priceBcv": 95.85,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67658f4b5bdd3-nestor_parfum-wktculcw4je-pra2xj61kj8.png"
+  },
+  {
+    "id": "hhre5bz9r5s",
+    "name": "Phillipp Plein No Limit$ EDP",
+    "genero": "Caballero",
+    "size": "90 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 79.88,
+    "priceBcv": 95.85,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66509bafc4086-nestor_parfum-hhre5bz9r5s-wu6y8c7fbvs.png"
+  },
+  {
     "id": "d2h5b8kxos9",
     "name": "Police To Be Bad Guy",
     "genero": "Caballero",
@@ -8547,6 +8619,30 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 165.38,
     "priceBcv": 198.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6500cf6613790-nestor_parfum-2sravt7hwoe-m433ez9qdeb.png"
+  },
+  {
+    "id": "we5qd7mfcn",
+    "name": "Thierry (Mugler Alien Edp)",
+    "genero": "Dama",
+    "size": "60 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 147.38,
+    "priceBcv": 176.85,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649b35d29e595-nestor_parfum-we5qd7mfcn-pl9q85nqwd.png"
+  },
+  {
+    "id": "m2fo1xe2ik",
+    "name": "Thierry Mugler Angel EDP",
+    "genero": "Dama",
+    "size": "100 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 130.5,
+    "priceBcv": 156.6,
+    "image": ""
   },
   {
     "id": "zv2m72cbmkc",
