@@ -14,12 +14,14 @@ const ARABE_BRANDS = [
   // prefijo "EMPER" delante (ej. "STALLION UOMO INTENSE EDP"), y sin esto
   // quedaba sin categoria y no se mostraba en el sitio.
   'STALLION',
-  // El usuario pidio explicitamente reincluir esta marca (31-ago-2026):
-  // estaba en EXCLUDE_BRANDS junto con clones descartados a proposito
-  // (Cuba, Mast Perfume, etc), pero Dumont Paris si se quiere vender --
-  // entra en "Arabes" porque es el mismo estilo de casa "similar a X"
-  // que Armaf/Lattafa/Bharara, ya presentes en esta lista.
-  'DUMONT'
+  // El usuario pidio explicitamente reincluir estas marcas (31-ago-2026):
+  // estaban en EXCLUDE_BRANDS junto con clones descartados a proposito
+  // (Cuba, New Brand, Fragluxe, etc), pero estas tres si se quieren vender.
+  // Dumont y Mast Perfume son el mismo estilo de casa "similar a X" que
+  // Armaf/Lattafa/Bharara (de hecho Mast Perfume ni siquiera usa su propio
+  // nombre en 2 de sus 3 productos -- dicen "Bharara" en el titulo). Macarena
+  // tiene ademas su propia linea (serie "King Of Kings"), no son solo copias.
+  'DUMONT', 'MAST PERFUME', 'MACARENA'
 ];
 
 // Diseñador: marcas de moda / prestigio mainstream (venta masiva, department stores)
@@ -43,7 +45,11 @@ const DESIGNER_BRANDS = [
   'YVES SAINT LAUREN', 'PHILLIPP PLEIN',
   // Encontrados sueltos en "sin clasificar" -- son marcas reales, solo les
   // faltaba entrar a la lista.
-  'CABOTINE', 'GRES', 'THIERRY MUGLER', 'MUGLER', 'JENNIFER LOPEZ', 'JENNIFER LÓPEZ', 'HOLLISTER'
+  'CABOTINE', 'GRES', 'THIERRY MUGLER', 'MUGLER', 'JENNIFER LOPEZ', 'JENNIFER LÓPEZ', 'HOLLISTER',
+  // Estaban en EXCLUDE_BRANDS -- el usuario confirmo (31-ago-2026) que son
+  // marcas propias reales (celebridad / casa de moda), no clones, y las
+  // quiere en el sitio.
+  'SHAKIRA', 'BENETTON'
 ];
 
 // Nicho: casas de perfumeria de nicho occidental (indie/artesanal, no venta
@@ -55,8 +61,7 @@ const NICHE_BRANDS = [
 
 // Budget/clone-only brands to exclude even though numerous
 const EXCLUDE_BRANDS = [
-  'NEW BRAND', 'CUBA', 'FRAGLUXE', 'FRAGLUX', 'MACARENA', 'GRANDEUR TUBBEES',
-  'MAST PERFUME', 'SHAKIRA', 'ADIDAS', 'BENETTON'
+  'NEW BRAND', 'CUBA', 'FRAGLUXE', 'FRAGLUX', 'GRANDEUR TUBBEES', 'ADIDAS'
 ];
 
 function classify(title) {
