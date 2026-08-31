@@ -59,9 +59,19 @@ const NICHE_BRANDS = [
   'XERJOFF', 'MONTALE'
 ];
 
-// Budget/clone-only brands to exclude even though numerous
+// Económicos: imitaciones genericas "similar al X" sin casa de origen
+// reconocida (a diferencia de Arabes, que si son casas de perfumeria
+// reconocidas aunque tambien hagan clones) -- el usuario pidio (31-ago-2026)
+// venderlas igual, en su propia categoria separada para que quede claro que
+// son economicas.
+const ECONOMIC_BRANDS = [
+  'NEW BRAND', 'CUBA', 'FRAGLUXE', 'FRAGLUX', 'GRANDEUR TUBBEES'
+];
+
+// El resto: sin stock actual del proveedor (Adidas) u otras que en el futuro
+// se decida no vender.
 const EXCLUDE_BRANDS = [
-  'NEW BRAND', 'CUBA', 'FRAGLUXE', 'FRAGLUX', 'GRANDEUR TUBBEES', 'ADIDAS'
+  'ADIDAS'
 ];
 
 function classify(title) {
@@ -87,6 +97,7 @@ function classify(title) {
   if (/\(\s*ÁRABE\s*\)|\(\s*ARABE\s*\)/.test(t) || ARABE_BRANDS.some(b => namePart.includes(b))) return 'arabe';
   if (NICHE_BRANDS.some(b => namePart.includes(b))) return 'nicho';
   if (DESIGNER_BRANDS.some(b => namePart.includes(b))) return 'disenador';
+  if (ECONOMIC_BRANDS.some(b => namePart.includes(b))) return 'economico';
   return 'unclassified';
 }
 
@@ -170,7 +181,7 @@ const results = raw.map((item) => {
 const counts = {};
 results.forEach(r => { counts[r.bucket] = (counts[r.bucket] || 0) + 1; });
 
-const curatedBuckets = ['arabe', 'disenador', 'nicho', 'estuche'];
+const curatedBuckets = ['arabe', 'disenador', 'nicho', 'estuche', 'economico'];
 const curated = results.filter(r => curatedBuckets.includes(r.bucket));
 const unclassified = results.filter(r => r.bucket === 'unclassified');
 
@@ -179,8 +190,8 @@ fs.writeFileSync(path.join(__dirname, 'catalog-curated.json'), JSON.stringify(cu
 fs.writeFileSync(path.join(__dirname, 'catalog-unclassified.json'), JSON.stringify(unclassified.map(u => u.rawTitle), null, 2));
 
 // ---- Site-ready data file ----
-const bucketOrder = { arabe: 0, disenador: 1, nicho: 2, estuche: 3 };
-const bucketLabel = { arabe: 'Árabes', disenador: 'Diseñador', nicho: 'Nicho', estuche: 'Estuche' };
+const bucketOrder = { arabe: 0, disenador: 1, nicho: 2, estuche: 3, economico: 4 };
+const bucketLabel = { arabe: 'Árabes', disenador: 'Diseñador', nicho: 'Nicho', estuche: 'Estuche', economico: 'Económico' };
 
 function slugify(str) {
   return str.toLowerCase()
