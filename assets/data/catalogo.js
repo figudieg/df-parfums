@@ -1093,6 +1093,66 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e61176881-nestor_parfum-vosjh3jlqus-hk6wcu0y1fu.png"
   },
   {
+    "id": "w9wml9w9ojr",
+    "name": "Dumont Nitro Black Pour Homme",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "arabe",
+    "categoryLabel": "Árabes",
+    "priceUsd": 49.5,
+    "priceBcv": 59.4,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67c236ea80880-nestor_parfum-w9wml9w9ojr-8gxwkdm1cfg.png"
+  },
+  {
+    "id": "z1015p6qckr",
+    "name": "Dumont Nitro Elixir",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "arabe",
+    "categoryLabel": "Árabes",
+    "priceUsd": 60.75,
+    "priceBcv": 72.9,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ee3c2b39e-nestor_parfum-z1015p6qckr-dejweknkzq.png"
+  },
+  {
+    "id": "m9mdonr15kq",
+    "name": "Dumont Nitro Pour Homme",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "arabe",
+    "categoryLabel": "Árabes",
+    "priceUsd": 47.25,
+    "priceBcv": 56.7,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19adc601983-nestor_parfum-m9mdonr15kq-kckadpqgb9p.png"
+  },
+  {
+    "id": "j86r2norpcj",
+    "name": "Dumont Paris Nitro Blue",
+    "genero": "Unisex",
+    "size": "100 ML",
+    "note": "Parfums De Marly Pegasus",
+    "category": "arabe",
+    "categoryLabel": "Árabes",
+    "priceUsd": 41.63,
+    "priceBcv": 49.95,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68531a8444b25-nestor_parfum-j86r2norpcj-6hynzn52s02.png"
+  },
+  {
+    "id": "wcmeghkmba",
+    "name": "Dumont Paris Nitro Red",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "Similar Al Paco Rabanne Invictus Clásico",
+    "category": "arabe",
+    "categoryLabel": "Árabes",
+    "priceUsd": 67.5,
+    "priceBcv": 81,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67195cb699730-nestor_parfum-wcmeghkmba-aqzzeqrw3po.png"
+  },
+  {
     "id": "q59hs80rx1p",
     "name": "Emper Club 09 EDP",
     "genero": "Unisex",

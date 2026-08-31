@@ -13,7 +13,13 @@ const ARABE_BRANDS = [
   // "STALLION" es la linea de Emper -- a veces el proveedor la lista sin el
   // prefijo "EMPER" delante (ej. "STALLION UOMO INTENSE EDP"), y sin esto
   // quedaba sin categoria y no se mostraba en el sitio.
-  'STALLION'
+  'STALLION',
+  // El usuario pidio explicitamente reincluir esta marca (31-ago-2026):
+  // estaba en EXCLUDE_BRANDS junto con clones descartados a proposito
+  // (Cuba, Mast Perfume, etc), pero Dumont Paris si se quiere vender --
+  // entra en "Arabes" porque es el mismo estilo de casa "similar a X"
+  // que Armaf/Lattafa/Bharara, ya presentes en esta lista.
+  'DUMONT'
 ];
 
 // Diseñador: marcas de moda / prestigio mainstream (venta masiva, department stores)
@@ -50,7 +56,7 @@ const NICHE_BRANDS = [
 // Budget/clone-only brands to exclude even though numerous
 const EXCLUDE_BRANDS = [
   'NEW BRAND', 'CUBA', 'FRAGLUXE', 'FRAGLUX', 'MACARENA', 'GRANDEUR TUBBEES',
-  'DUMONT', 'MAST PERFUME', 'SHAKIRA', 'ADIDAS', 'BENETTON'
+  'MAST PERFUME', 'SHAKIRA', 'ADIDAS', 'BENETTON'
 ];
 
 function classify(title) {
