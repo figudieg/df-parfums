@@ -272,24 +272,35 @@ decantRegistry.forEach((entry) => {
   }
 });
 
-// ---- Fotos del proveedor que traen su logo/marca de agua (no las queremos
-// mostrar tal cual) -- registro manual en scripts/photo-overrides.json.
-// action "hide": no se muestra ninguna foto para ese producto (queda el
-// fondo de la tarjeta, sin imagen) hasta que se le agregue una propia.
-// action "replace": usa la imagen local indicada en vez de la del proveedor.
-const photoOverridesPath = path.join(__dirname, 'photo-overrides.json');
-const photoOverrides = fs.existsSync(photoOverridesPath)
-  ? JSON.parse(fs.readFileSync(photoOverridesPath, 'utf8'))
-  : [];
-
-photoOverrides.forEach((entry) => {
-  const pattern = new RegExp(entry.matchPattern, 'i');
-  const match = results.find((r) => !r.bucket.startsWith('exclude-') && pattern.test(r.rawTitle));
-  if (!match) return;
-  const siteItem = keyToSiteItem.get(match.key);
-  if (!siteItem) return;
-  siteItem.image = entry.action === 'replace' ? (entry.image || '') : '';
+// ---- Fotos propias para productos sin foto limpia del proveedor (logo
+// detectado y ocultado, o el proveedor nunca subio foto) -- no requiere
+// tocar codigo ni JSON: se guarda el archivo de imagen en
+// assets/images/products/<id>.<ext>, usando el mismo <id> que ya trae cada
+// producto en el catalogo (ver scripts/catalog-missing-photos.json para la
+// lista de pendientes, se regenera solo en cada build). Si el archivo existe
+// se usa esa imagen y punto -- pisa cualquier otra que hubiera, asi que
+// tambien sirve para reemplazar una foto de stock por una propia si se
+// quiere mejorarla.
+const manualPhotosDir = path.join(__dirname, '..', 'assets', 'images', 'products');
+const manualPhotoByStem = new Map();
+if (fs.existsSync(manualPhotosDir)) {
+  fs.readdirSync(manualPhotosDir).forEach((filename) => {
+    const stem = filename.replace(/\.[^.]+$/, '');
+    manualPhotoByStem.set(stem, `assets/images/products/${filename}`);
+  });
+}
+siteData.forEach((item) => {
+  const manual = manualPhotoByStem.get(item.id);
+  if (manual) item.image = manual;
 });
+
+const stillMissingPhoto = siteData
+  .filter((item) => !item.image)
+  .map((item) => ({ id: item.id, name: item.name, categoryLabel: item.categoryLabel }));
+fs.writeFileSync(
+  path.join(__dirname, 'catalog-missing-photos.json'),
+  JSON.stringify(stillMissingPhoto, null, 2)
+);
 
 const jsOut = `// Generado automaticamente por scripts/build-catalog.js a partir del
 // catalogo publico de Nestor Parfum (vercatalogo.com/nestor_parfum).
