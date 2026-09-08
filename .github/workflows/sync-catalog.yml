@@ -2,8 +2,9 @@ name: Sync catalogo Nestor Parfum
 
 on:
   schedule:
-    # 9:00 AM hora de Venezuela (UTC-4) todos los dias
+    # 9:00 AM y 9:00 PM hora de Venezuela (UTC-4), cada 12 horas
     - cron: '0 13 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch: {}
 
 permissions:
