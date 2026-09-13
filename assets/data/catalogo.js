@@ -989,18 +989,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e610ee37d-nestor_parfum-8skn3u7arr7-5cxv7lohdf6.png"
   },
   {
-    "id": "9v72zv7aaik",
-    "name": "Assala Prime Fakhama EDP",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "Similar Al Xerjoff Erba Pura",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 39.38,
-    "priceBcv": 47.25,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675213e1ddc02-nestor_parfum-9v72zv7aaik-qc98ruisvjb.png"
-  },
-  {
     "id": "dbhstooqak",
     "name": "Assala Prime Hayati EDP",
     "genero": "Unisex",
@@ -2873,18 +2861,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68081799dbb33-nestor_parfum-g2ij4j4tqc-sgp3pd4f34.png"
   },
   {
-    "id": "08pol0l2gnco",
-    "name": "Rasasi Hawas Chrome",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 63,
-    "priceBcv": 75.6,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f7191d75c-nestor_parfum-08pol0l2gnco-veq7xl1y10s.png"
-  },
-  {
     "id": "8rnpyz7zib8",
     "name": "Rasasi Hawas Eclat EDP",
     "genero": "Dama",
@@ -2907,18 +2883,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-669addd164be6-nestor_parfum-7tz5jl60zex-2ukd4e9k2a.png"
-  },
-  {
-    "id": "rx2yuhn9ljm",
-    "name": "Rasasi Hawas Kobra",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 64.13,
-    "priceBcv": 76.95,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ce808b271-nestor_parfum-rx2yuhn9ljm-35m9svhj3x8.png"
   },
   {
     "id": "eod8zsqeeup",
@@ -3339,18 +3303,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 39.38,
     "priceBcv": 47.25,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19963f7faac-nestor_parfum-a94hamlx5br-ff41e20eb3r.png"
-  },
-  {
-    "id": "58shslbjxke",
-    "name": "Antonio Bandera The Icon Supreme Mini",
-    "genero": "Caballero",
-    "size": "10 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 6.75,
-    "priceBcv": 8.1,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1d1851b4-nestor_parfum-58shslbjxke-a2nwzwwsx7h.png"
   },
   {
     "id": "g5gp798c1u",
@@ -6785,18 +6737,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64b6cd651f1ab-nestor_parfum-v8pwl3ygjc8-llpbt80egsr.png"
   },
   {
-    "id": "5bq242mhljt",
-    "name": "Jean Paul Gaultier Scandal Refill EDT",
-    "genero": "Caballero",
-    "size": "200 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 163.13,
-    "priceBcv": 195.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6556594ee36be-nestor_parfum-5bq242mhljt-8ednwxbzs3h.png"
-  },
-  {
     "id": "o4grzle24b",
     "name": "Jennifer López Miami Glow EDT",
     "genero": "Dama",
@@ -7743,18 +7683,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 60.75,
     "priceBcv": 72.9,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-672a43d0e1708-nestor_parfum-hdy9kyep717-yr8jsmzp2o.png"
-  },
-  {
-    "id": "qp66hhjmsap",
-    "name": "Mont Blanc Starwalker",
-    "genero": "Caballero",
-    "size": "75 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 56.25,
-    "priceBcv": 67.5,
-    "image": ""
   },
   {
     "id": "p3glsap0opo",
@@ -10421,6 +10349,18 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be452909687-nestor_parfum-5dof6e2uqlo-ne406vu1ai.png"
   },
   {
+    "id": "0fpm2ikbq33e",
+    "name": "Mancera Amber Fever EDP",
+    "genero": "Unisex",
+    "size": "120 ML",
+    "note": "",
+    "category": "nicho",
+    "categoryLabel": "Nicho",
+    "priceUsd": 118.13,
+    "priceBcv": 141.75,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6494bb9f56e2b-nestor_parfum-0fpm2ikbq33e-4158y9o802n.png"
+  },
+  {
     "id": "mr5b13k3qpp",
     "name": "Mancera Aoud Vanille EDP",
     "genero": "Unisex",
@@ -10490,18 +10430,6 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Nicho",
     "priceUsd": 160.88,
     "priceBcv": 193.05,
-    "image": ""
-  },
-  {
-    "id": "5b9li4zsqg2",
-    "name": "Montale Mukhallat EDP",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "",
-    "category": "nicho",
-    "categoryLabel": "Nicho",
-    "priceUsd": 113.63,
-    "priceBcv": 136.35,
     "image": ""
   },
   {
@@ -11403,18 +11331,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 58.5,
     "priceBcv": 70.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66a27c45b75b8-nestor_parfum-fp2ldp343rr-7lpq6irbjc.png"
-  },
-  {
-    "id": "6ktong9b46j",
-    "name": "Estuche Perry Ellis 360 4 Piezas",
-    "genero": "Caballero",
-    "size": "",
-    "note": "",
-    "category": "estuche",
-    "categoryLabel": "Estuche",
-    "priceUsd": 56.25,
-    "priceBcv": 67.5,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a55b895fc-nestor_parfum-6ktong9b46j-08jywjymoi1g.png"
   },
   {
     "id": "4v5f01799ue",
