@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "df-parfums-bot"
           git config user.email "actions@users.noreply.github.com"
-          FILES="assets/data/catalogo.js scripts/nestor-parfum-raw.json scripts/catalog-curated.json"
+          FILES="assets/data/catalogo.js scripts/nestor-parfum-raw.json scripts/catalog-curated.json scripts/catalog-missing-photos.json"
           if git diff --quiet -- $FILES; then
             echo "Sin cambios en el catalogo, nada que commitear."
             exit 0
