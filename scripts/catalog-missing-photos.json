@@ -185,11 +185,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "p6pd8auwxck",
-    "name": "Ariana Grande Cloud EDP",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "ljyiun51vj",
     "name": "Azzaro Clasico",
     "categoryLabel": "Diseñador"
@@ -267,11 +262,6 @@
   {
     "id": "xlqy2qmzbxs",
     "name": "Cacharel Anais Anais",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "e4dhc4ddcvi",
-    "name": "Calvin Klein Ck One",
     "categoryLabel": "Diseñador"
   },
   {
@@ -420,11 +410,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "wr25cfmglo",
-    "name": "Dolce & Gabbana Light Blue",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "m5gltbrb6",
     "name": "Elizabeth Arden Red Door",
     "categoryLabel": "Diseñador"
@@ -530,11 +515,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "ao5a29ns56d",
-    "name": "Hugo Boss Xy",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "42tbx5a4k07",
     "name": "Issey Miyake Clasica",
     "categoryLabel": "Diseñador"
@@ -572,11 +552,6 @@
   {
     "id": "8jq9m1bpecc",
     "name": "Jesus Del Pozo Halloween Clasico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "rmgs26so2v",
-    "name": "Joop Homme",
     "categoryLabel": "Diseñador"
   },
   {
@@ -631,11 +606,6 @@
   },
   {
     "id": "6onypbeq4ao",
-    "name": "Mont Blanc Individuel",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "dn0ukcublnw",
     "name": "Mont Blanc Individuel",
     "categoryLabel": "Diseñador"
   },
@@ -840,6 +810,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "jl4aev2pjjh",
+    "name": "Tommy Hilfiger",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "dz2fb6tlaj",
     "name": "Tous Gold EDP",
     "categoryLabel": "Diseñador"
@@ -937,11 +912,6 @@
   {
     "id": "669dw7mvk9",
     "name": "Montale Intense Rose Musk Extraid De Parfum",
-    "categoryLabel": "Nicho"
-  },
-  {
-    "id": "5b9li4zsqg2",
-    "name": "Montale Mukhallat EDP",
     "categoryLabel": "Nicho"
   },
   {
