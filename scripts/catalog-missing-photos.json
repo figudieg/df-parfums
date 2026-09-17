@@ -100,8 +100,8 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "d2tfegrysxv",
-    "name": "Ciel",
+    "id": "rxb012ex2a",
+    "name": "Hawas Rasasi EDP",
     "categoryLabel": "Árabes"
   },
   {
@@ -145,11 +145,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "8w9myvwfdj",
-    "name": "Antonio Bandera Power Of Seduction",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "yzqexok064",
     "name": "Antonio Banderas Blue Seduction",
     "categoryLabel": "Diseñador"
@@ -187,11 +182,6 @@
   {
     "id": "aonbsmtroek",
     "name": "Benetton Colors Blue Men",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "fgzrrljd7k",
-    "name": "Benetton Infierno Paraiso Pink",
     "categoryLabel": "Diseñador"
   },
   {
@@ -440,11 +430,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "dn2e88mfaeg",
-    "name": "Guess Clasico",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "l8l50bdkk6",
     "name": "Guess Clasico",
     "categoryLabel": "Diseñador"
@@ -505,6 +490,16 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "1wt55wbu0fa",
+    "name": "Hugo Boss Orange",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "ao5a29ns56d",
+    "name": "Hugo Boss Xy",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "mle98nigxi9",
     "name": "Issey Miyake Clasico",
     "categoryLabel": "Diseñador"
@@ -550,11 +545,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "8l7zo21jh9k",
-    "name": "Lacoste Touch Of Pink",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "7ku3ed0vdr",
     "name": "Lagerfeld Sun Moon Stars",
     "categoryLabel": "Diseñador"
@@ -582,11 +572,6 @@
   {
     "id": "gfwi47ubj8m",
     "name": "Lolita Lempicka EDP",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "6onypbeq4ao",
-    "name": "Mont Blanc Individuel",
     "categoryLabel": "Diseñador"
   },
   {
@@ -895,6 +880,11 @@
     "categoryLabel": "Nicho"
   },
   {
+    "id": "5b9li4zsqg2",
+    "name": "Montale Mukhallat EDP",
+    "categoryLabel": "Nicho"
+  },
+  {
     "id": "8lv8q5743mt",
     "name": "New Brand Prestige The Royal (Similar Al Creed Royal)",
     "categoryLabel": "Nicho"
@@ -937,11 +927,6 @@
   {
     "id": "faajvq45vzq",
     "name": "Cuba Jungle Snake",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "ym7tcgbtdo",
-    "name": "Cuba Milestone",
     "categoryLabel": "Económico"
   },
   {
