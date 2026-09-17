@@ -80,18 +80,13 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "bc2zf316aed",
-    "name": "Armaf Club De Nuit Urban Man EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "h1yc5phimqh",
     "name": "Armaf Hunter",
     "categoryLabel": "Árabes"
   },
   {
-    "id": "x63fcwocef",
-    "name": "Armaf Odyssey Homme",
+    "id": "cm5klhncufv",
+    "name": "Armaf Odyssey White",
     "categoryLabel": "Árabes"
   },
   {
@@ -107,11 +102,6 @@
   {
     "id": "d2tfegrysxv",
     "name": "Ciel",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "evga4oamfz7",
-    "name": "Ciel Indra",
     "categoryLabel": "Árabes"
   },
   {
@@ -155,8 +145,8 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "noyihl3ku",
-    "name": "Antonio Bandera The Golden Secret",
+    "id": "8w9myvwfdj",
+    "name": "Antonio Bandera Power Of Seduction",
     "categoryLabel": "Diseñador"
   },
   {
@@ -267,11 +257,6 @@
   {
     "id": "vj9s5vuevuo",
     "name": "Calvin Klein Ck One Shock",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "qly79cpn8up",
-    "name": "Calvin Klein Ckin2u",
     "categoryLabel": "Diseñador"
   },
   {
@@ -455,6 +440,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "dn2e88mfaeg",
+    "name": "Guess Clasico",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "l8l50bdkk6",
     "name": "Guess Clasico",
     "categoryLabel": "Diseñador"
@@ -515,11 +505,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "42tbx5a4k07",
-    "name": "Issey Miyake Clasica",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "mle98nigxi9",
     "name": "Issey Miyake Clasico",
     "categoryLabel": "Diseñador"
@@ -547,11 +532,6 @@
   {
     "id": "j3cyj0t597l",
     "name": "Jean Paul Gaultier Scandal",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "8jq9m1bpecc",
-    "name": "Jesus Del Pozo Halloween Clasico",
     "categoryLabel": "Diseñador"
   },
   {
@@ -632,11 +612,6 @@
   {
     "id": "rqhl70f6l4",
     "name": "Nautica Clásico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "9qd0fasyv1b",
-    "name": "Nautica Voyage Sport",
     "categoryLabel": "Diseñador"
   },
   {
@@ -732,6 +707,11 @@
   {
     "id": "djlb9kvkc2a",
     "name": "Perry Ellis 18 Sensual EDP",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "mnhcmezeopi",
+    "name": "Perry Ellis 360 Clásico",
     "categoryLabel": "Diseñador"
   },
   {
