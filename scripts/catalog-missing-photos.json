@@ -205,11 +205,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "o4hrq5mskwa",
-    "name": "Bvlgari Aqva Pour Homme",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "yl2li93ln0e",
     "name": "Bvlgari Blv",
     "categoryLabel": "Diseñador"
@@ -232,6 +227,11 @@
   {
     "id": "xlqy2qmzbxs",
     "name": "Cacharel Anais Anais",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "t0fgtiys8v",
+    "name": "Calvin Klein Ck One",
     "categoryLabel": "Diseñador"
   },
   {
@@ -330,6 +330,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "m9r3298sy5l",
+    "name": "Clinique Happy",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "c9kdmvmjzdp",
     "name": "Coach Dreams EDP",
     "categoryLabel": "Diseñador"
@@ -412,11 +417,6 @@
   {
     "id": "nvhx9igy9cl",
     "name": "Guess Dare",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "yxmidpnylds",
-    "name": "Guess Girl",
     "categoryLabel": "Diseñador"
   },
   {
@@ -740,6 +740,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "g6qzctequcn",
+    "name": "Tommy Girl",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "dz2fb6tlaj",
     "name": "Tous Gold EDP",
     "categoryLabel": "Diseñador"
@@ -762,11 +767,6 @@
   {
     "id": "t6jcjjmf0t9",
     "name": "Versace Dylan Blue Turquoise",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "t6u7jklgidf",
-    "name": "Versace Eros EDT",
     "categoryLabel": "Diseñador"
   },
   {
