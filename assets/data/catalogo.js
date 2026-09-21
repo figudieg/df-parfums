@@ -125,18 +125,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6570e85716189-nestor_parfum-fupk637oe9q-p9illbnva6.png"
   },
   {
-    "id": "5w9mjtn6rmi",
-    "name": "Afnan Mystique Bouquet Epd",
-    "genero": "Unisex",
-    "size": "80 ML",
-    "note": "Similar Al Marlyn De Parfums Valaya",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 79.88,
-    "priceBcv": 95.85,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67992ba9ec4d0-nestor_parfum-5w9mjtn6rmi-l6xdxve4vul.png"
-  },
-  {
     "id": "waehljrhfv9",
     "name": "Afnan Supremacy In OUD Luxury Collection Extrait De Parfum",
     "genero": "Unisex",
@@ -401,18 +389,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-685204d561fb7-nestor_parfum-svydq9quas9-p21a08w7bnl.png"
   },
   {
-    "id": "m09syy0vo8a",
-    "name": "Armaf Club De Nuit Sillage",
-    "genero": "Caballero",
-    "size": "105 ML",
-    "note": "Similar Al Creed Silver Mountain",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 47.25,
-    "priceBcv": 56.7,
-    "image": ""
-  },
-  {
     "id": "bc2zf316aed",
     "name": "Armaf Club De Nuit Urban Man EDP",
     "genero": "Caballero",
@@ -593,30 +569,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a557662d2-nestor_parfum-y031318lqu9-97q6ph98qcr.png"
   },
   {
-    "id": "wt3xzzyqkqn",
-    "name": "Armaf Odyssey Mandarin Elixir",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "Similar Al Scandal Pour Homme",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 49.5,
-    "priceBcv": 59.4,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68642be7a348a-nestor_parfum-wt3xzzyqkqn-89v1r6p7rqq.png"
-  },
-  {
-    "id": "fy19wvvho75",
-    "name": "Armaf Odyssey Pink Pop EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 63,
-    "priceBcv": 75.6,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e0ec2f02e-nestor_parfum-fy19wvvho75-vtdo55xmg.png"
-  },
-  {
     "id": "ehenlep3mg",
     "name": "Armaf Old Money EDP",
     "genero": "Unisex",
@@ -663,18 +615,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 104.63,
     "priceBcv": 125.55,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be34572afbf-nestor_parfum-rjm5e6qqjy-93pyx8fhjeu.png"
-  },
-  {
-    "id": "63h15mam9bw",
-    "name": "Armaf Private Key To My Love Extrait De Parfum",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar Al Tiziana Terenzi Kirke",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 104.63,
-    "priceBcv": 125.55,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be3571cd72e-nestor_parfum-63h15mam9bw-2vxgg1ha7kb.png"
   },
   {
     "id": "ygh4pjl4utj",
@@ -807,18 +747,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d778362f6-nestor_parfum-doh6a8gpcd-25jvm5qed8y.png"
-  },
-  {
-    "id": "lniyld58mn",
-    "name": "Bharara King EDP",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 91.13,
-    "priceBcv": 109.35,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fcb4179c-nestor_parfum-lniyld58mn-lm3rwh48nc.png"
   },
   {
     "id": "qm65q3rtb2",
@@ -1577,18 +1505,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a40854c83-nestor_parfum-gfyhqralnmf-anm1mbf5rl.png"
   },
   {
-    "id": "7t86qrr7a79",
-    "name": "Lattafa Qimmah Women",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar A Good Girl",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 42.75,
-    "priceBcv": 51.3,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67f8258fa9073-nestor_parfum-7t86qrr7a79-f70vulj2514.png"
-  },
-  {
     "id": "g5llkncnijm",
     "name": "Lattafa Rave Now White EDP",
     "genero": "Unisex",
@@ -1719,18 +1635,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 47.25,
     "priceBcv": 56.7,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b3d42dd2d-nestor_parfum-ff7uj12z6v9-o62jotwhvjb.png"
-  },
-  {
-    "id": "hjcrhvtbrp9",
-    "name": "Lattafa Yara Estuche 4 Piezas",
-    "genero": "Dama",
-    "size": "25 ML",
-    "note": "",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 64.13,
-    "priceBcv": 76.95,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198e6c87726-nestor_parfum-hjcrhvtbrp9-c7n0291x1yn.png"
   },
   {
     "id": "j099gl1g0ue",
@@ -2055,18 +1959,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 25.88,
     "priceBcv": 31.05,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6668ebd8b17a3-nestor_parfum-nsg8fo6hhz-10mjod4yv3fo.png"
-  },
-  {
-    "id": "5mbndya0ou5",
-    "name": "Maison Alhambra Rose Petals EDP",
-    "genero": "Dama",
-    "size": "80 ML",
-    "note": "Similar Al Tom Ford Rose Prick",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 36,
-    "priceBcv": 43.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66217e8f5598b-nestor_parfum-5mbndya0ou5-qqj6d6vkqac.png"
   },
   {
     "id": "k8790415a7s",
@@ -3077,18 +2969,6 @@ window.CATALOGO_NESTOR = [
     "image": ""
   },
   {
-    "id": "5yej2uhv8pw",
-    "name": "Azzaro Wanted EDP",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 118.13,
-    "priceBcv": 141.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-666f6bd55b7fd-nestor_parfum-5yej2uhv8pw-zygrnuynp7q.png"
-  },
-  {
     "id": "v7o2beunie",
     "name": "Azzaro Wanted EDT",
     "genero": "Caballero",
@@ -3327,18 +3207,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 64.13,
     "priceBcv": 76.95,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f4ef3d7ee-nestor_parfum-p7isvdv3qyc-1kl54awfoefk.png"
-  },
-  {
-    "id": "5se6nn31kz",
-    "name": "Britney Spears Believe",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 32.63,
-    "priceBcv": 39.15,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19bc77fd470-nestor_parfum-5se6nn31kz-gs7kv14k0en.png"
   },
   {
     "id": "9rv119dyjtk",
@@ -4625,18 +4493,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6447554f9fb3c-nestor_parfum-zpui3yqfqi7-c4yhfzfxdww.png"
   },
   {
-    "id": "av890vc5t6t",
-    "name": "Dolce & Gabbana Devotion EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 86.63,
-    "priceBcv": 103.95,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199d47da5c4-nestor_parfum-av890vc5t6t-zdp8vnq9m29.png"
-  },
-  {
     "id": "0iljwpwoxs5",
     "name": "Dolce & Gabbana Pour Homme",
     "genero": "Caballero",
@@ -5307,18 +5163,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 56.25,
     "priceBcv": 67.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f755febca-nestor_parfum-d2dd6ly0d4r-e3j41lpkprf.png"
-  },
-  {
-    "id": "vs1vxsd2w9",
-    "name": "Guess Marciano",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 39.38,
-    "priceBcv": 47.25,
-    "image": ""
   },
   {
     "id": "wojyouqhhhi",
@@ -6015,18 +5859,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 97.88,
     "priceBcv": 117.45,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d4ae6abbe-nestor_parfum-rd0nr4wp6yf-jlu98yvn1o.png"
-  },
-  {
-    "id": "69yh2owsfgf",
-    "name": "Lacoste Eau L.12 12 Rose Intense EDT",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 49.5,
-    "priceBcv": 59.4,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6cc5cdb7-nestor_parfum-69yh2owsfgf-u5fn6stxcuq.png"
   },
   {
     "id": "9bogfzcx54j",
@@ -7445,18 +7277,6 @@ window.CATALOGO_NESTOR = [
     "image": ""
   },
   {
-    "id": "mnhcmezeopi",
-    "name": "Perry Ellis 360 Clásico",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 46.13,
-    "priceBcv": 55.35,
-    "image": ""
-  },
-  {
     "id": "6r44toug488",
     "name": "Perry Ellis 360 Clásico",
     "genero": "Caballero",
@@ -7553,18 +7373,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67006a000e2c0-nestor_parfum-ht9wu4q9vrp-z9d7bv3r9f.png"
   },
   {
-    "id": "5xnqwf8h57v",
-    "name": "Philipp Plein Fatale EDP",
-    "genero": "Dama",
-    "size": "90 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 84.38,
-    "priceBcv": 101.25,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ac77772df-nestor_parfum-5xnqwf8h57v-htqjx2afibh.png"
-  },
-  {
     "id": "wktculcw4je",
     "name": "Philipp Plein No Limit Super Fresh EDT",
     "genero": "Caballero",
@@ -7575,18 +7383,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 79.88,
     "priceBcv": 95.85,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67658f4b5bdd3-nestor_parfum-wktculcw4je-pra2xj61kj8.png"
-  },
-  {
-    "id": "5yi00g8wprq",
-    "name": "Philipp Plein No Limits EDP",
-    "genero": "Caballero",
-    "size": "90 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 73.13,
-    "priceBcv": 87.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c539144b2-nestor_parfum-5yi00g8wprq-ci9te4byld.png"
   },
   {
     "id": "pe5jlq8ruxh",
@@ -7985,18 +7781,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-653ac81e27133-nestor_parfum-yu2w3cewr9-vztzmccqeje.png"
   },
   {
-    "id": "882rxd77rra",
-    "name": "Spray Ariana Grande Cloud",
-    "genero": "Dama",
-    "size": "236 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 22.5,
-    "priceBcv": 27,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e08c2cf9f-nestor_parfum-882rxd77rra-8zpliab0yk3.png"
-  },
-  {
     "id": "8c7mxtq9mi5",
     "name": "Spray Body Paris Hilton Heiress",
     "genero": "Dama",
@@ -8045,18 +7829,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649b35d29e595-nestor_parfum-we5qd7mfcn-pl9q85nqwd.png"
   },
   {
-    "id": "5szudnmn8e4",
-    "name": "Thierry Mugler Alien EDP",
-    "genero": "Dama",
-    "size": "90 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 160.88,
-    "priceBcv": 193.05,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-644753fb1c9ba-nestor_parfum-5szudnmn8e4-f81uryo9kve.png"
-  },
-  {
     "id": "m2fo1xe2ik",
     "name": "Thierry Mugler Angel EDP",
     "genero": "Dama",
@@ -8103,18 +7875,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 607.5,
     "priceBcv": 729,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a08c787e7f-nestor_parfum-yjsbxppdamb-tpayppkc3bl.png"
-  },
-  {
-    "id": "68h1zbgqimr",
-    "name": "Tom Ford Ombre Leather EDP",
-    "genero": "Unisex",
-    "size": "50 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 186.75,
-    "priceBcv": 224.1,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e795c4d49-nestor_parfum-68h1zbgqimr-hgldmoe7wdr.png"
   },
   {
     "id": "wqvbu94s7b",
@@ -8295,18 +8055,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 171,
     "priceBcv": 205.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649b47abe73f0-nestor_parfum-uoux2ya11ia-n2j7jtrhz8b.png"
-  },
-  {
-    "id": "5m5kp376qtu",
-    "name": "Valentino Uomo",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 144,
-    "priceBcv": 172.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65011d7ba24b7-nestor_parfum-5m5kp376qtu-ya9q5x9kxa.png"
   },
   {
     "id": "bwjfam8vdpr",
@@ -8523,18 +8271,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 118.13,
     "priceBcv": 141.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e602fd1fb-nestor_parfum-e49g0jnu434-0hffou2k8m8.png"
-  },
-  {
-    "id": "5o6gu5ssffu",
-    "name": "Victoria's Secret Bare Rose EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 118.13,
-    "priceBcv": 141.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e6030ebd8-nestor_parfum-5o6gu5ssffu-0g46mm9fql6.png"
   },
   {
     "id": "ajrrluvmjb4",
@@ -9173,16 +8909,16 @@ window.CATALOGO_NESTOR = [
     "image": ""
   },
   {
-    "id": "669dw7mvk9",
-    "name": "Montale Intense Rose Musk Extraid De Parfum",
+    "id": "00uuaa58y2yck",
+    "name": "Montale Pink Extasy EDP",
     "genero": "Dama",
     "size": "100 ML",
     "note": "",
     "category": "nicho",
     "categoryLabel": "Nicho",
-    "priceUsd": 160.88,
-    "priceBcv": 193.05,
-    "image": ""
+    "priceUsd": 113.63,
+    "priceBcv": 136.35,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67be46b977a3a-nestor_parfum-00uuaa58y2yck-nu6txkyk9n.png"
   },
   {
     "id": "8lv8q5743mt",
@@ -9471,18 +9207,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 50.63,
     "priceBcv": 60.75,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19bc7787f59-nestor_parfum-lz1g3hm53bh-ds1usfqq8lr.png"
-  },
-  {
-    "id": "5okldc900jt",
-    "name": "Estuche Bvlgari Man Terrae Essence EDP",
-    "genero": "Caballero",
-    "size": "",
-    "note": "",
-    "category": "estuche",
-    "categoryLabel": "Estuche",
-    "priceUsd": 135,
-    "priceBcv": 162,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649604eadb4b2-nestor_parfum-5okldc900jt-wppxyw2kc1s.png"
   },
   {
     "id": "9t8bvd6wlgm",
@@ -10241,18 +9965,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65556c1a0366b-nestor_parfum-4l1w64lnc7e-vd5oiu6mga.png"
   },
   {
-    "id": "8dsbz4s7bg2",
-    "name": "Cuba Chic EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar Al CH Clasico",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6500c8bc7005e-nestor_parfum-8dsbz4s7bg2-3ui7so7kasa.png"
-  },
-  {
     "id": "567eda8oie",
     "name": "Cuba Fierce EDT",
     "genero": "Caballero",
@@ -10294,18 +10006,6 @@ window.CATALOGO_NESTOR = [
     "genero": "Dama",
     "size": "100 ML",
     "note": "Similar Al Romance",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": ""
-  },
-  {
-    "id": "cjsx17fwiwa",
-    "name": "Cuba Night",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar Al Xs Black",
     "category": "economico",
     "categoryLabel": "Económico",
     "priceUsd": 13.5,
@@ -10361,18 +10061,6 @@ window.CATALOGO_NESTOR = [
     "image": ""
   },
   {
-    "id": "aphpbh34zwe",
-    "name": "Cuba Signature EDT",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "Similar Al Bvlgari Man In Black",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19968a78392-nestor_parfum-aphpbh34zwe-lkvpnbl3tvi.png"
-  },
-  {
     "id": "qfqecoxbze",
     "name": "Cuba Silver ( Similar Al Farenheit)",
     "genero": "Caballero",
@@ -10397,30 +10085,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6808162390871-nestor_parfum-k8rh42ui6ib-5yy26hxczgn.png"
   },
   {
-    "id": "eo1eix3chcg",
-    "name": "Cuba Too Sexy",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar Al Si Passione",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": ""
-  },
-  {
-    "id": "v1b0zq0w39",
-    "name": "Cuba Victory",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar Al Olympea",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 15.75,
-    "priceBcv": 18.9,
-    "image": ""
-  },
-  {
     "id": "rlklkw4p86s",
     "name": "Cuba VIP ( Similar Al 212 VIP Black)",
     "genero": "Caballero",
@@ -10430,18 +10094,6 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Económico",
     "priceUsd": 13.5,
     "priceBcv": 16.2,
-    "image": ""
-  },
-  {
-    "id": "v29m1afovj",
-    "name": "Cuba VIP ( Similar Al 212 VIP Rose )",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 15.75,
-    "priceBcv": 18.9,
     "image": ""
   },
   {
@@ -10467,18 +10119,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 13.5,
     "priceBcv": 16.2,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6559784174eb4-nestor_parfum-bjtc91x6vj6-mxmntsxfqif.png"
-  },
-  {
-    "id": "ya5njhb254",
-    "name": "Cuba Winner",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "Similar Al Paco Rabanne Invictus",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63ec1fbfa99f0-nestor_parfum-ya5njhb254-uj8s201ix4l.png"
   },
   {
     "id": "sk7ww5ege6n",
@@ -11189,18 +10829,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67534a3e584e1-nestor_parfum-y28u990yw3r-j7nx0bvt98p.png"
   },
   {
-    "id": "19vju0es0ab",
-    "name": "New Brand Secret EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar Al Good Girl Carolina Herrera",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198aa43561e-nestor_parfum-19vju0es0ab-ebzybeublvb.png"
-  },
-  {
     "id": "qc5egqqct5n",
     "name": "New Brand Seduction",
     "genero": "Caballero",
@@ -11235,18 +10863,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 13.5,
     "priceBcv": 16.2,
     "image": ""
-  },
-  {
-    "id": "68d20wtq2as",
-    "name": "New Brand Strong EDT",
-    "genero": "Caballero",
-    "size": "100ML",
-    "note": "",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67534aa07a64f-nestor_parfum-68d20wtq2as-9a0t02ihjdw.png"
   },
   {
     "id": "moyytpewxx",
