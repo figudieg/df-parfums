@@ -260,6 +260,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "0dwplysjpix",
+    "name": "Carolina Herrera 212 VIP Men",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "8n7w5wgrsmy",
     "name": "Carolina Herrera Bad Boy",
     "categoryLabel": "Diseñador"
@@ -375,11 +380,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "4c7h6zsp9n6",
-    "name": "Giorgio Armani Acqua Di Gio EDT",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "6ly54l9ndyl",
     "name": "Giorgio Armani Acqua Di Gio Profondo EDP",
     "categoryLabel": "Diseñador"
@@ -412,6 +412,11 @@
   {
     "id": "s0xb8o5ix3",
     "name": "Guess Girl Belle",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "2gag6x5699q",
+    "name": "Guess Gold",
     "categoryLabel": "Diseñador"
   },
   {
@@ -472,11 +477,6 @@
   {
     "id": "c8qs3if8o6k",
     "name": "Juicy Couture Viva La Juicy Noir EDP",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "fqfq0dnb3jk",
-    "name": "Katy Perry Meow",
     "categoryLabel": "Diseñador"
   },
   {
@@ -790,11 +790,6 @@
     "categoryLabel": "Nicho"
   },
   {
-    "id": "5b9li4zsqg2",
-    "name": "Montale Mukhallat EDP",
-    "categoryLabel": "Nicho"
-  },
-  {
     "id": "8lv8q5743mt",
     "name": "New Brand Prestige The Royal (Similar Al Creed Royal)",
     "categoryLabel": "Nicho"
@@ -822,11 +817,6 @@
   {
     "id": "qitv3zmb8vo",
     "name": "Cuba Authentic Dark EDP",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "twcco6ielh",
-    "name": "Cuba Grey",
     "categoryLabel": "Económico"
   },
   {
@@ -867,6 +857,11 @@
   {
     "id": "rlklkw4p86s",
     "name": "Cuba VIP ( Similar Al 212 VIP Black)",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "v29m1afovj",
+    "name": "Cuba VIP ( Similar Al 212 VIP Rose )",
     "categoryLabel": "Económico"
   },
   {
