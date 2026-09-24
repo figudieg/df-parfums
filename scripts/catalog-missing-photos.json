@@ -70,6 +70,11 @@
     "categoryLabel": "Árabes"
   },
   {
+    "id": "x63fcwocef",
+    "name": "Armaf Odyssey Homme",
+    "categoryLabel": "Árabes"
+  },
+  {
     "id": "xzvuz4y6g0f",
     "name": "Armaf Radical Blue EDP (Similar Al Lacoste 12 12 Noir)",
     "categoryLabel": "Árabes"
@@ -267,11 +272,6 @@
   {
     "id": "f8iimiojcul",
     "name": "Carolina Herrera CH Clásica",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "5wnaju96rt2",
-    "name": "Carolina Herrera CH Sport",
     "categoryLabel": "Diseñador"
   },
   {
@@ -590,11 +590,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "j23crmmwlpe",
-    "name": "Paris Hilton Rose Rush",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "59fvpo6kald",
     "name": "Perry Ellis 18 EDP",
     "categoryLabel": "Diseñador"
@@ -760,11 +755,6 @@
     "categoryLabel": "Nicho"
   },
   {
-    "id": "669dw7mvk9",
-    "name": "Montale Intense Rose Musk Extraid De Parfum",
-    "categoryLabel": "Nicho"
-  },
-  {
     "id": "8lv8q5743mt",
     "name": "New Brand Prestige The Royal (Similar Al Creed Royal)",
     "categoryLabel": "Nicho"
@@ -882,11 +872,6 @@
   {
     "id": "vvz1h8oa79",
     "name": "New Brand Fluo Sun",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "0yw42yxibj2i",
-    "name": "New Brand Forever",
     "categoryLabel": "Económico"
   },
   {
