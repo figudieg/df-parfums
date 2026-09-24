@@ -70,11 +70,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "x63fcwocef",
-    "name": "Armaf Odyssey Homme",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "xzvuz4y6g0f",
     "name": "Armaf Radical Blue EDP (Similar Al Lacoste 12 12 Noir)",
     "categoryLabel": "Árabes"
@@ -152,11 +147,6 @@
   {
     "id": "l145f8ns05",
     "name": "Benetton Cold Benetton",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "hnq0xp3eoir",
-    "name": "Benetton Tribu",
     "categoryLabel": "Diseñador"
   },
   {
@@ -405,11 +395,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "s0xb8o5ix3",
-    "name": "Guess Girl Belle",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "2gag6x5699q",
     "name": "Guess Gold",
     "categoryLabel": "Diseñador"
@@ -427,11 +412,6 @@
   {
     "id": "zsi8975uc5l",
     "name": "Hugo Boss Bottled Night",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "gn22kkt7ldt",
-    "name": "Hugo Boss Bottled Unlimited",
     "categoryLabel": "Diseñador"
   },
   {
@@ -517,11 +497,6 @@
   {
     "id": "p3glsap0opo",
     "name": "Moschino Fresh Couture",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "rqhl70f6l4",
-    "name": "Nautica Clásico",
     "categoryLabel": "Diseñador"
   },
   {
@@ -752,6 +727,11 @@
   {
     "id": "6n0g8rlg98n",
     "name": "Montale Blue Amber EDP",
+    "categoryLabel": "Nicho"
+  },
+  {
+    "id": "669dw7mvk9",
+    "name": "Montale Intense Rose Musk Extraid De Parfum",
     "categoryLabel": "Nicho"
   },
   {
