@@ -75,6 +75,11 @@
     "categoryLabel": "Árabes"
   },
   {
+    "id": "3oo1pl0jmp6",
+    "name": "Armaf Tag Him",
+    "categoryLabel": "Árabes"
+  },
+  {
     "id": "d2tfegrysxv",
     "name": "Ciel",
     "categoryLabel": "Árabes"
@@ -130,11 +135,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "idabo404nz",
-    "name": "Antonio Banderas Blue Seduction",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "9900002",
     "name": "Antonio Banderas Her Secret Desire",
     "categoryLabel": "Diseñador"
@@ -150,6 +150,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "aonbsmtroek",
+    "name": "Benetton Colors Blue Men",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "hnq0xp3eoir",
     "name": "Benetton Tribu",
     "categoryLabel": "Diseñador"
@@ -157,11 +162,6 @@
   {
     "id": "9cl4yi2gu6j",
     "name": "Bentley For Men Intense",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "v4a19t47i5t",
-    "name": "Britney Spears Fantasy Clásico",
     "categoryLabel": "Diseñador"
   },
   {
@@ -255,13 +255,13 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "0dwplysjpix",
-    "name": "Carolina Herrera 212 VIP Men",
+    "id": "8n7w5wgrsmy",
+    "name": "Carolina Herrera Bad Boy",
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "8n7w5wgrsmy",
-    "name": "Carolina Herrera Bad Boy",
+    "id": "rtbn8koy8ad",
+    "name": "Carolina Herrera Good Girl EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -397,6 +397,11 @@
   {
     "id": "2gag6x5699q",
     "name": "Guess Gold",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "vs1vxsd2w9",
+    "name": "Guess Marciano",
     "categoryLabel": "Diseñador"
   },
   {
@@ -545,6 +550,21 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "1l5w28unaif",
+    "name": "Paris Hilton Can Can Burlesque",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "mqz5v9q5edk",
+    "name": "Paris Hilton Clásico",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "gmdhbz2aaxq",
+    "name": "Paris Hilton Clásico",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "jh3qtn8xeu",
     "name": "Paris Hilton Gold Rush",
     "categoryLabel": "Diseñador"
@@ -567,6 +587,11 @@
   {
     "id": "kynffg80rvg",
     "name": "Paris Hilton Platinum Rush",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "j23crmmwlpe",
+    "name": "Paris Hilton Rose Rush",
     "categoryLabel": "Diseñador"
   },
   {
@@ -602,6 +627,11 @@
   {
     "id": "r1l0ve6std",
     "name": "Perry Ellis 360 Coral",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "nchx09f5mxq",
+    "name": "Perry Ellis 360 Red",
     "categoryLabel": "Diseñador"
   },
   {
@@ -740,6 +770,11 @@
     "categoryLabel": "Nicho"
   },
   {
+    "id": "5b9li4zsqg2",
+    "name": "Montale Mukhallat EDP",
+    "categoryLabel": "Nicho"
+  },
+  {
     "id": "8lv8q5743mt",
     "name": "New Brand Prestige The Royal (Similar Al Creed Royal)",
     "categoryLabel": "Nicho"
@@ -762,6 +797,11 @@
   {
     "id": "qitv3zmb8vo",
     "name": "Cuba Authentic Dark EDP",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "twcco6ielh",
+    "name": "Cuba Grey",
     "categoryLabel": "Económico"
   },
   {
@@ -815,6 +855,11 @@
     "categoryLabel": "Económico"
   },
   {
+    "id": "4ylid8hvafh",
+    "name": "Desodorante New Brand Extasia",
+    "categoryLabel": "Económico"
+  },
+  {
     "id": "sk7ww5ege6n",
     "name": "Fragluxe Blue",
     "categoryLabel": "Económico"
@@ -852,6 +897,21 @@
   {
     "id": "l0wetjyguab",
     "name": "Fragluxe Rose",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "n3t2m9ikoa",
+    "name": "Fragluxe Sense",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "s2mprkkxfxi",
+    "name": "New Brand Extasia",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "mm58nvi9ki",
+    "name": "New Brand Extasia Black EDT",
     "categoryLabel": "Económico"
   },
   {
