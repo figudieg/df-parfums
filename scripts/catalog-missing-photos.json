@@ -625,11 +625,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "r1l0ve6std",
-    "name": "Perry Ellis 360 Coral",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "nchx09f5mxq",
     "name": "Perry Ellis 360 Red",
     "categoryLabel": "Diseñador"
@@ -770,6 +765,11 @@
     "categoryLabel": "Nicho"
   },
   {
+    "id": "5b9li4zsqg2",
+    "name": "Montale Mukhallat EDP",
+    "categoryLabel": "Nicho"
+  },
+  {
     "id": "8lv8q5743mt",
     "name": "New Brand Prestige The Royal (Similar Al Creed Royal)",
     "categoryLabel": "Nicho"
@@ -847,6 +847,11 @@
   {
     "id": "tu52wbo3mn",
     "name": "Cuba Wild Heart",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "4ylid8hvafh",
+    "name": "Desodorante New Brand Extasia",
     "categoryLabel": "Económico"
   },
   {
