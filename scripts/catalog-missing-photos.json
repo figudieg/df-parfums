@@ -55,11 +55,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "icyfwzxfjk",
-    "name": "Al Haramain Orientica Xo Exclusif OUD Sport",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "9ea5l15epu9",
     "name": "Al Haramain Portfolio Neroli Canvas EDP",
     "categoryLabel": "Árabes"
@@ -72,11 +67,6 @@
   {
     "id": "xzvuz4y6g0f",
     "name": "Armaf Radical Blue EDP (Similar Al Lacoste 12 12 Noir)",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "3oo1pl0jmp6",
-    "name": "Armaf Tag Him",
     "categoryLabel": "Árabes"
   },
   {
@@ -320,11 +310,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "fzy1nfq1jud",
-    "name": "Davidoff Cool Water",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "zqpvc6et5ok",
     "name": "Davidoff Cool Water",
     "categoryLabel": "Diseñador"
@@ -392,11 +377,6 @@
   {
     "id": "nvhx9igy9cl",
     "name": "Guess Dare",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "2gag6x5699q",
-    "name": "Guess Gold",
     "categoryLabel": "Diseñador"
   },
   {
@@ -505,16 +485,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "rqhl70f6l4",
-    "name": "Nautica Clásico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "wbomf8nkfvd",
-    "name": "New Brand Master Essence Pink Gold EDP (Similar Al Olympea De Paco Rabanne)",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "x5p4li2sya",
     "name": "Paco Rabanne Olympea Blossom Florale",
     "categoryLabel": "Diseñador"
@@ -555,21 +525,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "mqz5v9q5edk",
-    "name": "Paris Hilton Clásico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "gmdhbz2aaxq",
-    "name": "Paris Hilton Clásico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "jh3qtn8xeu",
-    "name": "Paris Hilton Gold Rush",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "56kehv1jna3",
     "name": "Paris Hilton Heiress",
     "categoryLabel": "Diseñador"
@@ -577,11 +532,6 @@
   {
     "id": "cbk1fx6qdg6",
     "name": "Paris Hilton Just Me",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "atqx7vhq6yu",
-    "name": "Paris Hilton Pink Rush",
     "categoryLabel": "Diseñador"
   },
   {
@@ -602,6 +552,11 @@
   {
     "id": "djlb9kvkc2a",
     "name": "Perry Ellis 18 Sensual EDP",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "mnhcmezeopi",
+    "name": "Perry Ellis 360 Clásico",
     "categoryLabel": "Diseñador"
   },
   {
@@ -765,11 +720,6 @@
     "categoryLabel": "Nicho"
   },
   {
-    "id": "5b9li4zsqg2",
-    "name": "Montale Mukhallat EDP",
-    "categoryLabel": "Nicho"
-  },
-  {
     "id": "8lv8q5743mt",
     "name": "New Brand Prestige The Royal (Similar Al Creed Royal)",
     "categoryLabel": "Nicho"
@@ -850,11 +800,6 @@
     "categoryLabel": "Económico"
   },
   {
-    "id": "4ylid8hvafh",
-    "name": "Desodorante New Brand Extasia",
-    "categoryLabel": "Económico"
-  },
-  {
     "id": "sk7ww5ege6n",
     "name": "Fragluxe Blue",
     "categoryLabel": "Económico"
@@ -892,11 +837,6 @@
   {
     "id": "l0wetjyguab",
     "name": "Fragluxe Rose",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "n3t2m9ikoa",
-    "name": "Fragluxe Sense",
     "categoryLabel": "Económico"
   },
   {
