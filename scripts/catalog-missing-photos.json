@@ -45,6 +45,11 @@
     "categoryLabel": "Árabes"
   },
   {
+    "id": "tmoooepyof",
+    "name": "Al Haramain Orientica Royal Bleu EDP",
+    "categoryLabel": "Árabes"
+  },
+  {
     "id": "syur5vbweq",
     "name": "Al Haramain Orientica Velvet Gold",
     "categoryLabel": "Árabes"
@@ -57,11 +62,6 @@
   {
     "id": "9ea5l15epu9",
     "name": "Al Haramain Portfolio Neroli Canvas EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "bc2zf316aed",
-    "name": "Armaf Club De Nuit Urban Man EDP",
     "categoryLabel": "Árabes"
   },
   {
@@ -237,11 +237,6 @@
   {
     "id": "d3he7me9tkf",
     "name": "Carolina Herrera 212 Heroes",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "8n7w5wgrsmy",
-    "name": "Carolina Herrera Bad Boy",
     "categoryLabel": "Diseñador"
   },
   {
@@ -430,11 +425,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "05eqe3hrt172",
-    "name": "Lancome Hypnose",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "v8iz7o24yhc",
     "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
@@ -480,6 +470,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "wbomf8nkfvd",
+    "name": "New Brand Master Essence Pink Gold EDP (Similar Al Olympea De Paco Rabanne)",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "x5p4li2sya",
     "name": "Paco Rabanne Olympea Blossom Florale",
     "categoryLabel": "Diseñador"
@@ -515,13 +510,23 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "1l5w28unaif",
-    "name": "Paris Hilton Can Can Burlesque",
+    "id": "gmdhbz2aaxq",
+    "name": "Paris Hilton Clásico",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "jh3qtn8xeu",
+    "name": "Paris Hilton Gold Rush",
     "categoryLabel": "Diseñador"
   },
   {
     "id": "cbk1fx6qdg6",
     "name": "Paris Hilton Just Me",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "atqx7vhq6yu",
+    "name": "Paris Hilton Pink Rush",
     "categoryLabel": "Diseñador"
   },
   {
@@ -620,11 +625,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "g6qzctequcn",
-    "name": "Tommy Girl",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "dz2fb6tlaj",
     "name": "Tous Gold EDP",
     "categoryLabel": "Diseñador"
@@ -650,8 +650,18 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "lqjphyqi4yr",
+    "name": "Versace Eros EDT",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "t6u7jklgidf",
     "name": "Versace Eros EDT",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "pzjubf53vhh",
+    "name": "Versace Eros Flame EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -707,6 +717,11 @@
   {
     "id": "669dw7mvk9",
     "name": "Montale Intense Rose Musk Extraid De Parfum",
+    "categoryLabel": "Nicho"
+  },
+  {
+    "id": "5b9li4zsqg2",
+    "name": "Montale Mukhallat EDP",
     "categoryLabel": "Nicho"
   },
   {
@@ -785,6 +800,11 @@
     "categoryLabel": "Económico"
   },
   {
+    "id": "4ylid8hvafh",
+    "name": "Desodorante New Brand Extasia",
+    "categoryLabel": "Económico"
+  },
+  {
     "id": "sk7ww5ege6n",
     "name": "Fragluxe Blue",
     "categoryLabel": "Económico"
@@ -835,6 +855,11 @@
     "categoryLabel": "Económico"
   },
   {
+    "id": "0yw42yxibj2i",
+    "name": "New Brand Forever",
+    "categoryLabel": "Económico"
+  },
+  {
     "id": "kh1zp5k0kpb",
     "name": "New Brand Gold Women",
     "categoryLabel": "Económico"
@@ -842,6 +867,11 @@
   {
     "id": "llkapybicc",
     "name": "New Brand Master Essence Gold EDP",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "967pzy7juq",
+    "name": "New Brand Master Essence Platinum",
     "categoryLabel": "Económico"
   },
   {
