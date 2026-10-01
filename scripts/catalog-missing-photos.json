@@ -40,6 +40,11 @@
     "categoryLabel": "Árabes"
   },
   {
+    "id": "pfch009s8pb",
+    "name": "Al Haramain Orientica Luxury Royal Amber",
+    "categoryLabel": "Árabes"
+  },
+  {
     "id": "tmoooepyof",
     "name": "Al Haramain Orientica Royal Bleu EDP",
     "categoryLabel": "Árabes"
@@ -57,6 +62,11 @@
   {
     "id": "9ea5l15epu9",
     "name": "Al Haramain Portfolio Neroli Canvas EDP",
+    "categoryLabel": "Árabes"
+  },
+  {
+    "id": "cm5klhncufv",
+    "name": "Armaf Odyssey White",
     "categoryLabel": "Árabes"
   },
   {
@@ -445,6 +455,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "05eqe3hrt172",
+    "name": "Lancome Hypnose",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "v8iz7o24yhc",
     "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
@@ -706,6 +721,11 @@
   },
   {
     "id": "rozz244dgze",
+    "name": "Viktor & Rolf Spicebomb",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "46ds9webffc",
     "name": "Viktor & Rolf Spicebomb",
     "categoryLabel": "Diseñador"
   },
