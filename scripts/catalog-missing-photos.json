@@ -165,11 +165,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "e8kmtgi1lqj",
-    "name": "Britney Spears Fantasy Sheer",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "f6ngf6p0ych",
     "name": "Burberry Touch EDP",
     "categoryLabel": "Diseñador"
@@ -475,6 +470,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "05eqe3hrt172",
+    "name": "Lancome Hypnose",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "v8iz7o24yhc",
     "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
@@ -505,11 +505,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "3wu3mpfuusw",
-    "name": "Moschino Cheapandchic So Real",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "p3glsap0opo",
     "name": "Moschino Fresh Couture",
     "categoryLabel": "Diseñador"
@@ -530,13 +525,13 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "9qd0fasyv1b",
-    "name": "Nautica Voyage Sport",
+    "id": "cwkyp6pgsaq",
+    "name": "Nautica Voyage",
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "wbomf8nkfvd",
-    "name": "New Brand Master Essence Pink Gold EDP (Similar Al Olympea De Paco Rabanne)",
+    "id": "9qd0fasyv1b",
+    "name": "Nautica Voyage Sport",
     "categoryLabel": "Diseñador"
   },
   {
@@ -581,11 +576,6 @@
   },
   {
     "id": "mqz5v9q5edk",
-    "name": "Paris Hilton Clásico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "gmdhbz2aaxq",
     "name": "Paris Hilton Clásico",
     "categoryLabel": "Diseñador"
   },
@@ -757,16 +747,6 @@
   {
     "id": "rozz244dgze",
     "name": "Viktor & Rolf Spicebomb",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "46ds9webffc",
-    "name": "Viktor & Rolf Spicebomb",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "3tk2rbsn3ed",
-    "name": "Viktor & Rolf Spicebomb Infrared",
     "categoryLabel": "Diseñador"
   },
   {
@@ -952,11 +932,6 @@
   {
     "id": "vvz1h8oa79",
     "name": "New Brand Fluo Sun",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "0yw42yxibj2i",
-    "name": "New Brand Forever",
     "categoryLabel": "Económico"
   },
   {
