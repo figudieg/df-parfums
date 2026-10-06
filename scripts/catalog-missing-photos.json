@@ -155,11 +155,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "8w9myvwfdj",
-    "name": "Antonio Bandera Power Of Seduction",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "idabo404nz",
     "name": "Antonio Banderas Blue Seduction",
     "categoryLabel": "Diseñador"
@@ -247,6 +242,11 @@
   {
     "id": "icp3l5dejq",
     "name": "Bvlgari Crystal",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "30fnpc8d794",
+    "name": "Bvlgari Man Glacial Essence EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -495,11 +495,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "dn2e88mfaeg",
-    "name": "Guess Clasico",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "l8l50bdkk6",
     "name": "Guess Clasico",
     "categoryLabel": "Diseñador"
@@ -590,13 +585,13 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "8l7zo21jh9k",
-    "name": "Lacoste Touch Of Pink",
+    "id": "7ku3ed0vdr",
+    "name": "Lagerfeld Sun Moon Stars",
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "7ku3ed0vdr",
-    "name": "Lagerfeld Sun Moon Stars",
+    "id": "05eqe3hrt172",
+    "name": "Lancome Hypnose",
     "categoryLabel": "Diseñador"
   },
   {
@@ -627,11 +622,6 @@
   {
     "id": "6onypbeq4ao",
     "name": "Mont Blanc Individuel",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "a5gts2oadj",
-    "name": "Mont Blanc Lady Emblem Elixir EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -667,11 +657,6 @@
   {
     "id": "5ashe9kc2j2",
     "name": "Moschino Toy Boy",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "rqhl70f6l4",
-    "name": "Nautica Clásico",
     "categoryLabel": "Diseñador"
   },
   {
@@ -720,6 +705,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "1l5w28unaif",
+    "name": "Paris Hilton Can Can Burlesque",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "mqz5v9q5edk",
     "name": "Paris Hilton Clásico",
     "categoryLabel": "Diseñador"
@@ -730,13 +720,38 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "jh3qtn8xeu",
+    "name": "Paris Hilton Gold Rush",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "tk8h0ni2l9",
     "name": "Paris Hilton Gold Rush",
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "56kehv1jna3",
+    "name": "Paris Hilton Heiress",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "cbk1fx6qdg6",
     "name": "Paris Hilton Just Me",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "atqx7vhq6yu",
+    "name": "Paris Hilton Pink Rush",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "kynffg80rvg",
+    "name": "Paris Hilton Platinum Rush",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "j23crmmwlpe",
+    "name": "Paris Hilton Rose Rush",
     "categoryLabel": "Diseñador"
   },
   {
@@ -845,11 +860,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "g6qzctequcn",
-    "name": "Tommy Girl",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "dz2fb6tlaj",
     "name": "Tous Gold EDP",
     "categoryLabel": "Diseñador"
@@ -877,6 +887,16 @@
   {
     "id": "2cngkciiy0j",
     "name": "Versace Eau Fraiche",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "t6u7jklgidf",
+    "name": "Versace Eros EDT",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "lqjphyqi4yr",
+    "name": "Versace Eros EDT",
     "categoryLabel": "Diseñador"
   },
   {
@@ -922,11 +942,6 @@
   {
     "id": "zz6ndwhjct",
     "name": "Creed Aventus EDP",
-    "categoryLabel": "Nicho"
-  },
-  {
-    "id": "44s95kx46p2",
-    "name": "Creed Silver Mountain Water",
     "categoryLabel": "Nicho"
   },
   {
@@ -1045,6 +1060,11 @@
     "categoryLabel": "Económico"
   },
   {
+    "id": "sk7ww5ege6n",
+    "name": "Fragluxe Blue",
+    "categoryLabel": "Económico"
+  },
+  {
     "id": "ymctpube9hc",
     "name": "Fragluxe Blue",
     "categoryLabel": "Económico"
@@ -1080,6 +1100,11 @@
     "categoryLabel": "Económico"
   },
   {
+    "id": "n3t2m9ikoa",
+    "name": "Fragluxe Sense",
+    "categoryLabel": "Económico"
+  },
+  {
     "id": "47nepg9i5xx",
     "name": "New Brand Commando ( Similar Al Swiss Army )",
     "categoryLabel": "Económico"
@@ -1097,6 +1122,11 @@
   {
     "id": "vvz1h8oa79",
     "name": "New Brand Fluo Sun",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "0yw42yxibj2i",
+    "name": "New Brand Forever",
     "categoryLabel": "Económico"
   },
   {
