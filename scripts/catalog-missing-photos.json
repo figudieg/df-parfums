@@ -15,11 +15,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "b55hlip8csn",
-    "name": "Al Haramain Amber OUD Gold",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "evt8kkebmw",
     "name": "Al Haramain Amber OUD Gold EDP",
     "categoryLabel": "Árabes"
@@ -42,11 +37,6 @@
   {
     "id": "1gfn9n3rwwt",
     "name": "Al Haramain Orientica Luxury OUD Saffron EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "pfch009s8pb",
-    "name": "Al Haramain Orientica Luxury Royal Amber",
     "categoryLabel": "Árabes"
   },
   {
@@ -155,6 +145,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "n225to6eeaf",
+    "name": "Antonio Banderas Blue Seduction",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "idabo404nz",
     "name": "Antonio Banderas Blue Seduction",
     "categoryLabel": "Diseñador"
@@ -165,11 +160,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "8krbcfa82oy",
-    "name": "Ariana Grande Ari By Ariana Grande",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "qwitm3zk4o",
     "name": "Ariana Grande God Is A Woman",
     "categoryLabel": "Diseñador"
@@ -177,11 +167,6 @@
   {
     "id": "bji7zv67wg",
     "name": "Ariana Grande Sweet Like Candy",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "15ueu9vwgn3",
-    "name": "Ariana Grande Thank U Next",
     "categoryLabel": "Diseñador"
   },
   {
@@ -260,11 +245,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "xlqy2qmzbxs",
-    "name": "Cacharel Anais Anais",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "702jq3qaupe",
     "name": "Calvin Klein Ck Be",
     "categoryLabel": "Diseñador"
@@ -327,11 +307,6 @@
   {
     "id": "0hh13n1j4x48",
     "name": "Carolina Herrera 212 Clásico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "d3he7me9tkf",
-    "name": "Carolina Herrera 212 Heroes",
     "categoryLabel": "Diseñador"
   },
   {
@@ -565,11 +540,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "4o9bnx60uoc",
-    "name": "Jean Paul Gaultier Le Male",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "j3cyj0t597l",
     "name": "Jean Paul Gaultier Scandal",
     "categoryLabel": "Diseñador"
@@ -587,11 +557,6 @@
   {
     "id": "7ku3ed0vdr",
     "name": "Lagerfeld Sun Moon Stars",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "05eqe3hrt172",
-    "name": "Lancome Hypnose",
     "categoryLabel": "Diseñador"
   },
   {
