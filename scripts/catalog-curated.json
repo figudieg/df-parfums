@@ -1,5 +1,50 @@
 [
   {
+    "key": "al haramain amber oud gold • unisex • 60 ml (similar al xerjoff de erba pura)",
+    "code": "b55hlip8csn",
+    "image": "",
+    "rawTitle": "AL HARAMAIN AMBER OUD GOLD • UNISEX • 60 ML (SIMILAR AL XERJOFF DE ERBA PURA)",
+    "name": "Al Haramain Amber OUD Gold",
+    "genero": "UNISEX",
+    "size": "60 ML",
+    "note": "Similar Al Xerjoff De Erba Pura",
+    "bucket": "arabe",
+    "rawUsd": 54,
+    "rawBcv": 64.8,
+    "finalUsd": 60.75,
+    "finalBcv": 72.9
+  },
+  {
+    "key": "dumont paris nitro intensity • caballero • 100 ml (similar al paco rabanne invictus victory )",
+    "code": "igfh7ads61n",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682a0c691121c-nestor_parfum-igfh7ads61n-qmtt7e130p.png",
+    "rawTitle": "DUMONT PARIS NITRO INTENSITY • CABALLERO • 100 ML (SIMILAR AL PACO RABANNE INVICTUS VICTORY )",
+    "name": "Dumont Paris Nitro Intensity",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "Similar Al Paco Rabanne Invictus Victory",
+    "bucket": "arabe",
+    "rawUsd": 58,
+    "rawBcv": 69.6,
+    "finalUsd": 65.25,
+    "finalBcv": 78.3
+  },
+  {
+    "key": "armaf club de nuit intense edt • caballero • 105 ml (similar al creed aventus)",
+    "code": "lubxzd5whfa",
+    "image": "",
+    "rawTitle": "ARMAF CLUB DE NUIT INTENSE EDT • CABALLERO • 105 ML (SIMILAR AL CREED AVENTUS)",
+    "name": "Armaf Club De Nuit Intense EDT",
+    "genero": "CABALLERO",
+    "size": "105 ML",
+    "note": "Similar Al Creed Aventus",
+    "bucket": "arabe",
+    "rawUsd": 45,
+    "rawBcv": 54,
+    "finalUsd": 50.63,
+    "finalBcv": 60.75
+  },
+  {
     "key": "moschino toy boy 2 edp • caballero • 100 ml",
     "code": "70wvkdi7lp6",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a117b678df-nestor_parfum-70wvkdi7lp6-uuqmpy3r3r.png",
@@ -225,21 +270,6 @@
     "finalBcv": 36.45
   },
   {
-    "key": "al haramain oud gold • unisex • 100 ml",
-    "code": "s5n76bunmcc",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1753fd4b-nestor_parfum-s5n76bunmcc-8ok56hiaw9p.png",
-    "rawTitle": "AL HARAMAIN OUD GOLD • UNISEX • 100 ML",
-    "name": "Al Haramain OUD Gold",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 58,
-    "rawBcv": 69.6,
-    "finalUsd": 65.25,
-    "finalBcv": 78.3
-  },
-  {
     "key": "antonio banderas blue seduction • caballero • 200 ml",
     "code": "n225to6eeaf",
     "image": "",
@@ -313,21 +343,6 @@
     "rawBcv": 43.2,
     "finalUsd": 40.5,
     "finalBcv": 48.6
-  },
-  {
-    "key": "dumont paris nitro intensity • caballero • 100 ml (similar al paco rabanne invictus victory )",
-    "code": "igfh7ads61n",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682a0c691121c-nestor_parfum-igfh7ads61n-qmtt7e130p.png",
-    "rawTitle": "DUMONT PARIS NITRO INTENSITY • CABALLERO • 100 ML (SIMILAR AL PACO RABANNE INVICTUS VICTORY )",
-    "name": "Dumont Paris Nitro Intensity",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "Similar Al Paco Rabanne Invictus Victory",
-    "bucket": "arabe",
-    "rawUsd": 68,
-    "rawBcv": 81.6,
-    "finalUsd": 76.5,
-    "finalBcv": 91.8
   },
   {
     "key": "estuche bharara rome femme • dama • 100 ml",
@@ -673,21 +688,6 @@
     "rawBcv": 18,
     "finalUsd": 16.88,
     "finalBcv": 20.25
-  },
-  {
-    "key": "lattafa the kingdom edp • caballero • 100 ml (jean paul gaultier le male elixir)",
-    "code": "506ejo9cyxg",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19f4ef26cdc-nestor_parfum-506ejo9cyxg-po7ux0qgxbp.png",
-    "rawTitle": "LATTAFA THE KINGDOM EDP • CABALLERO • 100 ML (JEAN PAUL GAULTIER LE MALE ELIXIR)",
-    "name": "Lattafa The Kingdom EDP",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "Jean Paul Gaultier Le Male Elixir",
-    "bucket": "arabe",
-    "rawUsd": 36,
-    "rawBcv": 43.2,
-    "finalUsd": 40.5,
-    "finalBcv": 48.6
   },
   {
     "key": "lattafa the kingdom edp • dama • 100 ml (similar al burberry goddess)",
@@ -2805,21 +2805,6 @@
     "finalBcv": 55.35
   },
   {
-    "key": "guess girl • dama • 100 ml",
-    "code": "yxmidpnylds",
-    "image": "",
-    "rawTitle": "GUESS GIRL • DAMA • 100 ML",
-    "name": "Guess Girl",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 35,
-    "rawBcv": 42,
-    "finalUsd": 39.38,
-    "finalBcv": 47.25
-  },
-  {
     "key": "dolce & gabbana devotion edp • dama • 100 ml",
     "code": "av890vc5t6t",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199d47da5c4-nestor_parfum-av890vc5t6t-zdp8vnq9m29.png",
@@ -3073,21 +3058,6 @@
     "rawBcv": 223.2,
     "finalUsd": 209.25,
     "finalBcv": 251.1
-  },
-  {
-    "key": "new brand commando ( similar al swiss army ) • caballero • 100 ml",
-    "code": "47nepg9i5xx",
-    "image": "",
-    "rawTitle": "NEW BRAND COMMANDO ( SIMILAR AL SWISS ARMY ) • CABALLERO • 100 ML",
-    "name": "New Brand Commando ( Similar Al Swiss Army )",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "economico",
-    "rawUsd": 15,
-    "rawBcv": 18,
-    "finalUsd": 16.88,
-    "finalBcv": 20.25
   },
   {
     "key": "lattafa mayar edp • dama • 100 ml (similar armani my way)",
@@ -4888,21 +4858,6 @@
     "rawBcv": 36,
     "finalUsd": 33.75,
     "finalBcv": 40.5
-  },
-  {
-    "key": "ciel • dama • 100 ml",
-    "code": "d2tfegrysxv",
-    "image": "",
-    "rawTitle": "CIEL • DAMA • 100 ML",
-    "name": "Ciel",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 15,
-    "rawBcv": 18,
-    "finalUsd": 16.88,
-    "finalBcv": 20.25
   },
   {
     "key": "estuche emper trevel discovery 4 piezas edp • caballero • 15 ml",
@@ -8445,6 +8400,21 @@
     "finalBcv": 193.05
   },
   {
+    "key": "karl lagerfeld rouge eau de parfum • dama • 85 ml",
+    "code": "h9nopgjip3n",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682a0fa7bccb6-nestor_parfum-h9nopgjip3n-92s2amrcgft.png",
+    "rawTitle": "KARL LAGERFELD ROUGE EAU DE PARFUM • DAMA • 85 ML",
+    "name": "Karl Lagerfeld Rouge Eau De Parfum",
+    "genero": "DAMA",
+    "size": "85 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 48,
+    "rawBcv": 57.6,
+    "finalUsd": 54,
+    "finalBcv": 64.8
+  },
+  {
     "key": "maktoub 88 edp • unisex • 100 ml",
     "code": "h9ypyhk5fuo",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683f6e83034a4-nestor_parfum-h9ypyhk5fuo-4q3oxl95wid.png",
@@ -8475,19 +8445,19 @@
     "finalBcv": 109.35
   },
   {
-    "key": "karl lagerfeld rouge eau de parfum • dama • 85 ml",
-    "code": "h9nopgjip3n",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-682a0fa7bccb6-nestor_parfum-h9nopgjip3n-92s2amrcgft.png",
-    "rawTitle": "KARL LAGERFELD ROUGE EAU DE PARFUM • DAMA • 85 ML",
-    "name": "Karl Lagerfeld Rouge Eau De Parfum",
+    "key": "viktor & rolf flowerbomb ruby orchid edp • dama • 100 ml",
+    "code": "h9kx68eytd7",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6555815d5ac55-nestor_parfum-h9kx68eytd7-lkhan731sld.png",
+    "rawTitle": "VIKTOR & ROLF FLOWERBOMB RUBY ORCHID EDP • DAMA • 100 ML",
+    "name": "Viktor & Rolf Flowerbomb Ruby Orchid EDP",
     "genero": "DAMA",
-    "size": "85 ML",
+    "size": "100 ML",
     "note": "",
     "bucket": "disenador",
-    "rawUsd": 48,
-    "rawBcv": 57.6,
-    "finalUsd": 54,
-    "finalBcv": 64.8
+    "rawUsd": 207,
+    "rawBcv": 248.4,
+    "finalUsd": 232.88,
+    "finalBcv": 279.45
   },
   {
     "key": "phillipp plein no limit$ edp • caballero • 90 ml",
@@ -8505,19 +8475,19 @@
     "finalBcv": 95.85
   },
   {
-    "key": "viktor & rolf flowerbomb ruby orchid edp • dama • 100 ml",
-    "code": "h9kx68eytd7",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6555815d5ac55-nestor_parfum-h9kx68eytd7-lkhan731sld.png",
-    "rawTitle": "VIKTOR & ROLF FLOWERBOMB RUBY ORCHID EDP • DAMA • 100 ML",
-    "name": "Viktor & Rolf Flowerbomb Ruby Orchid EDP",
+    "key": "armani my way 3 piezas • dama • 90 ml",
+    "code": "h62a150o52k",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68911a8c59958-nestor_parfum-h62a150o52k-pjyuz7243xg.png",
+    "rawTitle": "ARMANI MY WAY 3 PIEZAS • DAMA • 90 ML",
+    "name": "Armani My Way 3 Piezas",
     "genero": "DAMA",
-    "size": "100 ML",
+    "size": "90 ML",
     "note": "",
     "bucket": "disenador",
-    "rawUsd": 207,
-    "rawBcv": 248.4,
-    "finalUsd": 232.88,
-    "finalBcv": 279.45
+    "rawUsd": 194,
+    "rawBcv": 232.8,
+    "finalUsd": 218.25,
+    "finalBcv": 261.9
   },
   {
     "key": "lancome la vie est belle iris absolu edp • dama • 100 ml",
@@ -8535,21 +8505,6 @@
     "finalBcv": 237.6
   },
   {
-    "key": "armani my way 3 piezas • dama • 90 ml",
-    "code": "h62a150o52k",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68911a8c59958-nestor_parfum-h62a150o52k-pjyuz7243xg.png",
-    "rawTitle": "ARMANI MY WAY 3 PIEZAS • DAMA • 90 ML",
-    "name": "Armani My Way 3 Piezas",
-    "genero": "DAMA",
-    "size": "90 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 194,
-    "rawBcv": 232.8,
-    "finalUsd": 218.25,
-    "finalBcv": 261.9
-  },
-  {
     "key": "paco rabanne ultrared• caballero • 100 ml",
     "code": "h5x9ml8uogi",
     "image": "",
@@ -8565,34 +8520,19 @@
     "finalBcv": 71.55
   },
   {
-    "key": "carolina herrera bad boy coralt mini • caballero • 10 ml",
-    "code": "0qbxkkuos4ed",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1d625f50-nestor_parfum-0qbxkkuos4ed-thil3j7k4wl.png",
-    "rawTitle": "CAROLINA HERRERA BAD BOY CORALT MINI • CABALLERO • 10 ML",
-    "name": "Carolina Herrera Bad Boy Coralt Mini",
+    "key": "armaf eternia italia edp • caballero • 80 ml (similar al chanel #1 l'eau rouge)",
+    "code": "h1c68jmm6z",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6808172b71217-nestor_parfum-h1c68jmm6z-wa7ei50wbrm.png",
+    "rawTitle": "ARMAF ETERNIA ITALIA EDP • CABALLERO • 80 ML (SIMILAR AL CHANEL #1 L'EAU ROUGE)",
+    "name": "Armaf Eternia Italia EDP",
     "genero": "CABALLERO",
-    "size": "10 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 15,
-    "rawBcv": 18,
-    "finalUsd": 16.88,
-    "finalBcv": 20.25
-  },
-  {
-    "key": "maktoub parfums carpe diem • unisex • 100 ml",
-    "code": "0qtsq1e370yj",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683f6fde2a8a4-nestor_parfum-0qtsq1e370yj-hepiutbh1qw.png",
-    "rawTitle": "MAKTOUB PARFUMS CARPE DIEM • UNISEX • 100 ML",
-    "name": "Maktoub Parfums Carpe Diem",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
+    "size": "80 ML",
+    "note": "Similar Al Chanel #1 L'eau Rouge",
     "bucket": "arabe",
-    "rawUsd": 80,
-    "rawBcv": 96,
-    "finalUsd": 90,
-    "finalBcv": 108
+    "rawUsd": 35,
+    "rawBcv": 42,
+    "finalUsd": 39.38,
+    "finalBcv": 47.25
   },
   {
     "key": "creed love in white edp • dama • 75 ml",
@@ -11863,21 +11803,6 @@
     "rawBcv": 18,
     "finalUsd": 16.88,
     "finalBcv": 20.25
-  },
-  {
-    "key": "armaf eternia italia edp • caballero • 80 ml (similar al chanel #1 l'eau rouge)",
-    "code": "h1c68jmm6z",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6808172b71217-nestor_parfum-h1c68jmm6z-wa7ei50wbrm.png",
-    "rawTitle": "ARMAF ETERNIA ITALIA EDP • CABALLERO • 80 ML (SIMILAR AL CHANEL #1 L'EAU ROUGE)",
-    "name": "Armaf Eternia Italia EDP",
-    "genero": "CABALLERO",
-    "size": "80 ML",
-    "note": "Similar Al Chanel #1 L'eau Rouge",
-    "bucket": "arabe",
-    "rawUsd": 35,
-    "rawBcv": 42,
-    "finalUsd": 39.38,
-    "finalBcv": 47.25
   },
   {
     "key": "lalique l insoumis edt • caballero • 100 ml",
