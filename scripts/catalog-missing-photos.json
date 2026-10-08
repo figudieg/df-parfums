@@ -45,11 +45,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "syur5vbweq",
-    "name": "Al Haramain Orientica Velvet Gold",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "lpir1gylb0b",
     "name": "Al Haramain Orientica Xo Exclusif OUD Blue",
     "categoryLabel": "Árabes"
@@ -57,6 +52,11 @@
   {
     "id": "9ea5l15epu9",
     "name": "Al Haramain Portfolio Neroli Canvas EDP",
+    "categoryLabel": "Árabes"
+  },
+  {
+    "id": "qq3dsl0199",
+    "name": "Armaf Club De Nuit EDP",
     "categoryLabel": "Árabes"
   },
   {
@@ -92,6 +92,11 @@
   {
     "id": "ci3g2fe10hh",
     "name": "Armaf Voyage Bleu EDP",
+    "categoryLabel": "Árabes"
+  },
+  {
+    "id": "d2tfegrysxv",
+    "name": "Ciel",
     "categoryLabel": "Árabes"
   },
   {
@@ -240,11 +245,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "702jq3qaupe",
-    "name": "Calvin Klein Ck Be",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "e4dhc4ddcvi",
     "name": "Calvin Klein Ck One",
     "categoryLabel": "Diseñador"
@@ -277,11 +277,6 @@
   {
     "id": "2mtfj1vp1os",
     "name": "Calvin Klein Escape",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "ehhbih1vdi",
-    "name": "Calvin Klein Obsession EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -327,11 +322,6 @@
   {
     "id": "c7chitnfeub",
     "name": "Carolina Herrera CH Men",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "5wnaju96rt2",
-    "name": "Carolina Herrera CH Sport",
     "categoryLabel": "Diseñador"
   },
   {
@@ -480,6 +470,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "wojyouqhhhi",
+    "name": "Guess Marciano EDP",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "mlj87k5yoh",
     "name": "Guess Night",
     "categoryLabel": "Diseñador"
@@ -550,6 +545,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "05eqe3hrt172",
+    "name": "Lancome Hypnose",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "v8iz7o24yhc",
     "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
@@ -612,11 +612,6 @@
   {
     "id": "9qd0fasyv1b",
     "name": "Nautica Voyage Sport",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "wbomf8nkfvd",
-    "name": "New Brand Master Essence Pink Gold EDP (Similar Al Olympea De Paco Rabanne)",
     "categoryLabel": "Diseñador"
   },
   {
@@ -716,11 +711,6 @@
   },
   {
     "id": "mnhcmezeopi",
-    "name": "Perry Ellis 360 Clásico",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "6r44toug488",
     "name": "Perry Ellis 360 Clásico",
     "categoryLabel": "Diseñador"
   },
@@ -982,11 +972,6 @@
   {
     "id": "qfqecoxbze",
     "name": "Cuba Silver ( Similar Al Farenheit)",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "v1b0zq0w39",
-    "name": "Cuba Victory",
     "categoryLabel": "Económico"
   },
   {
