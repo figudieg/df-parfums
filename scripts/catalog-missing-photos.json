@@ -95,16 +95,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "wb7hzzfd53g",
-    "name": "Armaf Ventana EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "ci3g2fe10hh",
-    "name": "Armaf Voyage Bleu EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "d2tfegrysxv",
     "name": "Ciel",
     "categoryLabel": "Árabes"
@@ -160,17 +150,12 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "n225to6eeaf",
-    "name": "Antonio Banderas Blue Seduction",
+    "id": "j0kjpi7hzhs",
+    "name": "Antonio Banderas Black Seduction",
     "categoryLabel": "Diseñador"
   },
   {
     "id": "idabo404nz",
-    "name": "Antonio Banderas Blue Seduction",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "yzqexok064",
     "name": "Antonio Banderas Blue Seduction",
     "categoryLabel": "Diseñador"
   },
@@ -265,11 +250,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "e4dhc4ddcvi",
-    "name": "Calvin Klein Ck One",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "vj9s5vuevuo",
     "name": "Calvin Klein Ck One Shock",
     "categoryLabel": "Diseñador"
@@ -292,6 +272,11 @@
   {
     "id": "ik7cnl3pr7c",
     "name": "Calvin Klein Defy",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "ehhbih1vdi",
+    "name": "Calvin Klein Obsession EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -332,11 +317,6 @@
   {
     "id": "xskn2fl1stg",
     "name": "Carolina Herrera Bad Boy Cobalt EDP",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "c7chitnfeub",
-    "name": "Carolina Herrera CH Men",
     "categoryLabel": "Diseñador"
   },
   {
@@ -405,6 +385,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "zqpvc6et5ok",
+    "name": "Davidoff Cool Water",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "p78tbaf4te",
     "name": "Davidoff Cool Water",
     "categoryLabel": "Diseñador"
@@ -467,11 +452,6 @@
   {
     "id": "nvhx9igy9cl",
     "name": "Guess Dare",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "vs1vxsd2w9",
-    "name": "Guess Marciano",
     "categoryLabel": "Diseñador"
   },
   {
@@ -605,13 +585,13 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "9qd0fasyv1b",
-    "name": "Nautica Voyage Sport",
+    "id": "x5p4li2sya",
+    "name": "Paco Rabanne Olympea Blossom Florale",
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "x5p4li2sya",
-    "name": "Paco Rabanne Olympea Blossom Florale",
+    "id": "kdvoa0nxdn",
+    "name": "Paco Rabanne Phantom Recargable",
     "categoryLabel": "Diseñador"
   },
   {
@@ -702,11 +682,6 @@
   {
     "id": "70h7w4fsh3e",
     "name": "Perry Ellis 18 Orchid EDP",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "mnhcmezeopi",
-    "name": "Perry Ellis 360 Clásico",
     "categoryLabel": "Diseñador"
   },
   {
@@ -821,11 +796,6 @@
   },
   {
     "id": "t6u7jklgidf",
-    "name": "Versace Eros EDT",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "lqjphyqi4yr",
     "name": "Versace Eros EDT",
     "categoryLabel": "Diseñador"
   },
@@ -1035,11 +1005,6 @@
     "categoryLabel": "Económico"
   },
   {
-    "id": "s2mprkkxfxi",
-    "name": "New Brand Extasia",
-    "categoryLabel": "Económico"
-  },
-  {
     "id": "mm58nvi9ki",
     "name": "New Brand Extasia Black EDT",
     "categoryLabel": "Económico"
@@ -1052,11 +1017,6 @@
   {
     "id": "0yw42yxibj2i",
     "name": "New Brand Forever",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "kh1zp5k0kpb",
-    "name": "New Brand Gold Women",
     "categoryLabel": "Económico"
   },
   {
