@@ -65,6 +65,11 @@
     "categoryLabel": "Árabes"
   },
   {
+    "id": "7d8xzodijln",
+    "name": "Armaf Club De Nuit Milestone",
+    "categoryLabel": "Árabes"
+  },
+  {
     "id": "m09syy0vo8a",
     "name": "Armaf Club De Nuit Sillage",
     "categoryLabel": "Árabes"
@@ -87,6 +92,11 @@
   {
     "id": "u49g65bdacj",
     "name": "Armaf Tres Nuit",
+    "categoryLabel": "Árabes"
+  },
+  {
+    "id": "wb7hzzfd53g",
+    "name": "Armaf Ventana EDP",
     "categoryLabel": "Árabes"
   },
   {
@@ -165,6 +175,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "8krbcfa82oy",
+    "name": "Ariana Grande Ari By Ariana Grande",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "qwitm3zk4o",
     "name": "Ariana Grande God Is A Woman",
     "categoryLabel": "Diseñador"
@@ -172,6 +187,11 @@
   {
     "id": "bji7zv67wg",
     "name": "Ariana Grande Sweet Like Candy",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "15ueu9vwgn3",
+    "name": "Ariana Grande Thank U Next",
     "categoryLabel": "Diseñador"
   },
   {
@@ -272,11 +292,6 @@
   {
     "id": "ik7cnl3pr7c",
     "name": "Calvin Klein Defy",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "2mtfj1vp1os",
-    "name": "Calvin Klein Escape",
     "categoryLabel": "Diseñador"
   },
   {
@@ -391,16 +406,6 @@
   },
   {
     "id": "p78tbaf4te",
-    "name": "Davidoff Cool Water",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "fzy1nfq1jud",
-    "name": "Davidoff Cool Water",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "zqpvc6et5ok",
     "name": "Davidoff Cool Water",
     "categoryLabel": "Diseñador"
   },
@@ -545,11 +550,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "05eqe3hrt172",
-    "name": "Lancome Hypnose",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "v8iz7o24yhc",
     "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
@@ -571,11 +571,6 @@
   },
   {
     "id": "dn0ukcublnw",
-    "name": "Mont Blanc Individuel",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "6onypbeq4ao",
     "name": "Mont Blanc Individuel",
     "categoryLabel": "Diseñador"
   },
