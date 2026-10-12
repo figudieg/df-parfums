@@ -10337,18 +10337,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67926a644bf8f-nestor_parfum-3u61juxrh9k-b9jiyc6ghhk.png"
   },
   {
-    "id": "gren9ui4z48",
-    "name": "Estuche Lattafa Eclaire EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "estuche",
-    "categoryLabel": "Estuche",
-    "priceUsd": 41.63,
-    "priceBcv": 49.95,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ddf0b8abe-nestor_parfum-gren9ui4z48-nhfa16d3as.png"
-  },
-  {
     "id": "e4gkp062tr",
     "name": "Estuche Lattafa Haya 3 Piezas",
     "genero": "Dama",
