@@ -309,18 +309,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64395bec80510-nestor_parfum-pmk0i7x38x-tkyx96qhz1.png"
   },
   {
-    "id": "lubxzd5whfa",
-    "name": "Armaf Club De Nuit Intense EDT",
-    "genero": "Caballero",
-    "size": "105 ML",
-    "note": "Similar Al Creed Aventus",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 50.63,
-    "priceBcv": 60.75,
-    "image": ""
-  },
-  {
     "id": "7d8xzodijln",
     "name": "Armaf Club De Nuit Milestone",
     "genero": "Unisex",
@@ -1273,6 +1261,18 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-678c13f3c5f9e-nestor_parfum-imyi2zenny-x4wcud72hxc.png"
   },
   {
+    "id": "88qv4s10tnt",
+    "name": "Lattafa Jasoor",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "arabe",
+    "categoryLabel": "Árabes",
+    "priceUsd": 40.5,
+    "priceBcv": 48.6,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d7496671f-nestor_parfum-88qv4s10tnt-krgn2bsp02.png"
+  },
+  {
     "id": "w88mjhq6cn",
     "name": "Lattafa Khamrah Qahwa EDP",
     "genero": "Unisex",
@@ -1933,18 +1933,6 @@ window.CATALOGO_NESTOR = [
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6ca22f00-nestor_parfum-uphp15ejlgd-2rt8locyoxm.png"
   },
   {
-    "id": "1oa8czyyl2x",
-    "name": "Nayaat Xlnc Collection Infinity EDP",
-    "genero": "Unusex",
-    "size": "200 ML",
-    "note": "",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 118.13,
-    "priceBcv": 141.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c9be361-nestor_parfum-1oa8czyyl2x-wjx8b1nl4eh.png"
-  },
-  {
     "id": "mladqkhitar",
     "name": "Orienfica Nayaat Xlnc Collection Titan",
     "genero": "Unisex",
@@ -2462,18 +2450,6 @@ window.CATALOGO_NESTOR = [
     "categoryLabel": "Diseñador",
     "priceUsd": 54,
     "priceBcv": 64.8,
-    "image": ""
-  },
-  {
-    "id": "1qghagwvjsv",
-    "name": "Animale EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 57.38,
-    "priceBcv": 68.85,
     "image": ""
   },
   {
@@ -3267,6 +3243,18 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 60.75,
     "priceBcv": 72.9,
     "image": ""
+  },
+  {
+    "id": "ytzyfkzlln",
+    "name": "Bentley Momentum",
+    "genero": "Caballero",
+    "size": "100 ML",
+    "note": "",
+    "category": "disenador",
+    "categoryLabel": "Diseñador",
+    "priceUsd": 47.25,
+    "priceBcv": 56.7,
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649c91f42ce80-nestor_parfum-ytzyfkzlln-71cotkhctse.png"
   },
   {
     "id": "6tjzk56a986",
@@ -9123,18 +9111,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 438.75,
     "priceBcv": 526.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6610081e0a40e-nestor_parfum-bduz2un2d6-ch0suo60mn.png"
-  },
-  {
-    "id": "ogkro7ktdb",
-    "name": "Creed Millesime Imperial EDP",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "",
-    "category": "nicho",
-    "categoryLabel": "Nicho",
-    "priceUsd": 455.63,
-    "priceBcv": 546.75,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1988995a94a-nestor_parfum-ogkro7ktdb-igwo6tgjygn.png"
   },
   {
     "id": "sgnbct01e7",

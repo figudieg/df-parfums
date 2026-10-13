@@ -1,5 +1,20 @@
 [
   {
+    "key": "lattafa jasoor • caballero • 100 ml",
+    "code": "88qv4s10tnt",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d7496671f-nestor_parfum-88qv4s10tnt-krgn2bsp02.png",
+    "rawTitle": "LATTAFA JASOOR • CABALLERO • 100 ML",
+    "name": "Lattafa Jasoor",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "arabe",
+    "rawUsd": 36,
+    "rawBcv": 43.2,
+    "finalUsd": 40.5,
+    "finalBcv": 48.6
+  },
+  {
     "key": "calvin klein ckin2u • caballero • 100 ml",
     "code": "qp2xy9nb0j8",
     "image": "",
@@ -718,21 +733,6 @@
     "rawBcv": 69.6,
     "finalUsd": 65.25,
     "finalBcv": 78.3
-  },
-  {
-    "key": "armaf club de nuit intense edt • caballero • 105 ml (similar al creed aventus)",
-    "code": "lubxzd5whfa",
-    "image": "",
-    "rawTitle": "ARMAF CLUB DE NUIT INTENSE EDT • CABALLERO • 105 ML (SIMILAR AL CREED AVENTUS)",
-    "name": "Armaf Club De Nuit Intense EDT",
-    "genero": "CABALLERO",
-    "size": "105 ML",
-    "note": "Similar Al Creed Aventus",
-    "bucket": "arabe",
-    "rawUsd": 45,
-    "rawBcv": 54,
-    "finalUsd": 50.63,
-    "finalBcv": 60.75
   },
   {
     "key": "moschino toy boy 2 edp • caballero • 100 ml",
@@ -4665,21 +4665,6 @@
     "finalBcv": 546.75
   },
   {
-    "key": "creed millesime imperial edp • unisex • 100 ml",
-    "code": "ogkro7ktdb",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1988995a94a-nestor_parfum-ogkro7ktdb-igwo6tgjygn.png",
-    "rawTitle": "CREED MILLESIME IMPERIAL EDP • UNISEX • 100 ML",
-    "name": "Creed Millesime Imperial EDP",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "nicho",
-    "rawUsd": 405,
-    "rawBcv": 486,
-    "finalUsd": 455.63,
-    "finalBcv": 546.75
-  },
-  {
     "key": "christian dior sauvage elixir • caballero • 100 ml",
     "code": "pfzirux5g5",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65d4de7fc35ec-nestor_parfum-pfzirux5g5-14s7of2z10mi.png",
@@ -7380,21 +7365,6 @@
     "finalBcv": 93.15
   },
   {
-    "key": "benetton united cactus • caballero • 100 ml",
-    "code": "gqjv42yyn1n",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d77826547-nestor_parfum-gqjv42yyn1n-hmw8mdg1a9g.png",
-    "rawTitle": "BENETTON UNITED CACTUS • CABALLERO • 100 ML",
-    "name": "Benetton United Cactus",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 33,
-    "rawBcv": 39.6,
-    "finalUsd": 37.13,
-    "finalBcv": 44.55
-  },
-  {
     "key": "maison alhambra bright peach • unisex • 80 ml",
     "code": "gj1ij3bps9l",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c066b695d-nestor_parfum-gj1ij3bps9l-qtbu8oon1bo.png",
@@ -7410,21 +7380,6 @@
     "finalBcv": 36.45
   },
   {
-    "key": "lattafa teriaq • dama • 100 ml (similar al paco rabanne pure xs)",
-    "code": "gqys0fnvyl",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675b3f2e65026-nestor_parfum-gqys0fnvyl-en83ygczkrs.png",
-    "rawTitle": "LATTAFA TERIAQ • DAMA • 100 ML (SIMILAR AL PACO RABANNE PURE XS)",
-    "name": "Lattafa Teriaq",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "Similar Al Paco Rabanne Pure Xs",
-    "bucket": "arabe",
-    "rawUsd": 45,
-    "rawBcv": 54,
-    "finalUsd": 50.63,
-    "finalBcv": 60.75
-  },
-  {
     "key": "paco rabanne phantom recargable edt • caballero • 200 ml",
     "code": "giy01yz8gj",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-655592a4cd374-nestor_parfum-giy01yz8gj-6sg02koc1jf.png",
@@ -7438,6 +7393,36 @@
     "rawBcv": 162,
     "finalUsd": 151.88,
     "finalBcv": 182.25
+  },
+  {
+    "key": "benetton united cactus • caballero • 100 ml",
+    "code": "gqjv42yyn1n",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d77826547-nestor_parfum-gqjv42yyn1n-hmw8mdg1a9g.png",
+    "rawTitle": "BENETTON UNITED CACTUS • CABALLERO • 100 ML",
+    "name": "Benetton United Cactus",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 33,
+    "rawBcv": 39.6,
+    "finalUsd": 37.13,
+    "finalBcv": 44.55
+  },
+  {
+    "key": "lattafa teriaq • dama • 100 ml (similar al paco rabanne pure xs)",
+    "code": "gqys0fnvyl",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-675b3f2e65026-nestor_parfum-gqys0fnvyl-en83ygczkrs.png",
+    "rawTitle": "LATTAFA TERIAQ • DAMA • 100 ML (SIMILAR AL PACO RABANNE PURE XS)",
+    "name": "Lattafa Teriaq",
+    "genero": "DAMA",
+    "size": "100 ML",
+    "note": "Similar Al Paco Rabanne Pure Xs",
+    "bucket": "arabe",
+    "rawUsd": 45,
+    "rawBcv": 54,
+    "finalUsd": 50.63,
+    "finalBcv": 60.75
   },
   {
     "key": "prada candy edp • dama • 80 ml",
@@ -7500,21 +7485,6 @@
     "finalBcv": 81
   },
   {
-    "key": "maktoub majesty edp • unisex • 100 ml",
-    "code": "gyv6zrrnpdp",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683fa9590ff94-nestor_parfum-gyv6zrrnpdp-2ehub828by7.png",
-    "rawTitle": "MAKTOUB MAJESTY EDP • UNISEX • 100 ML",
-    "name": "Maktoub Majesty EDP",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 80,
-    "rawBcv": 96,
-    "finalUsd": 90,
-    "finalBcv": 108
-  },
-  {
     "key": "l ' haya amber intense • unisex • 100 ml (similar al yves saint lauren m7 oud adsolu)",
     "code": "gg4kv19voah",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6866efae66994-nestor_parfum-gg4kv19voah-izibfk4pxyl.png",
@@ -7543,6 +7513,51 @@
     "rawBcv": 78,
     "finalUsd": 73.13,
     "finalBcv": 87.75
+  },
+  {
+    "key": "maktoub majesty edp • unisex • 100 ml",
+    "code": "gyv6zrrnpdp",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-683fa9590ff94-nestor_parfum-gyv6zrrnpdp-2ehub828by7.png",
+    "rawTitle": "MAKTOUB MAJESTY EDP • UNISEX • 100 ML",
+    "name": "Maktoub Majesty EDP",
+    "genero": "UNISEX",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "arabe",
+    "rawUsd": 80,
+    "rawBcv": 96,
+    "finalUsd": 90,
+    "finalBcv": 108
+  },
+  {
+    "key": "benetton colors sisterland stranger things edp • dama • 80 ml",
+    "code": "gftjxzn3t44",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c5359b8b3-nestor_parfum-gftjxzn3t44-68xu35ju93m.png",
+    "rawTitle": "BENETTON COLORS SISTERLAND STRANGER THINGS EDP • DAMA • 80 ML",
+    "name": "Benetton Colors Sisterland Stranger Things EDP",
+    "genero": "DAMA",
+    "size": "80 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 35,
+    "rawBcv": 42,
+    "finalUsd": 39.38,
+    "finalBcv": 47.25
+  },
+  {
+    "key": "prada la femme intense edp • dama • 100 ml",
+    "code": "gdp86lwxs4g",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6cef1255-nestor_parfum-gdp86lwxs4g-u9pajjvkye.png",
+    "rawTitle": "PRADA LA FEMME INTENSE EDP • DAMA • 100 ML",
+    "name": "Prada La Femme Intense EDP",
+    "genero": "DAMA",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 150,
+    "rawBcv": 180,
+    "finalUsd": 168.75,
+    "finalBcv": 202.5
   },
   {
     "key": "carolina herreara 212 vip black mini • caballero • 10 ml",
@@ -7575,34 +7590,34 @@
     "finalBcv": 47.25
   },
   {
-    "key": "benetton colors sisterland stranger things edp • dama • 80 ml",
-    "code": "gftjxzn3t44",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c5359b8b3-nestor_parfum-gftjxzn3t44-68xu35ju93m.png",
-    "rawTitle": "BENETTON COLORS SISTERLAND STRANGER THINGS EDP • DAMA • 80 ML",
-    "name": "Benetton Colors Sisterland Stranger Things EDP",
-    "genero": "DAMA",
-    "size": "80 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 35,
-    "rawBcv": 42,
-    "finalUsd": 39.38,
-    "finalBcv": 47.25
-  },
-  {
-    "key": "prada la femme intense edp • dama • 100 ml",
-    "code": "gdp86lwxs4g",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6cef1255-nestor_parfum-gdp86lwxs4g-u9pajjvkye.png",
-    "rawTitle": "PRADA LA FEMME INTENSE EDP • DAMA • 100 ML",
-    "name": "Prada La Femme Intense EDP",
-    "genero": "DAMA",
+    "key": "macarena king of kings take the throne private blend chapter ii edp • caballero • 100 ml",
+    "code": "g7cc7infq34",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1cb89fe5-nestor_parfum-g7cc7infq34-urxz3ezat4p.png",
+    "rawTitle": "MACARENA KING OF KINGS TAKE THE THRONE PRIVATE BLEND CHAPTER II EDP • CABALLERO • 100 ML",
+    "name": "Macarena King Of Kings Take The Throne Private Blend Chapter Ii EDP",
+    "genero": "CABALLERO",
     "size": "100 ML",
     "note": "",
-    "bucket": "disenador",
-    "rawUsd": 150,
-    "rawBcv": 180,
-    "finalUsd": 168.75,
-    "finalBcv": 202.5
+    "bucket": "arabe",
+    "rawUsd": 72,
+    "rawBcv": 86.4,
+    "finalUsd": 81,
+    "finalBcv": 97.2
+  },
+  {
+    "key": "nayaat collection naughty brew • unisex • 100 ml",
+    "code": "g6hv6s0a0h6",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c849af2-nestor_parfum-g6hv6s0a0h6-qp9x5ho2au.png",
+    "rawTitle": "NAYAAT COLLECTION NAUGHTY BREW • UNISEX • 100 ML",
+    "name": "Nayaat Collection Naughty Brew",
+    "genero": "UNISEX",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "arabe",
+    "rawUsd": 83,
+    "rawBcv": 99.6,
+    "finalUsd": 93.38,
+    "finalBcv": 112.05
   },
   {
     "key": "paco rabanne ultrared• caballero • 100 ml",
@@ -7648,36 +7663,6 @@
     "rawBcv": 248.4,
     "finalUsd": 232.88,
     "finalBcv": 279.45
-  },
-  {
-    "key": "nayaat xlnc collection infinity edp • unusex • 200 ml",
-    "code": "1oa8czyyl2x",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c9be361-nestor_parfum-1oa8czyyl2x-wjx8b1nl4eh.png",
-    "rawTitle": "NAYAAT XLNC COLLECTION INFINITY EDP • UNUSEX • 200 ML",
-    "name": "Nayaat Xlnc Collection Infinity EDP",
-    "genero": "UNUSEX",
-    "size": "200 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 105,
-    "rawBcv": 126,
-    "finalUsd": 118.13,
-    "finalBcv": 141.75
-  },
-  {
-    "key": "animale edp • dama • 100 ml",
-    "code": "1qghagwvjsv",
-    "image": "",
-    "rawTitle": "ANIMALE EDP • DAMA • 100 ML",
-    "name": "Animale EDP",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 51,
-    "rawBcv": 61.2,
-    "finalUsd": 57.38,
-    "finalBcv": 68.85
   },
   {
     "key": "issey miyake fusión • caballero • 100 ml",
@@ -10348,36 +10333,6 @@
     "rawBcv": 18,
     "finalUsd": 16.88,
     "finalBcv": 20.25
-  },
-  {
-    "key": "nayaat collection naughty brew • unisex • 100 ml",
-    "code": "g6hv6s0a0h6",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19b6c849af2-nestor_parfum-g6hv6s0a0h6-qp9x5ho2au.png",
-    "rawTitle": "NAYAAT COLLECTION NAUGHTY BREW • UNISEX • 100 ML",
-    "name": "Nayaat Collection Naughty Brew",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 83,
-    "rawBcv": 99.6,
-    "finalUsd": 93.38,
-    "finalBcv": 112.05
-  },
-  {
-    "key": "macarena king of kings take the throne private blend chapter ii edp • caballero • 100 ml",
-    "code": "g7cc7infq34",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e1cb89fe5-nestor_parfum-g7cc7infq34-urxz3ezat4p.png",
-    "rawTitle": "MACARENA KING OF KINGS TAKE THE THRONE PRIVATE BLEND CHAPTER II EDP • CABALLERO • 100 ML",
-    "name": "Macarena King Of Kings Take The Throne Private Blend Chapter Ii EDP",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 72,
-    "rawBcv": 86.4,
-    "finalUsd": 81,
-    "finalBcv": 97.2
   },
   {
     "key": "karl lagerfeld rouge eau de parfum • dama • 85 ml",
@@ -13288,6 +13243,21 @@
     "rawBcv": 56.4,
     "finalUsd": 52.88,
     "finalBcv": 63.45
+  },
+  {
+    "key": "bentley momentum • caballero • 100 ml",
+    "code": "ytzyfkzlln",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-649c91f42ce80-nestor_parfum-ytzyfkzlln-71cotkhctse.png",
+    "rawTitle": "BENTLEY MOMENTUM • CABALLERO • 100 ML",
+    "name": "Bentley Momentum",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "",
+    "bucket": "disenador",
+    "rawUsd": 42,
+    "rawBcv": 50.4,
+    "finalUsd": 47.25,
+    "finalBcv": 56.7
   },
   {
     "key": "lattafa taureau de combat • unusex • 100 ml",
