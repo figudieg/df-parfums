@@ -35,8 +35,8 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "syur5vbweq",
-    "name": "Al Haramain Orientica Velvet Gold",
+    "id": "pfch009s8pb",
+    "name": "Al Haramain Orientica Luxury Royal Amber",
     "categoryLabel": "Árabes"
   },
   {
@@ -57,11 +57,6 @@
   {
     "id": "xzvuz4y6g0f",
     "name": "Armaf Radical Blue EDP (Similar Al Lacoste 12 12 Noir)",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "u49g65bdacj",
-    "name": "Armaf Tres Nuit",
     "categoryLabel": "Árabes"
   },
   {
@@ -87,6 +82,11 @@
   {
     "id": "tmoooepyof",
     "name": "Orientica Royal Bleu EDP",
+    "categoryLabel": "Árabes"
+  },
+  {
+    "id": "syur5vbweq",
+    "name": "Orientica Velvet Gold",
     "categoryLabel": "Árabes"
   },
   {
@@ -140,6 +140,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "yzqexok064",
+    "name": "Antonio Banderas Blue Seduction",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "idabo404nz",
     "name": "Antonio Banderas Blue Seduction",
     "categoryLabel": "Diseñador"
@@ -152,11 +157,6 @@
   {
     "id": "qwitm3zk4o",
     "name": "Ariana Grande God Is A Woman",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "bji7zv67wg",
-    "name": "Ariana Grande Sweet Like Candy",
     "categoryLabel": "Diseñador"
   },
   {
@@ -240,11 +240,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "qp2xy9nb0j8",
-    "name": "Calvin Klein Ckin2u",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "dq1gtzdlobf",
     "name": "Calvin Klein Defy",
     "categoryLabel": "Diseñador"
@@ -282,6 +277,11 @@
   {
     "id": "a53duj4efd4",
     "name": "Carolina Herrera 212 Sexy",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "ymdy5mtpg8",
+    "name": "Carolina Herrera 212 VIP Rose",
     "categoryLabel": "Diseñador"
   },
   {
@@ -570,6 +570,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "gmdhbz2aaxq",
+    "name": "Paris Hilton Clásico",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "mqz5v9q5edk",
     "name": "Paris Hilton Clásico",
     "categoryLabel": "Diseñador"
@@ -622,6 +627,11 @@
   {
     "id": "djlb9kvkc2a",
     "name": "Perry Ellis 18 Sensual EDP",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "0x356cwrpxxq",
+    "name": "Perry Ellis 360 Clásico",
     "categoryLabel": "Diseñador"
   },
   {
@@ -960,11 +970,6 @@
     "categoryLabel": "Económico"
   },
   {
-    "id": "0yw42yxibj2i",
-    "name": "New Brand Forever",
-    "categoryLabel": "Económico"
-  },
-  {
     "id": "kh1zp5k0kpb",
     "name": "New Brand Gold Women",
     "categoryLabel": "Económico"
@@ -972,11 +977,6 @@
   {
     "id": "llkapybicc",
     "name": "New Brand Master Essence Gold EDP",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "967pzy7juq",
-    "name": "New Brand Master Essence Platinum",
     "categoryLabel": "Económico"
   },
   {
