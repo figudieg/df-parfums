@@ -140,11 +140,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "yzqexok064",
-    "name": "Antonio Banderas Blue Seduction",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "idabo404nz",
     "name": "Antonio Banderas Blue Seduction",
     "categoryLabel": "Diseñador"
@@ -485,11 +480,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "05eqe3hrt172",
-    "name": "Lancome Hypnose",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "v8iz7o24yhc",
     "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
@@ -585,8 +575,8 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "gmdhbz2aaxq",
-    "name": "Paris Hilton Clásico",
+    "id": "jh3qtn8xeu",
+    "name": "Paris Hilton Gold Rush",
     "categoryLabel": "Diseñador"
   },
   {
@@ -607,6 +597,11 @@
   {
     "id": "kynffg80rvg",
     "name": "Paris Hilton Platinum Rush",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "j23crmmwlpe",
+    "name": "Paris Hilton Rose Rush",
     "categoryLabel": "Diseñador"
   },
   {
