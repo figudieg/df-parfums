@@ -70,11 +70,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "cm5klhncufv",
-    "name": "Armaf Odyssey White",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "xzvuz4y6g0f",
     "name": "Armaf Radical Blue EDP (Similar Al Lacoste 12 12 Noir)",
     "categoryLabel": "Árabes"
@@ -485,18 +480,8 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "2gag6x5699q",
-    "name": "Guess Gold",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "zx8vpvh3xjc",
     "name": "Guess Gold",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "wojyouqhhhi",
-    "name": "Guess Marciano EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -620,6 +605,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "x5p4li2sya",
+    "name": "Paco Rabanne Olympea Blossom Florale",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "kdvoa0nxdn",
     "name": "Paco Rabanne Phantom Recargable",
     "categoryLabel": "Diseñador"
@@ -685,11 +675,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "j23crmmwlpe",
-    "name": "Paris Hilton Rose Rush",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "59fvpo6kald",
     "name": "Perry Ellis 18 EDP",
     "categoryLabel": "Diseñador"
@@ -737,11 +722,6 @@
   {
     "id": "g8f6oarnsz9",
     "name": "Perry Ellis 360 Pink",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "37r53gqacwe",
-    "name": "Perry Ellis 360 Red EDT",
     "categoryLabel": "Diseñador"
   },
   {
@@ -827,11 +807,6 @@
   {
     "id": "2cngkciiy0j",
     "name": "Versace Eau Fraiche",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "t6u7jklgidf",
-    "name": "Versace Eros EDT",
     "categoryLabel": "Diseñador"
   },
   {
