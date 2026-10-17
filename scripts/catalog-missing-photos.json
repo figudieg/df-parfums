@@ -25,11 +25,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "evt8kkebmw",
-    "name": "Al Haramain Amber OUD Gold EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "cbg5zi2agmk",
     "name": "Al Haramain Opulent Saffron",
     "categoryLabel": "Árabes"
@@ -67,6 +62,11 @@
   {
     "id": "bc2zf316aed",
     "name": "Armaf Club De Nuit Urban Man EDP",
+    "categoryLabel": "Árabes"
+  },
+  {
+    "id": "cm5klhncufv",
+    "name": "Armaf Odyssey White",
     "categoryLabel": "Árabes"
   },
   {
@@ -285,6 +285,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "e4dhc4ddcvi",
+    "name": "Calvin Klein Ck One",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "t0fgtiys8v",
     "name": "Calvin Klein Ck One",
     "categoryLabel": "Diseñador"
@@ -450,6 +455,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "6ly54l9ndyl",
+    "name": "Giorgio Armani Acqua Di Gio Profondo EDP",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "invz4k7krk",
     "name": "Giorgio Armani Si Clasica",
     "categoryLabel": "Diseñador"
@@ -482,6 +492,11 @@
   {
     "id": "zx8vpvh3xjc",
     "name": "Guess Gold",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "vs1vxsd2w9",
+    "name": "Guess Marciano",
     "categoryLabel": "Diseñador"
   },
   {
@@ -675,6 +690,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "j23crmmwlpe",
+    "name": "Paris Hilton Rose Rush",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "59fvpo6kald",
     "name": "Perry Ellis 18 EDP",
     "categoryLabel": "Diseñador"
@@ -715,13 +735,13 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "2hu39r0l66r",
-    "name": "Perry Ellis 360 Collection Noir",
+    "id": "g8f6oarnsz9",
+    "name": "Perry Ellis 360 Pink",
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "g8f6oarnsz9",
-    "name": "Perry Ellis 360 Pink",
+    "id": "37r53gqacwe",
+    "name": "Perry Ellis 360 Red EDT",
     "categoryLabel": "Diseñador"
   },
   {
@@ -1025,6 +1045,11 @@
     "categoryLabel": "Económico"
   },
   {
+    "id": "0yw42yxibj2i",
+    "name": "New Brand Forever",
+    "categoryLabel": "Económico"
+  },
+  {
     "id": "kh1zp5k0kpb",
     "name": "New Brand Gold Women",
     "categoryLabel": "Económico"
@@ -1032,6 +1057,11 @@
   {
     "id": "llkapybicc",
     "name": "New Brand Master Essence Gold EDP",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "967pzy7juq",
+    "name": "New Brand Master Essence Platinum",
     "categoryLabel": "Económico"
   },
   {
