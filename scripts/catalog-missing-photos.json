@@ -35,11 +35,6 @@
     "categoryLabel": "Árabes"
   },
   {
-    "id": "pfch009s8pb",
-    "name": "Al Haramain Orientica Luxury Royal Amber",
-    "categoryLabel": "Árabes"
-  },
-  {
     "id": "lpir1gylb0b",
     "name": "Al Haramain Orientica Xo Exclusif OUD Blue",
     "categoryLabel": "Árabes"
@@ -47,11 +42,6 @@
   {
     "id": "9ea5l15epu9",
     "name": "Al Haramain Portfolio Neroli Canvas EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "qq3dsl0199",
-    "name": "Armaf Club De Nuit EDP",
     "categoryLabel": "Árabes"
   },
   {
@@ -67,11 +57,6 @@
   {
     "id": "bc2zf316aed",
     "name": "Armaf Club De Nuit Urban Man EDP",
-    "categoryLabel": "Árabes"
-  },
-  {
-    "id": "cm5klhncufv",
-    "name": "Armaf Odyssey White",
     "categoryLabel": "Árabes"
   },
   {
@@ -122,11 +107,6 @@
   {
     "id": "h3iw0791uog",
     "name": "Abercrombie & Fich Authentic EDP",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "3180g06bh22",
-    "name": "Abercrombie & Fitch Authentic",
     "categoryLabel": "Diseñador"
   },
   {
@@ -242,11 +222,6 @@
   {
     "id": "f6ngf6p0ych",
     "name": "Burberry Touch EDP",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "i81ygwojuoj",
-    "name": "Bvlgari Aqua Marine",
     "categoryLabel": "Diseñador"
   },
   {
@@ -472,11 +447,6 @@
   {
     "id": "nvhx9igy9cl",
     "name": "Guess Dare",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "yxmidpnylds",
-    "name": "Guess Girl",
     "categoryLabel": "Diseñador"
   },
   {
@@ -760,11 +730,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "7uzapnr9x0n",
-    "name": "Ralph Lauren",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "dirphnvq59i",
     "name": "Ralph Lauren Polo Ralph EDP",
     "categoryLabel": "Diseñador"
@@ -790,6 +755,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "jl4aev2pjjh",
+    "name": "Tommy Hilfiger",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "dz2fb6tlaj",
     "name": "Tous Gold EDP",
     "categoryLabel": "Diseñador"
@@ -797,6 +767,11 @@
   {
     "id": "0u5vvw6ve1v9",
     "name": "Tous Touch The Original Gold",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "qlxxxbxr2t",
+    "name": "Versace Blue Jeans",
     "categoryLabel": "Diseñador"
   },
   {
@@ -822,11 +797,6 @@
   {
     "id": "t6u7jklgidf",
     "name": "Versace Eros EDT",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "pzjubf53vhh",
-    "name": "Versace Eros Flame EDP",
     "categoryLabel": "Diseñador"
   },
   {
