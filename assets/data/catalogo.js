@@ -2969,18 +2969,6 @@ window.CATALOGO_NESTOR = [
     "agotado": false
   },
   {
-    "id": "rx2yuhn9ljm",
-    "name": "Rasasi Hawas Kobra",
-    "genero": "Caballero",
-    "size": "100 ML",
-    "note": "Similar Al Tom Ford Noir Extreme",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 47.25,
-    "priceBcv": 56.7,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19ce808b271-nestor_parfum-rx2yuhn9ljm-35m9svhj3x8.png"
-  },
-  {
     "id": "eod8zsqeeup",
     "name": "Rasasi Hawas London EDP",
     "genero": "Caballero",
@@ -3039,18 +3027,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 42.75,
     "priceBcv": 51.3,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eb7ca45b5-nestor_parfum-wi5t7mxb48-4s1pvk138j2.png"
-  },
-  {
-    "id": "nq8dj16e37",
-    "name": "Stallion 53 EDP",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "Similar Al Santal 33",
-    "category": "arabe",
-    "categoryLabel": "Árabes",
-    "priceUsd": 36,
-    "priceBcv": 43.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67f01eb2ee26e-nestor_parfum-nq8dj16e37-k9dznngg3r.png"
   },
   {
     "id": "b8zwp2j91xp",
@@ -4301,18 +4277,6 @@ window.CATALOGO_NESTOR = [
     "image": ""
   },
   {
-    "id": "t0fgtiys8v",
-    "name": "Calvin Klein Ck One",
-    "genero": "Unisex",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 36,
-    "priceBcv": 43.2,
-    "image": ""
-  },
-  {
     "id": "25jrblh2vjx",
     "name": "Calvin Klein Ck One Gold EDT",
     "genero": "Unisex",
@@ -5523,18 +5487,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 101.25,
     "priceBcv": 121.5,
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d26f151f1-nestor_parfum-ez967lxix1c-aq82ti22npf.png"
-  },
-  {
-    "id": "vo9wva8ye3",
-    "name": "Dolce Gabbana Limperatrice",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "",
-    "category": "disenador",
-    "categoryLabel": "Diseñador",
-    "priceUsd": 54,
-    "priceBcv": 64.8,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a103dae512-nestor_parfum-vo9wva8ye3-eey9bm4p34f.png"
   },
   {
     "id": "kie05uaq97",
@@ -11283,18 +11235,6 @@ window.CATALOGO_NESTOR = [
     "priceUsd": 15.75,
     "priceBcv": 18.9,
     "image": ""
-  },
-  {
-    "id": "5z3lks4eddd",
-    "name": "Cuba Beauty EDP",
-    "genero": "Dama",
-    "size": "100 ML",
-    "note": "Similar Al Jean Paul Gaultier La Belle",
-    "category": "economico",
-    "categoryLabel": "Económico",
-    "priceUsd": 13.5,
-    "priceBcv": 16.2,
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65afed2d9208a-nestor_parfum-5z3lks4eddd-8l6zdjdarho.png"
   },
   {
     "id": "s6n83gihle",
