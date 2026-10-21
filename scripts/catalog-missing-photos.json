@@ -270,6 +270,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "702jq3qaupe",
+    "name": "Calvin Klein Ck Be",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "e4dhc4ddcvi",
     "name": "Calvin Klein Ck One",
     "categoryLabel": "Diseñador"
@@ -515,6 +520,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "asgv14w1iev",
+    "name": "Hugo Boss Cantimplora Verde",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "1qy69hmb7d3",
     "name": "Hugo Boss Dark Blue",
     "categoryLabel": "Diseñador"
@@ -527,6 +537,11 @@
   {
     "id": "1wt55wbu0fa",
     "name": "Hugo Boss Orange",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "42tbx5a4k07",
+    "name": "Issey Miyake Clasica",
     "categoryLabel": "Diseñador"
   },
   {
@@ -555,6 +570,11 @@
     "categoryLabel": "Diseñador"
   },
   {
+    "id": "rwfluzicx8",
+    "name": "Katy Perry Purr",
+    "categoryLabel": "Diseñador"
+  },
+  {
     "id": "qapebvirf2r",
     "name": "Kenzo Amour",
     "categoryLabel": "Diseñador"
@@ -562,11 +582,6 @@
   {
     "id": "7ku3ed0vdr",
     "name": "Lagerfeld Sun Moon Stars",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "v8iz7o24yhc",
-    "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -622,6 +637,11 @@
   {
     "id": "2aun7ucbanv",
     "name": "Moschino Toy 2 Bubble Gum",
+    "categoryLabel": "Diseñador"
+  },
+  {
+    "id": "5ashe9kc2j2",
+    "name": "Moschino Toy Boy",
     "categoryLabel": "Diseñador"
   },
   {
@@ -850,11 +870,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "8pqv4h73fpf",
-    "name": "Versace Bright Crystal",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "fr0nvpawwv4",
     "name": "Versace Bright Crystal Absolu",
     "categoryLabel": "Diseñador"
@@ -912,11 +927,6 @@
   {
     "id": "3tk2rbsn3ed",
     "name": "Viktor & Rolf Spicebomb Infrared",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "t2rgk2vvgr",
-    "name": "Yves Saint Laurent La Nuit De L' Homme EDT",
     "categoryLabel": "Diseñador"
   },
   {
@@ -1010,11 +1020,6 @@
     "categoryLabel": "Económico"
   },
   {
-    "id": "qfqecoxbze",
-    "name": "Cuba Silver ( Similar Al Farenheit)",
-    "categoryLabel": "Económico"
-  },
-  {
     "id": "v1b0zq0w39",
     "name": "Cuba Victory",
     "categoryLabel": "Económico"
@@ -1022,11 +1027,6 @@
   {
     "id": "v29m1afovj",
     "name": "Cuba VIP ( Similar Al 212 VIP Rose )",
-    "categoryLabel": "Económico"
-  },
-  {
-    "id": "tu52wbo3mn",
-    "name": "Cuba Wild Heart",
     "categoryLabel": "Económico"
   },
   {
