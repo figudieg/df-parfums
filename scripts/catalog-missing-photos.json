@@ -460,11 +460,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "dn2e88mfaeg",
-    "name": "Guess Clasico",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "l8l50bdkk6",
     "name": "Guess Clasico",
     "categoryLabel": "Diseñador"
@@ -492,11 +487,6 @@
   {
     "id": "1mng7418v2gh",
     "name": "Guess Seductive",
-    "categoryLabel": "Diseñador"
-  },
-  {
-    "id": "mbq0xh3r88",
-    "name": "Guess Seductive Red",
     "categoryLabel": "Diseñador"
   },
   {
@@ -565,13 +555,13 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "qapebvirf2r",
-    "name": "Kenzo Amour",
+    "id": "7ku3ed0vdr",
+    "name": "Lagerfeld Sun Moon Stars",
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "7ku3ed0vdr",
-    "name": "Lagerfeld Sun Moon Stars",
+    "id": "v8iz7o24yhc",
+    "name": "Lancome La Vie Est Belle EDP",
     "categoryLabel": "Diseñador"
   },
   {
@@ -830,11 +820,6 @@
     "categoryLabel": "Diseñador"
   },
   {
-    "id": "jl4aev2pjjh",
-    "name": "Tommy Hilfiger",
-    "categoryLabel": "Diseñador"
-  },
-  {
     "id": "5tnh0jiwcqt",
     "name": "Tommy Now",
     "categoryLabel": "Diseñador"
@@ -970,6 +955,11 @@
     "categoryLabel": "Estuche"
   },
   {
+    "id": "qitv3zmb8vo",
+    "name": "Cuba Authentic Dark EDP",
+    "categoryLabel": "Económico"
+  },
+  {
     "id": "446mx7ymsnl",
     "name": "Cuba Gold (Similar Al Jp Gaultier)",
     "categoryLabel": "Económico"
@@ -1072,6 +1062,11 @@
   {
     "id": "s2mprkkxfxi",
     "name": "New Brand Extasia",
+    "categoryLabel": "Económico"
+  },
+  {
+    "id": "mm58nvi9ki",
+    "name": "New Brand Extasia Black EDT",
     "categoryLabel": "Económico"
   },
   {
