@@ -1,5 +1,65 @@
 [
   {
+    "key": "lattafa art of universe eau de parfum • unisex • 100 ml (similar al blue talisman de ex nihilo )",
+    "code": "hyde84s6qsi",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68274b1a3d37f-nestor_parfum-hyde84s6qsi-y7porzq1u6f.png",
+    "rawTitle": "LATTAFA ART OF UNIVERSE EAU DE PARFUM • UNISEX • 100 ML (SIMILAR AL BLUE TALISMAN DE EX NIHILO )",
+    "name": "Lattafa Art Of Universe Eau De Parfum",
+    "genero": "UNISEX",
+    "size": "100 ML",
+    "note": "Similar Al Blue Talisman De Ex Nihilo",
+    "bucket": "arabe",
+    "rawUsd": 51,
+    "rawBcv": 61.2,
+    "finalUsd": 57.38,
+    "finalBcv": 68.85
+  },
+  {
+    "key": "armaf club de nuit iconic edp • caballero • 105 ml (similar al chanel bleu)",
+    "code": "x5xzzqvsax",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6463f4bde0441-nestor_parfum-x5xzzqvsax-gmbvz77etcs.png",
+    "rawTitle": "ARMAF CLUB DE NUIT ICONIC EDP • CABALLERO • 105 ML (SIMILAR AL CHANEL BLEU)",
+    "name": "Armaf Club De Nuit Iconic EDP",
+    "genero": "CABALLERO",
+    "size": "105 ML",
+    "note": "Similar Al Chanel Bleu",
+    "bucket": "arabe",
+    "rawUsd": 47,
+    "rawBcv": 56.4,
+    "finalUsd": 52.88,
+    "finalBcv": 63.45
+  },
+  {
+    "key": "cuba winner • caballero • 100 ml (similar al paco rabanne invictus)",
+    "code": "ya5njhb254",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63ec1fbfa99f0-nestor_parfum-ya5njhb254-uj8s201ix4l.png",
+    "rawTitle": "CUBA WINNER • CABALLERO • 100 ML (SIMILAR AL PACO RABANNE INVICTUS)",
+    "name": "Cuba Winner",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "Similar Al Paco Rabanne Invictus",
+    "bucket": "economico",
+    "rawUsd": 12,
+    "rawBcv": 14.4,
+    "finalUsd": 13.5,
+    "finalBcv": 16.2
+  },
+  {
+    "key": "cuba royal fortune • caballero • 100 ml (similar al paco rabanne one million lucky)",
+    "code": "n0zyouk7h0m",
+    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64c945be1d21c-nestor_parfum-n0zyouk7h0m-1sfycsy90eqi.png",
+    "rawTitle": "CUBA ROYAL FORTUNE • CABALLERO • 100 ML (SIMILAR AL PACO RABANNE ONE MILLION LUCKY)",
+    "name": "Cuba Royal Fortune",
+    "genero": "CABALLERO",
+    "size": "100 ML",
+    "note": "Similar Al Paco Rabanne One Million Lucky",
+    "bucket": "economico",
+    "rawUsd": 12,
+    "rawBcv": 14.4,
+    "finalUsd": 13.5,
+    "finalBcv": 16.2
+  },
+  {
     "key": "cuba authentic dark edp • caballero • 100 ml (similar al aoud night montale)",
     "code": "qitv3zmb8vo",
     "image": "",
@@ -133,21 +193,6 @@
     "rawBcv": 93.6,
     "finalUsd": 87.75,
     "finalBcv": 105.3
-  },
-  {
-    "key": "cuba royal fortune • caballero • 100 ml (similar al paco rabanne one million lucky)",
-    "code": "n0zyouk7h0m",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-64c945be1d21c-nestor_parfum-n0zyouk7h0m-1sfycsy90eqi.png",
-    "rawTitle": "CUBA ROYAL FORTUNE • CABALLERO • 100 ML (SIMILAR AL PACO RABANNE ONE MILLION LUCKY)",
-    "name": "Cuba Royal Fortune",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "Similar Al Paco Rabanne One Million Lucky",
-    "bucket": "economico",
-    "rawUsd": 12,
-    "rawBcv": 14.4,
-    "finalUsd": 13.5,
-    "finalBcv": 16.2
   },
   {
     "key": "valentino donna born in roma intense edp • dama • 100 ml",
@@ -345,21 +390,6 @@
     "finalBcv": 1485
   },
   {
-    "key": "louis vuitton symphony edp • unisex • 100 ml",
-    "code": "3h8niv5f3fd",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a15b28e4e1-nestor_parfum-3h8niv5f3fd-jiz493kd76c.png",
-    "rawTitle": "LOUIS VUITTON SYMPHONY EDP • UNISEX • 100 ML",
-    "name": "Louis Vuitton Symphony EDP",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 1100,
-    "rawBcv": 1320,
-    "finalUsd": 1237.5,
-    "finalBcv": 1485
-  },
-  {
     "key": "louis vuitton l'immensité edp • caballero • 100 ml",
     "code": "cp2ppppnbev",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19dbd6ef9fe-nestor_parfum-cp2ppppnbev-tm15ktl6j5n.png",
@@ -448,21 +478,6 @@
     "rawBcv": 105.6,
     "finalUsd": 99,
     "finalBcv": 118.8
-  },
-  {
-    "key": "lattafa art of universe eau de parfum • unisex • 100 ml (similar al blue talisman de ex nihilo )",
-    "code": "hyde84s6qsi",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-68274b1a3d37f-nestor_parfum-hyde84s6qsi-y7porzq1u6f.png",
-    "rawTitle": "LATTAFA ART OF UNIVERSE EAU DE PARFUM • UNISEX • 100 ML (SIMILAR AL BLUE TALISMAN DE EX NIHILO )",
-    "name": "Lattafa Art Of Universe Eau De Parfum",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "Similar Al Blue Talisman De Ex Nihilo",
-    "bucket": "arabe",
-    "rawUsd": 47,
-    "rawBcv": 56.4,
-    "finalUsd": 52.88,
-    "finalBcv": 63.45
   },
   {
     "key": "calvin klein ck be • unisex •100 ml",
@@ -660,21 +675,6 @@
     "finalBcv": 91.8
   },
   {
-    "key": "bharara king edp • caballero • 100 ml",
-    "code": "lniyld58mn",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/198fcb4179c-nestor_parfum-lniyld58mn-lm3rwh48nc.png",
-    "rawTitle": "BHARARA KING EDP • CABALLERO • 100 ML",
-    "name": "Bharara King EDP",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 83,
-    "rawBcv": 99.6,
-    "finalUsd": 93.38,
-    "finalBcv": 112.05
-  },
-  {
     "key": "ariana grande thank u next • dama • 100 ml",
     "code": "15ueu9vwgn3",
     "image": "",
@@ -688,21 +688,6 @@
     "rawBcv": 75.6,
     "finalUsd": 70.88,
     "finalBcv": 85.05
-  },
-  {
-    "key": "givenchy ange ou demon edp • dama • 100 ml",
-    "code": "12dru6j5iv4c",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66200e29e2a3f-nestor_parfum-12dru6j5iv4c-2ubcuevcevp.png",
-    "rawTitle": "GIVENCHY ANGE OU DEMON EDP • DAMA • 100 ML",
-    "name": "Givenchy Ange Ou Demon EDP",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 145,
-    "rawBcv": 174,
-    "finalUsd": 163.13,
-    "finalBcv": 195.75
   },
   {
     "key": "al haramain dubai night extrait de parfum • unisex • 100 ml (similar al montale arabians tonka)",
@@ -793,21 +778,6 @@
     "rawBcv": 61.2,
     "finalUsd": 57.38,
     "finalBcv": 68.85
-  },
-  {
-    "key": "tommy girl • dama • 100 ml",
-    "code": "g6qzctequcn",
-    "image": "",
-    "rawTitle": "TOMMY GIRL • DAMA • 100 ML",
-    "name": "Tommy Girl",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 44,
-    "rawBcv": 52.8,
-    "finalUsd": 49.5,
-    "finalBcv": 59.4
   },
   {
     "key": "rasasi hawas black edp • caballero • 100 ml",
@@ -1018,21 +988,6 @@
     "rawBcv": 42,
     "finalUsd": 39.38,
     "finalBcv": 47.25
-  },
-  {
-    "key": "emper le chameu arabia haya crush • dama • 100 ml",
-    "code": "gc98dlx7qvj",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-67b3b3f61214e-nestor_parfum-gc98dlx7qvj-z3kna1dg0no.png",
-    "rawTitle": "EMPER LE CHAMEU ARABIA HAYA CRUSH • DAMA • 100 ML",
-    "name": "Emper Le Chameu Arabia Haya Crush",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 30,
-    "rawBcv": 36,
-    "finalUsd": 33.75,
-    "finalBcv": 40.5
   },
   {
     "key": "davidoff cool water reborn • dama • 100 ml",
@@ -1468,21 +1423,6 @@
     "rawBcv": 12,
     "finalUsd": 11.25,
     "finalBcv": 13.5
-  },
-  {
-    "key": "cuba winner • caballero • 100 ml (similar al paco rabanne invictus)",
-    "code": "ya5njhb254",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-63ec1fbfa99f0-nestor_parfum-ya5njhb254-uj8s201ix4l.png",
-    "rawTitle": "CUBA WINNER • CABALLERO • 100 ML (SIMILAR AL PACO RABANNE INVICTUS)",
-    "name": "Cuba Winner",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "Similar Al Paco Rabanne Invictus",
-    "bucket": "economico",
-    "rawUsd": 12,
-    "rawBcv": 14.4,
-    "finalUsd": 13.5,
-    "finalBcv": 16.2
   },
   {
     "key": "bvlgari 4 piezas edt • dama • 5 ml",
@@ -2310,21 +2250,6 @@
     "finalBcv": 78.3
   },
   {
-    "key": "maison alhambra bright peach • unisex • 80 ml",
-    "code": "gj1ij3bps9l",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c066b695d-nestor_parfum-gj1ij3bps9l-qtbu8oon1bo.png",
-    "rawTitle": "MAISON ALHAMBRA BRIGHT PEACH • UNISEX • 80 ML",
-    "name": "Maison Alhambra Bright Peach",
-    "genero": "UNISEX",
-    "size": "80 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 27,
-    "rawBcv": 32.4,
-    "finalUsd": 30.38,
-    "finalBcv": 36.45
-  },
-  {
     "key": "armaf club de nuit iconic e trait edp • caballero • 70 ml",
     "code": "299p9k1hq7t",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/1a1407f3e7c-nestor_parfum-299p9k1hq7t-zy5ygmxj9xn.png",
@@ -2338,21 +2263,6 @@
     "rawBcv": 60,
     "finalUsd": 56.25,
     "finalBcv": 67.5
-  },
-  {
-    "key": "armaf odyssey mandarin sky edp • caballero • 100 ml (similar al jean paul gaultier scandal)",
-    "code": "505efwqdnho",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-658b4b40ab392-nestor_parfum-505efwqdnho-b7403yaunz.png",
-    "rawTitle": "ARMAF ODYSSEY MANDARIN SKY EDP • CABALLERO • 100 ML (SIMILAR AL JEAN PAUL GAULTIER SCANDAL)",
-    "name": "Armaf Odyssey Mandarin Sky EDP",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "Similar Al Jean Paul Gaultier Scandal",
-    "bucket": "arabe",
-    "rawUsd": 36,
-    "rawBcv": 43.2,
-    "finalUsd": 40.5,
-    "finalBcv": 48.6
   },
   {
     "key": "lattafa rave now white edp • unisex • 100 ml (similar bad boy le parfum)",
@@ -2595,21 +2505,6 @@
     "finalBcv": 27
   },
   {
-    "key": "lattafa pride pisa edp • caballero • 100 ml (similar al louis vuitton afteenoon swim)",
-    "code": "aic1oq2f64",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66eb176c169d6-nestor_parfum-aic1oq2f64-on010tzc5vb.png",
-    "rawTitle": "LATTAFA PRIDE PISA EDP • CABALLERO • 100 ML (SIMILAR AL LOUIS VUITTON AFTEENOON SWIM)",
-    "name": "Lattafa Pride Pisa EDP",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "Similar Al Louis Vuitton Afteenoon Swim",
-    "bucket": "arabe",
-    "rawUsd": 53,
-    "rawBcv": 63.6,
-    "finalUsd": 59.63,
-    "finalBcv": 71.55
-  },
-  {
     "key": "lattafa petra • dama • 100 ml (similar al parfums de marly vayala)",
     "code": "z9m05gl2mbs",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a9339e77b-nestor_parfum-z9m05gl2mbs-onfb96y6dka.png",
@@ -2835,21 +2730,6 @@
     "finalBcv": 39.15
   },
   {
-    "key": "armaf odyssey spectra • caballero • 200 ml",
-    "code": "o49f2ciuyt",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19c53c85a4c-nestor_parfum-o49f2ciuyt-dfu1apq8y2p.png",
-    "rawTitle": "ARMAF ODYSSEY SPECTRA • CABALLERO • 200 ML",
-    "name": "Armaf Odyssey Spectra",
-    "genero": "CABALLERO",
-    "size": "200 ML",
-    "note": "",
-    "bucket": "arabe",
-    "rawUsd": 36,
-    "rawBcv": 43.2,
-    "finalUsd": 40.5,
-    "finalBcv": 48.6
-  },
-  {
     "key": "armaf odyssey mandarin elixir • caballero • 60 ml (similar al scandal pour homme)",
     "code": "g7byhewuzzj",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/199219518b2-nestor_parfum-g7byhewuzzj-nzi7a1yo3f.png",
@@ -3028,21 +2908,6 @@
     "rawBcv": 32.4,
     "finalUsd": 30.38,
     "finalBcv": 36.45
-  },
-  {
-    "key": "antonio banderas blue seduction • caballero • 200 ml",
-    "code": "n225to6eeaf",
-    "image": "",
-    "rawTitle": "ANTONIO BANDERAS BLUE SEDUCTION • CABALLERO • 200 ML",
-    "name": "Antonio Banderas Blue Seduction",
-    "genero": "CABALLERO",
-    "size": "200 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 45,
-    "rawBcv": 54,
-    "finalUsd": 50.63,
-    "finalBcv": 60.75
   },
   {
     "key": "paris hilton clásico • dama • 100 ml",
@@ -4905,21 +4770,6 @@
     "finalBcv": 62.1
   },
   {
-    "key": "maison alhambra sceptre bronzite edp • unisex • 100 ml (similar al bvlgari tygar )",
-    "code": "k8790415a7s",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d92d7249e-nestor_parfum-k8790415a7s-e1vzuthk82s.png",
-    "rawTitle": "MAISON ALHAMBRA SCEPTRE BRONZITE EDP • UNISEX • 100 ML (SIMILAR AL BVLGARI TYGAR )",
-    "name": "Maison Alhambra Sceptre Bronzite EDP",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "Similar Al Bvlgari Tygar",
-    "bucket": "arabe",
-    "rawUsd": 30,
-    "rawBcv": 36,
-    "finalUsd": 33.75,
-    "finalBcv": 40.5
-  },
-  {
     "key": "assala prime candy pop edp • unisex • 100 ml (similar al yum pistachio gelato)",
     "code": "8skn3u7arr7",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19e610ee37d-nestor_parfum-8skn3u7arr7-5cxv7lohdf6.png",
@@ -5370,21 +5220,6 @@
     "finalBcv": 81
   },
   {
-    "key": "new brand oriental mona • dama • 100 ml",
-    "code": "87ye8bq3b2",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-687ffa99c5230-nestor_parfum-87ye8bq3b2-gww3pbc6hk.png",
-    "rawTitle": "NEW BRAND ORIENTAL MONA • DAMA • 100 ML",
-    "name": "New Brand Oriental Mona",
-    "genero": "DAMA",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "economico",
-    "rawUsd": 12,
-    "rawBcv": 14.4,
-    "finalUsd": 13.5,
-    "finalBcv": 16.2
-  },
-  {
     "key": "valentino born in roma purple melancholia • caballero • 100 ml $ 168,00",
     "code": "3oawb7345n2",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19eea43e980-nestor_parfum-3oawb7345n2-nvv3rrpj5o.png",
@@ -5458,21 +5293,6 @@
     "rawBcv": 12,
     "finalUsd": 11.25,
     "finalBcv": 13.5
-  },
-  {
-    "key": "carolina herrera bad boy • caballero • 100 ml",
-    "code": "8n7w5wgrsmy",
-    "image": "",
-    "rawTitle": "CAROLINA HERRERA BAD BOY • CABALLERO • 100 ML",
-    "name": "Carolina Herrera Bad Boy",
-    "genero": "CABALLERO",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 108,
-    "rawBcv": 129.6,
-    "finalUsd": 121.5,
-    "finalBcv": 145.8
   },
   {
     "key": "issey miyake magnolia intense • dama • 50 ml",
@@ -6195,21 +6015,6 @@
     "finalBcv": 90.45
   },
   {
-    "key": "orientica luxury collection amber noir edp • unisex • 80 ml (similar al santal 33)",
-    "code": "1op9lcqqiyy",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-65f480284a74b-nestor_parfum-1op9lcqqiyy-2t4he9zjmhe.png",
-    "rawTitle": "ORIENTICA LUXURY COLLECTION AMBER NOIR EDP • UNISEX • 80 ML (SIMILAR AL SANTAL 33)",
-    "name": "Orientica Luxury Collection Amber Noir EDP",
-    "genero": "UNISEX",
-    "size": "80 ML",
-    "note": "Similar Al Santal 33",
-    "bucket": "arabe",
-    "rawUsd": 74,
-    "rawBcv": 88.8,
-    "finalUsd": 83.25,
-    "finalBcv": 99.9
-  },
-  {
     "key": "givenchy very irresistible edp • dama • 75 ml",
     "code": "qtwfs6oslvm",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-66bbcadff22dc-nestor_parfum-qtwfs6oslvm-jv7s5gy9tek.png",
@@ -6840,21 +6645,6 @@
     "finalBcv": 59.4
   },
   {
-    "key": "jo milano game of spades full house parfum • unisex • 100 ml",
-    "code": "hugjqwy06hd",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19d92b244ea-nestor_parfum-hugjqwy06hd-s0hciv85tg9.png",
-    "rawTitle": "JO MILANO GAME OF SPADES FULL HOUSE PARFUM • UNISEX • 100 ML",
-    "name": "Jo Milano Game Of Spades Full House Parfum",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "disenador",
-    "rawUsd": 107,
-    "rawBcv": 128.4,
-    "finalUsd": 120.38,
-    "finalBcv": 144.45
-  },
-  {
     "key": "coach new york edp • dama • 90 ml",
     "code": "4ki6ecsjry8",
     "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/v01-6500dc0939591-nestor_parfum-4ki6ecsjry8-7rauylsabbh.png",
@@ -7258,21 +7048,6 @@
     "rawBcv": 60,
     "finalUsd": 56.25,
     "finalBcv": 67.5
-  },
-  {
-    "key": "estuche lattafa badee al oud amethyste 3 piezas • unisex • 100 ml",
-    "code": "hjsa66ofmk4",
-    "image": "https://vercatalogo101.nyc3.cdn.digitaloceanspaces.com/images/nestor_parfum/19a79ebdc64-nestor_parfum-hjsa66ofmk4-a5cor9bi8uq.png",
-    "rawTitle": "ESTUCHE LATTAFA BADEE AL OUD AMETHYSTE 3 PIEZAS • UNISEX • 100 ML",
-    "name": "Estuche Lattafa Badee Al OUD Amethyste 3 Piezas",
-    "genero": "UNISEX",
-    "size": "100 ML",
-    "note": "",
-    "bucket": "estuche",
-    "rawUsd": 54,
-    "rawBcv": 64.8,
-    "finalUsd": 60.75,
-    "finalBcv": 72.9
   },
   {
     "key": "benetton colors sisterland yellow peony 2 piezas edp • dama • 80 ml",
